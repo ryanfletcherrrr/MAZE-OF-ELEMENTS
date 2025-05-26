@@ -1,0 +1,5 @@
+BRIAN,COBCROFT,22,20226823,9 Waimahia Avenue,Computer Science,2025,false,Software Development,2022,null
+Ryan,Fletcher,20,20249277,123 auckland road,Computer Science,2025,false,Software,2024,null
+Ryan,Fletcher,20,20246589,123 abc street,COMP603,2025,false,software,2024,null
+Ryan,Fletcher,20,20248526,123 abc street,computer science,2024,false,software,2024,null
+Ryan,Fletcher,23,20242682,1 Botany Road,COMP603,2024,false,Software Development,2024,null

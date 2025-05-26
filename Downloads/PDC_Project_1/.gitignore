@@ -1,0 +1,14 @@
+# .gitignore
+*.class
+*.log
+*.ctxt
+.gradle/
+build/
+out/
+.idea/
+*.iml
+*.ipr
+*.iws
+.DS_Store
+/derby.log
+/studentDB/
