@@ -5,7 +5,7 @@
 package main;
 
 import javax.swing.SwingUtilities;
-import main.logic.StudentManager;
+import main.ui.GUI;
 //import main.file.FileHandler;
 //import main.file.FileManager;
 //import main.logic.IdGeneration;
@@ -49,7 +49,7 @@ public class Application {
         );
 
         system.start();
-    */
-        SwingUtilities.invokeLater(() -> new StudentManager());
+         */
+        SwingUtilities.invokeLater(() -> new GUI());
     }
 }

@@ -22,12 +22,13 @@ public class Student extends Person {
     private String major;
     private int yearOfEnrollment;
     private Integer yearOfGraduation;
+    private double grade;
 
     // ----- constructors -----
-    // Primary Use: Existing Students, Saving and Loading to HashMap or File
-    public Student(String firstName, String lastName, int age, int id, String address,
-            String course, int yearOfStudy, boolean graduated, String major,
-            int yearOfEnrollment, Integer yearOfGraduation) {
+    // Primary Use: ALL    
+    public Student(int id, String lastName, String firstName, int age, String course,
+            String major, String address, int yearOfStudy, int yearOfEnrollment,
+            boolean graduated, int yearOfGraduation, double grade) {
         super(firstName, lastName, age, address);
         this.id = id;
         this.course = course;
@@ -36,27 +37,14 @@ public class Student extends Person {
         this.major = major;
         this.yearOfEnrollment = yearOfEnrollment;
         this.yearOfGraduation = yearOfGraduation;
-    }
-
-    // Primary Use: New Students
-    public Student(String firstName, String lastName, int age, int id, String address,
-            String course, int yearOfStudy, boolean graduated, String major,
-            int yearOfEnrollment, int yearOfGraduation) {
-        super(firstName, lastName, age, address);
-        this.id = id;
-        this.course = course;
-        this.yearOfStudy = yearOfStudy;
-        this.graduated = graduated;
-        this.major = major;
-        this.yearOfEnrollment = yearOfEnrollment;
-        this.yearOfGraduation = (yearOfGraduation == 0) ? null : yearOfGraduation;
+        this.grade = grade;
     }
 
     // ----- getters -----
     public int getId() {
         return id;
     }
-    
+
     public String getCourse() {
         return course;
     }
@@ -79,6 +67,10 @@ public class Student extends Person {
 
     public Integer getYearOfGraduation() {
         return yearOfGraduation;
+    }
+
+    public double getGrade() {
+        return grade;
     }
 
     // ----- setters -----
@@ -106,6 +98,10 @@ public class Student extends Person {
         this.yearOfGraduation = yearOfGraduation;
     }
 
+    public void setGrade(double grade) {
+        this.grade = grade;
+    }
+
     // ----- toString -----
     @Override
     public String toString() {
@@ -118,7 +114,8 @@ public class Student extends Person {
                 + "\nMajor: " + major
                 + "\nYear of Study: " + yearOfStudy
                 + "\nYear of Enrollment: " + yearOfEnrollment
+                + "\nGraduated: " + graduated
                 + "\nYear of Graduation: " + yearOfGraduation
-                + "\nGraduated: " + graduated;
+                + "\nGrade: " + grade;
     }
 }

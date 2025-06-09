@@ -7,17 +7,13 @@ package main.ui;
 import java.awt.BorderLayout;
 import java.awt.Font;
 import java.awt.GridLayout;
-import java.util.Map;
 import javax.swing.BorderFactory;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.SwingConstants;
-import main.databse.DBManager;
-import main.logic.StudentHandler;
-import main.logic.StudentModifier;
-import main.model.Student;
+import main.logic.StudentManager;
 
 /**
  *
@@ -25,17 +21,10 @@ import main.model.Student;
  */
 public class GUI {
     private JFrame frame;
-    private DBManager dbHandler;
-    private Map<Integer, Student> students;
-    private StudentHandler studentHandler;
-    private StudentModifier studentModifier;
+    private StudentManager studentManager;
     
     public GUI() {
-        dbHandler = new DBManager();
-        students = dbHandler.loadStudents();
-        studentHandler = new StudentHandler();
-        studentModifier = new StudentModifier();
-        
+        studentManager = new StudentManager();
         initialize();
     }
     
@@ -60,7 +49,6 @@ public class GUI {
         JButton removeButton = new JButton("Remove Student");
         JButton exitButton = new JButton("Exit");
         
-        
         // Buttons for panel
         buttonPanel.add(findButton);
         buttonPanel.add(addButton);
@@ -79,26 +67,39 @@ public class GUI {
         updateButton.addActionListener(e -> updateStudent());
         removeButton.addActionListener(e -> removeStudent());
         exitButton.addActionListener(e -> {
-            dbHandler.close();
+            studentManager.close();
             frame.dispose();
         });
     }
 
-    // Methods
+    /* --------------- methods --------------- */
+    // For adding a specific student
+    private void addStudent() {
+        // prompt once individually per requirement
+        // show what has been done so far in a textbox (with scroll)
+        // when successful, it should show the id for the user to memorise
+    }
+
+    // For updating a specific student
+    private void updateStudent() {
+        //
+    }
+    
+    // For finding a specific student
     private void findStudent() {
         
     }
-
-    private void addStudent() {
+    
+    // For showing all students
+    private void showStudents() {
         
     }
 
-    private void updateStudent() {
-        
-    }
-
+    // For removing a specific student
     private void removeStudent() {
         
     }
+    
+    
     
 }

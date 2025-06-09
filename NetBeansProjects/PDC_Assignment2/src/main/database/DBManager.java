@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package main.databse;
+package main.database;
 
 import java.sql.Connection;
 import java.sql.DatabaseMetaData;
@@ -37,24 +37,25 @@ public class DBManager {
     private void createTable() throws SQLException {
         DatabaseMetaData dbm = conn.getMetaData();
         ResultSet tables = dbm.getTables(null, null, TABLE_NAME.toUpperCase(), null);
-        
+
         if (!tables.next()) {
-            String createTableSQL = 
-                "CREATE TABLE + students ("
-                + "id INTEGER PRIMARY KEY,"
-                + "last_name STRING(20) NOT NULL,"
-                + "first_name STRING(20) NOT NULL,"
-                + "grade VARCHAR(10),"
-                + "age INTEGER,"
-                + "course VARCHAR(50),"
-                + "major VARCHAR(50),"
-                + "address VARCHAR(100),"
-                + "year_of_study INTEGER,"
-                + "year_of_enrolment INTEGER,"
-                + "graduated BOOLEAN,"
-                + "year_of_graduation INTEGER"
-                + ")";
-            
+            String createTableSQL
+                    = "CREATE TABLE students ("
+                    + "id INTEGER PRIMARY KEY,"
+                    + "lastName VARCHAR(20) NOT NULL,"
+                    + "firstName VARCHAR(20) NOT NULL,"
+                    + "age INTEGER,"
+                    + "course VARCHAR(50),"
+                    + "major VARCHAR(50),"
+                    + "address VARCHAR(100),"
+                    + "yearOfStudy INTEGER,"
+                    + "yearOfEnrollment INTEGER,"
+                    + "graduated BOOLEAN,"
+                    + "yearOfGraduation INTEGER,"
+                    + "grade DOUBLE"
+                    + ")";
+
+
             try (Statement stmt = conn.createStatement()) {
                 stmt.execute(createTableSQL);
             }
@@ -69,19 +70,22 @@ public class DBManager {
              ResultSet rs = statement.executeQuery(query)) {
             while (rs.next()) {
                 Student student = new Student(
-                        rs.getString("firstName"),
-                        rs.getString("lastName"),
-                        rs.getInt("age"),
                         rs.getInt("id"),
-                        rs.getString("address"),
+                        rs.getString("lastName"),
+                        rs.getString("firstName"),
+                        rs.getInt("age"),
                         rs.getString("course"),
-                        rs.getInt("yearOfStudy"),
-                        rs.getBoolean("graduated"),
                         rs.getString("major"),
+                        rs.getString("address"),
+                        rs.getInt("yearOfStudy"),
                         rs.getInt("yearOfEnrollment"),
-                        rs.getInt("yearOfGraduation")
+                        rs.getBoolean("graduated"),
+                        rs.getInt("yearOfGraduation"),
+                        rs.getDouble("grade")
                 );
+
                 students.put(student.getId(), student);
+                System.out.println("Student's loaded from database!");
             }
         } catch (SQLException e) {
             e.printStackTrace();
