@@ -43,7 +43,7 @@ public class StudentDAO {
                     + "lastName VARCHAR(255) NOT NULL,"
                     + "firstName VARCHAR(255) NOT NULL,"
                     + "age INTEGER,"
-                    + "major VARCHAR(255),"
+                    + "course VARCHAR(255),"
                     + "address VARCHAR(255),"
                     + "academicYearLevel INT,"
                     + "yearOfEnrollment INT,"
@@ -67,7 +67,7 @@ public class StudentDAO {
                         rs.getString("lastName"),
                         rs.getString("firstName"),
                         rs.getInt("age"),
-                        rs.getString("major"),
+                        rs.getString("course"),
                         rs.getString("address"),
                         rs.getInt("academicYearLevel"),
                         rs.getInt("yearOfEnrollment"),
@@ -88,7 +88,7 @@ public class StudentDAO {
         stmt.setString(1, s.getLastName());
         stmt.setString(2, s.getFirstName());
         stmt.setInt(3, s.getAge());
-        stmt.setString(4, s.getMajor());
+        stmt.setString(4, s.getCourse());
         stmt.setString(5, s.getAddress());
         stmt.setInt(6, s.getAcademicYearLevel());
         stmt.setInt(7, s.getEnrollmentYear());
@@ -102,7 +102,7 @@ public class StudentDAO {
         stmt.setString(1, s.getLastName());
         stmt.setString(2, s.getFirstName());
         stmt.setInt(3, s.getAge());
-        stmt.setString(4, s.getMajor());
+        stmt.setString(4, s.getCourse());
         stmt.setString(5, s.getAddress());
         stmt.setInt(6, s.getAcademicYearLevel());
         stmt.setInt(7, s.getEnrollmentYear());
@@ -116,21 +116,21 @@ public class StudentDAO {
     public boolean saveStudent(Student s) {
         String checkSQL = "SELECT studentId FROM " + TABLE_NAME + " WHERE studentId = ?";
         String insertSQL = "INSERT INTO " + TABLE_NAME
-                + " (lastName, firstName, age, major, address, academicYearLevel, yearOfEnrollment, graduated, yearOfGraduation, grade) "
+                + " (lastName, firstName, age, course, address, academicYearLevel, yearOfEnrollment, graduated, yearOfGraduation, grade) "
                 + "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)";
         String updateSQL = "UPDATE " + TABLE_NAME
-                + " SET lastName=?, firstName=?, age=?, major=?, address=?, academicYearLevel=?, yearOfEnrollment=?, graduated=?, yearOfGraduation=?, grade=? "
+                + " SET lastName=?, firstName=?, age=?, course=?, address=?, academicYearLevel=?, yearOfEnrollment=?, graduated=?, yearOfGraduation=?, grade=? "
                 + "WHERE studentId=?";
 
         try ( PreparedStatement ck = conn.prepareStatement(checkSQL)) {
             ck.setInt(1, s.getStudentId());
             ResultSet rs = ck.executeQuery();
-            if (rs.next()) {    // update parameters                          
+            if (rs.next()) {
                 try ( PreparedStatement up = conn.prepareStatement(updateSQL)) {
                     setUpdateParams(up, s);
                     return up.executeUpdate() > 0;
                 }
-            } else {            // insert parameters                                     
+            } else {
                 try ( PreparedStatement ins = conn.prepareStatement(insertSQL, Statement.RETURN_GENERATED_KEYS)) {
                     setInsertParams(ins, s);
                     int n = ins.executeUpdate();

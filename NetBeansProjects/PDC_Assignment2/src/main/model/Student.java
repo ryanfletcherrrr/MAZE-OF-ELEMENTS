@@ -18,7 +18,7 @@ public class Student extends Person {
     private int studentId;
     private int academicYearLevel;
     private boolean hasGraduated;
-    private String course; // renamed from major
+    private String course;
     private int enrollmentYear;
     private int graduationYear;
     private double grade;
@@ -32,7 +32,7 @@ public class Student extends Person {
         this.studentId = studentId;
         this.academicYearLevel = academicYearLevel;
         this.hasGraduated = hasGraduated;
-        this.course = course; // renamed from major
+        this.course = course;
         this.enrollmentYear = enrollmentYear;
         this.graduationYear = graduationYear;
         this.grade = grade;
@@ -51,13 +51,7 @@ public class Student extends Person {
         return hasGraduated;
     }
 
-    public String getCourse() { // renamed from getMajor()
-        return course;
-    }
-
-    // Keeping getMajor() for backward compatibility if needed
-    @Deprecated
-    public String getMajor() {
+    public String getCourse() {
         return course;
     }
 
@@ -78,7 +72,6 @@ public class Student extends Person {
         this.studentId = studentId;
     }
 
-
     public void setAcademicYearLevel(int academicYearLevel) {
         this.academicYearLevel = academicYearLevel;
     }
@@ -87,14 +80,8 @@ public class Student extends Person {
         this.hasGraduated = hasGraduated;
     }
 
-    public void setCourse(String course) { // renamed from setMajor()
+    public void setCourse(String course) {
         this.course = course;
-    }
-
-    // Keeping setMajor() for backward compatibility if needed
-    @Deprecated
-    public void setMajor(String major) {
-        this.course = major;
     }
 
     public void setEnrollmentYear(int enrollmentYear) {
@@ -116,7 +103,7 @@ public class Student extends Person {
                 + "student Id=" + studentId
                 + ", Academic Year Level=" + academicYearLevel
                 + ", Has Graduated=" + hasGraduated
-                + ", course='" + course + '\'' // renamed from major
+                + ", course='" + course + '\''
                 + ", Enrollment Year=" + enrollmentYear
                 + ", Graduation Year=" + graduationYear
                 + ", Grade=" + grade
