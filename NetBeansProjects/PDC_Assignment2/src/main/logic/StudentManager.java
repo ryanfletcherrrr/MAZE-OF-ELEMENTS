@@ -54,25 +54,6 @@ public class StudentManager {
         }
     }
 
-    // Methods for student-course relationships
-    public boolean enrollStudentInCourse(int studentId, int courseId) {
-        try {
-            return studentCourseDAO.enrollStudentInCourse(studentId, courseId);
-        } catch (SQLException e) {
-            e.printStackTrace();
-            return false;
-        }
-    }
-
-    public boolean unenrollStudentFromCourse(int studentId, int courseId) {
-        try {
-            return studentCourseDAO.unenrollStudentFromCourse(studentId, courseId);
-        } catch (SQLException e) {
-            e.printStackTrace();
-            return false;
-        }
-    }
-
     // Get Course objects for a student
     public List<Course> getCoursesForStudentObjects(int studentId) {
         List<Integer> courseIds = getCoursesForStudent(studentId);
@@ -84,19 +65,6 @@ public class StudentManager {
             }
         }
         return courses;
-    }
-
-    // Get Student objects for a course
-    public List<Student> getStudentsForCourseObjects(int courseId) {
-        List<Integer> studentIds = getStudentsForCourse(courseId);
-        List<Student> studentList = new ArrayList<>();
-        for (int id : studentIds) {
-            Student s = students.get(id);
-            if (s != null) {
-                studentList.add(s);
-            }
-        }
-        return studentList;
     }
 
     // Getter Methods
@@ -146,13 +114,33 @@ public class StudentManager {
     }
 
     // Update an existing student
-    public boolean updateStudent(int id, Student updatedStudent) {
+    public boolean updateStudent(int id, Student updatedStudent, List<Integer> newCourseIds) {
         boolean result = studentDAO.saveStudent(updatedStudent);
         if (result) {
             students.put(id, updatedStudent);
+            updateStudentCourses(id, newCourseIds);
         }
         return result;
     }
+
+    private void updateStudentCourses(int studentId, java.util.List<Integer> newCourseIds) {
+        try {
+            java.util.List<Integer> oldCourseIds = studentCourseDAO.getCoursesForStudent(studentId);
+            for (int courseId : oldCourseIds) {
+                if (!newCourseIds.contains(courseId)) {
+                    studentCourseDAO.unenrollStudentFromCourse(studentId, courseId);
+                }
+            }
+            for (int courseId : newCourseIds) {
+                if (!oldCourseIds.contains(courseId)) {
+                    studentCourseDAO.enrollStudentInCourse(studentId, courseId);
+                }
+            }
+        } catch (Exception ex) {
+            ex.printStackTrace();
+        }
+    }
+
 
     // Remove an existing student
     public boolean removeStudent(int id) {
@@ -200,6 +188,8 @@ public class StudentManager {
         return studentsInCourse;
     }
 
+   
+    
     // Close the database; should be proceeded by exiting the program
     public void close() {
         DBManager.closeConnection();
