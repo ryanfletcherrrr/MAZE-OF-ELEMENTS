@@ -15,58 +15,58 @@ public class Student extends Person {
     //private String lastName;
     //private int age;
     //private String address;
-    private final int id;
-    private String course;
-    private int yearOfStudy;
-    private boolean graduated;
-    private String major;
-    private int yearOfEnrollment;
-    private Integer yearOfGraduation;
+    private int studentId;
+    private int academicYearLevel;
+    private boolean hasGraduated;
+    private String course; // renamed from major
+    private int enrollmentYear;
+    private int graduationYear;
     private double grade;
 
     // ----- constructors -----
     // Primary Use: ALL    
-    public Student(int id, String lastName, String firstName, int age, String course,
-            String major, String address, int yearOfStudy, int yearOfEnrollment,
-            boolean graduated, int yearOfGraduation, double grade) {
+    public Student(int studentId, String lastName, String firstName, int age,
+            String course, String address, int academicYearLevel, int enrollmentYear,
+            boolean hasGraduated, int graduationYear, double grade) {
         super(firstName, lastName, age, address);
-        this.id = id;
-        this.course = course;
-        this.yearOfStudy = yearOfStudy;
-        this.graduated = graduated;
-        this.major = major;
-        this.yearOfEnrollment = yearOfEnrollment;
-        this.yearOfGraduation = yearOfGraduation;
+        this.studentId = studentId;
+        this.academicYearLevel = academicYearLevel;
+        this.hasGraduated = hasGraduated;
+        this.course = course; // renamed from major
+        this.enrollmentYear = enrollmentYear;
+        this.graduationYear = graduationYear;
         this.grade = grade;
     }
 
     // ----- getters -----
-    public int getId() {
-        return id;
+    public int getStudentId() {
+        return studentId;
     }
 
-    public String getCourse() {
+    public int getAcademicYearLevel() {
+        return academicYearLevel;
+    }
+
+    public boolean hasGraduated() {
+        return hasGraduated;
+    }
+
+    public String getCourse() { // renamed from getMajor()
         return course;
     }
 
-    public int getYearOfStudy() {
-        return yearOfStudy;
-    }
-
-    public boolean isGraduated() {
-        return graduated;
-    }
-
+    // Keeping getMajor() for backward compatibility if needed
+    @Deprecated
     public String getMajor() {
-        return major;
+        return course;
     }
 
-    public int getYearOfEnrollment() {
-        return yearOfEnrollment;
+    public int getEnrollmentYear() {
+        return enrollmentYear;
     }
 
-    public Integer getYearOfGraduation() {
-        return yearOfGraduation;
+    public int getGraduationYear() {
+        return graduationYear;
     }
 
     public double getGrade() {
@@ -74,28 +74,35 @@ public class Student extends Person {
     }
 
     // ----- setters -----
-    public void setCourse(String course) {
+    public void setStudentId(int studentId) {
+        this.studentId = studentId;
+    }
+
+
+    public void setAcademicYearLevel(int academicYearLevel) {
+        this.academicYearLevel = academicYearLevel;
+    }
+
+    public void setHasGraduated(boolean hasGraduated) {
+        this.hasGraduated = hasGraduated;
+    }
+
+    public void setCourse(String course) { // renamed from setMajor()
         this.course = course;
     }
 
-    public void setYearOfStudy(int yearOfStudy) {
-        this.yearOfStudy = yearOfStudy;
-    }
-
-    public void setGraduated(boolean graduated) {
-        this.graduated = graduated;
-    }
-
+    // Keeping setMajor() for backward compatibility if needed
+    @Deprecated
     public void setMajor(String major) {
-        this.major = major;
+        this.course = major;
     }
 
-    public void setYearOfEnrollment(int yearOfEnrollment) {
-        this.yearOfEnrollment = yearOfEnrollment;
+    public void setEnrollmentYear(int enrollmentYear) {
+        this.enrollmentYear = enrollmentYear;
     }
 
-    public void setYearOfGraduation(int yearOfGraduation) {
-        this.yearOfGraduation = yearOfGraduation;
+    public void setGraduationYear(Integer graduationYear) {
+        this.graduationYear = graduationYear;
     }
 
     public void setGrade(double grade) {
@@ -105,17 +112,18 @@ public class Student extends Person {
     // ----- toString -----
     @Override
     public String toString() {
-        return "ID Number: " + id
-                + "\nLast Name: " + getLastName()
-                + "\nFirst Name: " + getFirstName()
-                + "\nAge: " + getAge()
-                + "\nAddress: " + getAddress()
-                + "\nCourse: " + course
-                + "\nMajor: " + major
-                + "\nYear of Study: " + yearOfStudy
-                + "\nYear of Enrollment: " + yearOfEnrollment
-                + "\nGraduated: " + graduated
-                + "\nYear of Graduation: " + yearOfGraduation
-                + "\nGrade: " + grade;
+        return "Student{"
+                + "student Id=" + studentId
+                + ", Academic Year Level=" + academicYearLevel
+                + ", Has Graduated=" + hasGraduated
+                + ", course='" + course + '\'' // renamed from major
+                + ", Enrollment Year=" + enrollmentYear
+                + ", Graduation Year=" + graduationYear
+                + ", Grade=" + grade
+                + ", First Name='" + getFirstName() + '\''
+                + ", last Name='" + getLastName() + '\''
+                + ", Age=" + getAge()
+                + ", Address='" + getAddress() + '\''
+                + '}';
     }
 }

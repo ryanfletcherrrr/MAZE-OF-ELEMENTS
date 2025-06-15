@@ -5,159 +5,35 @@
 package main.database;
 
 import java.sql.Connection;
-import java.sql.DatabaseMetaData;
 import java.sql.DriverManager;
-import java.sql.PreparedStatement;
-import java.sql.ResultSet;
 import java.sql.SQLException;
-import java.sql.Statement;
-import java.util.HashMap;
-import java.util.Map;
-import main.model.Student;
 
 /**
  *
- * @author ryanfletcher
+ * @author briancobcroft
  */
 public class DBManager {
-    private static final String DB_URL = "jdbc:derby:studentDB;create=true";
-    private static final String TABLE_NAME = "students";
-    
-    private Connection conn;
-    
-    public DBManager() {
-        try {
-            conn = DriverManager.getConnection(DB_URL);
-            createTable();
-        } catch (SQLException e) {
-            e.printStackTrace();
-        }
-    }
-    
-    private void createTable() throws SQLException {
-        DatabaseMetaData dbm = conn.getMetaData();
-        ResultSet tables = dbm.getTables(null, null, TABLE_NAME.toUpperCase(), null);
 
-        if (!tables.next()) {
-            String createTableSQL
-                    = "CREATE TABLE students ("
-                    + "id INTEGER PRIMARY KEY,"
-                    + "lastName VARCHAR(20) NOT NULL,"
-                    + "firstName VARCHAR(20) NOT NULL,"
-                    + "age INTEGER,"
-                    + "course VARCHAR(50),"
-                    + "major VARCHAR(50),"
-                    + "address VARCHAR(100),"
-                    + "yearOfStudy INTEGER,"
-                    + "yearOfEnrollment INTEGER,"
-                    + "graduated BOOLEAN,"
-                    + "yearOfGraduation INTEGER,"
-                    + "grade DOUBLE"
-                    + ")";
+    private static final String URL = "jdbc:derby:studentDB;create=true";
+    private static Connection conn;
 
+    // Get a connection to the database
+    public static Connection getConnection() throws SQLException {
+        if (conn == null || conn.isClosed()) {
+            conn = DriverManager.getConnection(URL);
+        }
+        return conn;
+    }
 
-            try (Statement stmt = conn.createStatement()) {
-                stmt.execute(createTableSQL);
-            }
-        }
-    }
-    
-    public Map<Integer, Student> loadStudents() {
-        Map<Integer, Student> students = new HashMap<>();
-        String query = "SELECT * FROM " + TABLE_NAME;
-        
-        try (Statement statement = conn.createStatement();
-             ResultSet rs = statement.executeQuery(query)) {
-            while (rs.next()) {
-                Student student = new Student(
-                        rs.getInt("id"),
-                        rs.getString("lastName"),
-                        rs.getString("firstName"),
-                        rs.getInt("age"),
-                        rs.getString("course"),
-                        rs.getString("major"),
-                        rs.getString("address"),
-                        rs.getInt("yearOfStudy"),
-                        rs.getInt("yearOfEnrollment"),
-                        rs.getBoolean("graduated"),
-                        rs.getInt("yearOfGraduation"),
-                        rs.getDouble("grade")
-                );
-
-                students.put(student.getId(), student);
-                System.out.println("Student's loaded from database!");
-            }
-        } catch (SQLException e) {
-            e.printStackTrace();
-        }
-        return students;
-    }
-    
-    //setStudentParameters method; new to this project
-    private void setStudentParameters(PreparedStatement statement, Student student) throws SQLException {
-        statement.setString(1, student.getFirstName());
-        statement.setString(2, student.getLastName());
-        statement.setInt(3, student.getAge());
-        statement.setString(4, student.getAddress());
-        statement.setString(5, student.getCourse());
-        statement.setInt(6, student.getYearOfStudy());
-        statement.setBoolean(7, student.isGraduated());
-        statement.setString(8, student.getMajor());
-        statement.setInt(9, student.getYearOfEnrollment());
-        statement.setInt(10, student.getYearOfGraduation() == null ? 0 : student.getYearOfGraduation());
-    }
-    
-    //saveStudents method
-    public boolean saveStudent(Student student) {
-        String checkSQL = "SELECT id FROM " + TABLE_NAME + " WHERE id = ?";
-        String insertSQL = "INSERT INTO " + TABLE_NAME + " VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)";
-        String updateSQL = "UPDATE " + TABLE_NAME + " SET firstName=?, lastName=?, age=?, address=?, "
-                + "course=?, yearOfStudy=?, graduated=?, major=?, yearOfEnrollment=?, yearOfGraduation=? "
-                + "WHERE id=?";
-        
-        try (PreparedStatement checkStmt = conn.prepareStatement(checkSQL)) {
-            checkStmt.setInt(1, student.getId());
-            ResultSet rs = checkStmt.executeQuery();
-            
-            if (rs.next()) {
-                try (PreparedStatement updateStmt = conn.prepareStatement(updateSQL)) {
-                    setStudentParameters(updateStmt, student);
-                    updateStmt.setInt(11, student.getId());
-                    return updateStmt.executeUpdate() > 0;
-                }
-            } else {
-                try (PreparedStatement insertStmt = conn.prepareStatement(insertSQL)) {
-                    insertStmt.setInt(1, student.getId());
-                    setStudentParameters(insertStmt, student);
-                    return insertStmt.executeUpdate() > 0;
-                }
-            }
-        } catch (SQLException e) {
-            e.printStackTrace();
-            return false;
-        }
-    }
-    
-    
-    public boolean removeStudent(int id) {
-        String sql = "DELETE FROM " + TABLE_NAME + " WHERE id = ?";
-        
-        try (PreparedStatement stmt = conn.prepareStatement(sql)) {
-            stmt.setInt(1, id);
-            return stmt.executeUpdate() > 0;
-        } catch (SQLException e) {
-            e.printStackTrace();
-            return false;
-        }
-    }
-    
-    public void close() {
-        try {
-            if (conn != null) {
+    // Close the connection to the database
+    public static void closeConnection() {
+        if (conn != null) {
+            try {
                 conn.close();
+            } catch (SQLException e) {
+                // Handle exception directly or log it
+                e.printStackTrace();
             }
-        } catch (SQLException e) {
-            e.printStackTrace();
         }
     }
 }
