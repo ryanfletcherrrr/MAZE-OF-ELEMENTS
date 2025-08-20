@@ -1,6 +1,6 @@
 [gd_scene load_steps=4 format=3 uid="uid://m7hpdl146psi"]
 
-[ext_resource type="PackedScene" uid="uid://n3jack0uwnfr" path="res://Scenes/Maps/fire_area.tscn" id="1_ccxyy"]
+[ext_resource type="PackedScene" uid="uid://crglfxl0sska6" path="res://Scenes/Maps/ancient cave.tscn" id="1_w1dfi"]
 [ext_resource type="PackedScene" uid="uid://cgh7x2o4w8tfm" path="res://Scenes/Player/player.tscn" id="2_w1dfi"]
 [ext_resource type="PackedScene" uid="uid://b7wbcaassjbe0" path="res://Scenes/Audio/audio_stream_player_2d.tscn" id="3_ccxyy"]
 
@@ -11,8 +11,10 @@ layout_mode = 3
 anchors_preset = 15
 anchor_right = 1.0
 anchor_bottom = 1.0
-offset_right = 3472.0
-offset_bottom = 1976.0
+offset_left = 48.0
+offset_top = 8.0
+offset_right = 3520.0
+offset_bottom = 1984.0
 grow_horizontal = 2
 grow_vertical = 2
 
@@ -35,11 +37,11 @@ size_2d_override = Vector2i(1920, 1080)
 size_2d_override_stretch = true
 render_target_update_mode = 4
 
-[node name="fire_area" parent="Control/SubViewportContainer" instance=ExtResource("1_ccxyy")]
-position = Vector2(467.037, 336.378)
+[node name="ancient cave" parent="Control" instance=ExtResource("1_w1dfi")]
+position = Vector2(8, 8)
 
-[node name="Player2D" parent="Control/SubViewportContainer" instance=ExtResource("2_w1dfi")]
-position = Vector2(1688, 1896)
+[node name="Player2D" parent="Control/ancient cave" instance=ExtResource("2_w1dfi")]
+position = Vector2(464, 664)
 
 [node name="AudioStreamPlayer2D" parent="." instance=ExtResource("3_ccxyy")]
 position = Vector2(504.462, 729.875)

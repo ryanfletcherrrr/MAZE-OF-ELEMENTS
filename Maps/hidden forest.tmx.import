@@ -1,0 +1,23 @@
+[remap]
+
+importer="YATI"
+type="PackedScene"
+uid="uid://be77njhmh4lxa"
+path="res://.godot/imported/hidden forest.tmx-e1ad5ada1f097060d9a0ce0c7ae074ed.tscn"
+
+[deps]
+
+source_file="res://Maps/hidden forest.tmx"
+dest_files=["res://.godot/imported/hidden forest.tmx-e1ad5ada1f097060d9a0ce0c7ae074ed.tscn"]
+
+[params]
+
+use_default_filter=false
+add_class_as_metadata=false
+add_id_as_metadata=false
+no_alternative_tiles=false
+map_wangset_to_terrain=false
+custom_data_prefix="data_"
+tiled_project_file=""
+post_processor=""
+save_tileset_to=""
