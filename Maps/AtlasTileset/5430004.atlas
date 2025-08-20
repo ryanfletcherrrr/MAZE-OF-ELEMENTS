@@ -1,0 +1,2106 @@
+
+5430004_1.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+celestic_cave
+  rotate: false
+  xy: 2,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+celestic_cave
+  rotate: false
+  xy: 36,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+celestic_cave
+  rotate: false
+  xy: 70,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+celestic_cave
+  rotate: false
+  xy: 104,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+celestic_cave
+  rotate: false
+  xy: 138,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 5
+celestic_cave
+  rotate: false
+  xy: 172,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 6
+celestic_cave
+  rotate: false
+  xy: 206,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 7
+celestic_cave
+  rotate: false
+  xy: 240,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 8
+celestic_cave
+  rotate: false
+  xy: 274,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 9
+celestic_cave
+  rotate: false
+  xy: 308,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 10
+celestic_cave
+  rotate: false
+  xy: 342,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 11
+celestic_cave
+  rotate: false
+  xy: 376,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 12
+celestic_cave
+  rotate: false
+  xy: 410,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 13
+celestic_cave
+  rotate: false
+  xy: 444,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 14
+celestic_cave
+  rotate: false
+  xy: 478,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 15
+celestic_cave
+  rotate: false
+  xy: 512,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 16
+celestic_cave
+  rotate: false
+  xy: 546,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 17
+celestic_cave
+  rotate: false
+  xy: 580,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 20
+celestic_cave
+  rotate: false
+  xy: 614,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 21
+celestic_cave
+  rotate: false
+  xy: 648,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 22
+celestic_cave
+  rotate: false
+  xy: 682,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 23
+celestic_cave
+  rotate: false
+  xy: 716,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 24
+celestic_cave
+  rotate: false
+  xy: 750,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 25
+celestic_cave
+  rotate: false
+  xy: 784,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 26
+celestic_cave
+  rotate: false
+  xy: 818,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 27
+celestic_cave
+  rotate: false
+  xy: 852,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 28
+celestic_cave
+  rotate: false
+  xy: 886,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 29
+celestic_cave
+  rotate: false
+  xy: 920,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 30
+celestic_cave
+  rotate: false
+  xy: 954,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 31
+celestic_cave
+  rotate: false
+  xy: 0,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 32
+celestic_cave
+  rotate: false
+  xy: 34,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 33
+celestic_cave
+  rotate: false
+  xy: 68,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 34
+celestic_cave
+  rotate: false
+  xy: 102,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 35
+celestic_cave
+  rotate: false
+  xy: 136,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 36
+celestic_cave
+  rotate: false
+  xy: 170,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 39
+celestic_cave
+  rotate: false
+  xy: 204,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 40
+celestic_cave
+  rotate: false
+  xy: 238,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 41
+celestic_cave
+  rotate: false
+  xy: 272,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 42
+celestic_cave
+  rotate: false
+  xy: 306,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 43
+celestic_cave
+  rotate: false
+  xy: 340,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 44
+celestic_cave
+  rotate: false
+  xy: 374,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 45
+celestic_cave
+  rotate: false
+  xy: 408,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 46
+celestic_cave
+  rotate: false
+  xy: 442,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 47
+celestic_cave
+  rotate: false
+  xy: 476,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 48
+celestic_cave
+  rotate: false
+  xy: 510,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 49
+celestic_cave
+  rotate: false
+  xy: 544,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 50
+celestic_cave
+  rotate: false
+  xy: 578,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 51
+celestic_cave
+  rotate: false
+  xy: 612,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 52
+celestic_cave
+  rotate: false
+  xy: 646,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 53
+celestic_cave
+  rotate: false
+  xy: 680,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 54
+celestic_cave
+  rotate: false
+  xy: 714,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 55
+celestic_cave
+  rotate: false
+  xy: 748,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 58
+celestic_cave
+  rotate: false
+  xy: 782,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 59
+celestic_cave
+  rotate: false
+  xy: 816,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 60
+celestic_cave
+  rotate: false
+  xy: 850,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 61
+celestic_cave
+  rotate: false
+  xy: 884,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 62
+celestic_cave
+  rotate: false
+  xy: 918,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 63
+celestic_cave
+  rotate: false
+  xy: 952,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 64
+celestic_cave
+  rotate: false
+  xy: 0,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 65
+celestic_cave
+  rotate: false
+  xy: 34,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 66
+celestic_cave
+  rotate: false
+  xy: 68,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 67
+celestic_cave
+  rotate: false
+  xy: 102,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 68
+celestic_cave
+  rotate: false
+  xy: 136,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 69
+celestic_cave
+  rotate: false
+  xy: 170,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 70
+celestic_cave
+  rotate: false
+  xy: 204,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 71
+celestic_cave
+  rotate: false
+  xy: 238,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 72
+celestic_cave
+  rotate: false
+  xy: 272,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 73
+celestic_cave
+  rotate: false
+  xy: 306,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 74
+celestic_cave
+  rotate: false
+  xy: 340,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 77
+celestic_cave
+  rotate: false
+  xy: 374,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 78
+celestic_cave
+  rotate: false
+  xy: 408,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 79
+celestic_cave
+  rotate: false
+  xy: 442,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 80
+celestic_cave
+  rotate: false
+  xy: 476,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 81
+celestic_cave
+  rotate: false
+  xy: 510,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 82
+celestic_cave
+  rotate: false
+  xy: 544,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 83
+celestic_cave
+  rotate: false
+  xy: 578,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 84
+celestic_cave
+  rotate: false
+  xy: 612,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 85
+celestic_cave
+  rotate: false
+  xy: 646,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 86
+celestic_cave
+  rotate: false
+  xy: 680,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 87
+celestic_cave
+  rotate: false
+  xy: 714,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 88
+celestic_cave
+  rotate: false
+  xy: 748,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 89
+celestic_cave
+  rotate: false
+  xy: 782,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 90
+celestic_cave
+  rotate: false
+  xy: 816,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 91
+celestic_cave
+  rotate: false
+  xy: 850,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 92
+celestic_cave
+  rotate: false
+  xy: 884,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 93
+celestic_cave
+  rotate: false
+  xy: 918,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 96
+celestic_cave
+  rotate: false
+  xy: 952,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 97
+celestic_cave
+  rotate: false
+  xy: 0,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 98
+celestic_cave
+  rotate: false
+  xy: 34,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 99
+celestic_cave
+  rotate: false
+  xy: 68,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 100
+celestic_cave
+  rotate: false
+  xy: 102,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 101
+celestic_cave
+  rotate: false
+  xy: 136,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 102
+celestic_cave
+  rotate: false
+  xy: 170,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 103
+celestic_cave
+  rotate: false
+  xy: 204,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 104
+celestic_cave
+  rotate: false
+  xy: 238,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 105
+celestic_cave
+  rotate: false
+  xy: 272,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 106
+celestic_cave
+  rotate: false
+  xy: 306,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 107
+celestic_cave
+  rotate: false
+  xy: 340,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 108
+celestic_cave
+  rotate: false
+  xy: 374,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 109
+celestic_cave
+  rotate: false
+  xy: 408,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 110
+celestic_cave
+  rotate: false
+  xy: 442,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 111
+celestic_cave
+  rotate: false
+  xy: 476,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 112
+celestic_cave
+  rotate: false
+  xy: 510,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 115
+celestic_cave
+  rotate: false
+  xy: 544,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 116
+celestic_cave
+  rotate: false
+  xy: 578,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 117
+celestic_cave
+  rotate: false
+  xy: 612,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 118
+celestic_cave
+  rotate: false
+  xy: 646,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 119
+celestic_cave
+  rotate: false
+  xy: 680,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 120
+celestic_cave
+  rotate: false
+  xy: 714,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 121
+celestic_cave
+  rotate: false
+  xy: 748,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 122
+celestic_cave
+  rotate: false
+  xy: 782,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 123
+celestic_cave
+  rotate: false
+  xy: 816,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 124
+celestic_cave
+  rotate: false
+  xy: 850,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 125
+celestic_cave
+  rotate: false
+  xy: 884,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 126
+celestic_cave
+  rotate: false
+  xy: 918,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 127
+celestic_cave
+  rotate: false
+  xy: 952,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 128
+celestic_cave
+  rotate: false
+  xy: 0,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 129
+celestic_cave
+  rotate: false
+  xy: 34,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 130
+celestic_cave
+  rotate: false
+  xy: 68,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 131
+celestic_cave
+  rotate: false
+  xy: 102,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 134
+celestic_cave
+  rotate: false
+  xy: 136,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 135
+celestic_cave
+  rotate: false
+  xy: 170,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 136
+celestic_cave
+  rotate: false
+  xy: 204,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 137
+celestic_cave
+  rotate: false
+  xy: 238,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 138
+celestic_cave
+  rotate: false
+  xy: 272,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 139
+celestic_cave
+  rotate: false
+  xy: 306,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 140
+celestic_cave
+  rotate: false
+  xy: 340,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 141
+celestic_cave
+  rotate: false
+  xy: 374,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 142
+celestic_cave
+  rotate: false
+  xy: 408,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 143
+celestic_cave
+  rotate: false
+  xy: 442,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 144
+celestic_cave
+  rotate: false
+  xy: 476,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 145
+celestic_cave
+  rotate: false
+  xy: 510,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 146
+celestic_cave
+  rotate: false
+  xy: 544,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 147
+celestic_cave
+  rotate: false
+  xy: 578,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 148
+celestic_cave
+  rotate: false
+  xy: 612,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 149
+celestic_cave
+  rotate: false
+  xy: 646,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 150
+celestic_cave
+  rotate: false
+  xy: 680,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 153
+celestic_cave
+  rotate: false
+  xy: 714,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 154
+celestic_cave
+  rotate: false
+  xy: 748,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 155
+celestic_cave
+  rotate: false
+  xy: 782,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 156
+celestic_cave
+  rotate: false
+  xy: 816,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 157
+celestic_cave
+  rotate: false
+  xy: 850,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 158
+celestic_cave
+  rotate: false
+  xy: 884,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 159
+celestic_cave
+  rotate: false
+  xy: 918,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 160
+celestic_cave
+  rotate: false
+  xy: 952,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 161
+celestic_cave
+  rotate: false
+  xy: 0,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 162
+celestic_cave
+  rotate: false
+  xy: 34,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 163
+celestic_cave
+  rotate: false
+  xy: 68,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 164
+celestic_cave
+  rotate: false
+  xy: 102,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 165
+celestic_cave
+  rotate: false
+  xy: 136,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 166
+celestic_cave
+  rotate: false
+  xy: 170,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 167
+celestic_cave
+  rotate: false
+  xy: 204,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 168
+celestic_cave
+  rotate: false
+  xy: 238,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 169
+celestic_cave
+  rotate: false
+  xy: 272,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 172
+celestic_cave
+  rotate: false
+  xy: 306,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 173
+celestic_cave
+  rotate: false
+  xy: 340,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 174
+celestic_cave
+  rotate: false
+  xy: 374,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 175
+celestic_cave
+  rotate: false
+  xy: 408,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 176
+celestic_cave
+  rotate: false
+  xy: 442,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 177
+celestic_cave
+  rotate: false
+  xy: 476,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 178
+celestic_cave
+  rotate: false
+  xy: 510,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 179
+celestic_cave
+  rotate: false
+  xy: 544,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 180
+celestic_cave
+  rotate: false
+  xy: 578,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 181
+celestic_cave
+  rotate: false
+  xy: 612,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 182
+celestic_cave
+  rotate: false
+  xy: 646,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 183
+celestic_cave
+  rotate: false
+  xy: 680,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 184
+celestic_cave
+  rotate: false
+  xy: 714,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 185
+celestic_cave
+  rotate: false
+  xy: 748,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 186
+celestic_cave
+  rotate: false
+  xy: 782,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 187
+celestic_cave
+  rotate: false
+  xy: 816,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 188
+celestic_cave
+  rotate: false
+  xy: 850,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 191
+celestic_cave
+  rotate: false
+  xy: 884,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 192
+celestic_cave
+  rotate: false
+  xy: 918,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 193
+celestic_cave
+  rotate: false
+  xy: 952,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 194
+celestic_cave
+  rotate: false
+  xy: 0,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 195
+celestic_cave
+  rotate: false
+  xy: 34,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 196
+celestic_cave
+  rotate: false
+  xy: 68,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 197
+celestic_cave
+  rotate: false
+  xy: 102,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 198
+celestic_cave
+  rotate: false
+  xy: 136,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 199
+celestic_cave
+  rotate: false
+  xy: 170,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 200
+celestic_cave
+  rotate: false
+  xy: 204,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 201
+celestic_cave
+  rotate: false
+  xy: 238,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 202
+celestic_cave
+  rotate: false
+  xy: 272,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 203
+celestic_cave
+  rotate: false
+  xy: 306,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 204
+celestic_cave
+  rotate: false
+  xy: 340,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 205
+celestic_cave
+  rotate: false
+  xy: 374,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 206
+celestic_cave
+  rotate: false
+  xy: 408,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 207
+celestic_cave
+  rotate: false
+  xy: 442,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 210
+celestic_cave
+  rotate: false
+  xy: 476,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 211
+celestic_cave
+  rotate: false
+  xy: 510,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 212
+celestic_cave
+  rotate: false
+  xy: 544,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 213
+celestic_cave
+  rotate: false
+  xy: 578,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 214
+celestic_cave
+  rotate: false
+  xy: 612,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 215
+celestic_cave
+  rotate: false
+  xy: 646,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 216
+celestic_cave
+  rotate: false
+  xy: 680,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 217
+celestic_cave
+  rotate: false
+  xy: 714,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 218
+celestic_cave
+  rotate: false
+  xy: 748,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 219
+celestic_cave
+  rotate: false
+  xy: 782,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 220
+celestic_cave
+  rotate: false
+  xy: 816,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 221
+celestic_cave
+  rotate: false
+  xy: 850,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 222
+celestic_cave
+  rotate: false
+  xy: 884,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 223
+celestic_cave
+  rotate: false
+  xy: 918,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 224
+celestic_cave
+  rotate: false
+  xy: 952,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 225
+celestic_cave
+  rotate: false
+  xy: 0,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 226
+celestic_cave
+  rotate: false
+  xy: 34,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 229
+celestic_cave
+  rotate: false
+  xy: 68,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 230
+celestic_cave
+  rotate: false
+  xy: 102,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 231
+celestic_cave
+  rotate: false
+  xy: 136,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 232
+celestic_cave
+  rotate: false
+  xy: 170,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 233
+celestic_cave
+  rotate: false
+  xy: 204,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 234
+celestic_cave
+  rotate: false
+  xy: 238,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 235
+celestic_cave
+  rotate: false
+  xy: 272,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 236
+celestic_cave
+  rotate: false
+  xy: 306,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 237
+celestic_cave
+  rotate: false
+  xy: 340,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 238
+celestic_cave
+  rotate: false
+  xy: 374,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 239
+celestic_cave
+  rotate: false
+  xy: 408,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 240
+celestic_cave
+  rotate: false
+  xy: 442,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 241
+celestic_cave
+  rotate: false
+  xy: 476,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 242
+celestic_cave
+  rotate: false
+  xy: 510,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 243
+celestic_cave
+  rotate: false
+  xy: 544,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 244
+celestic_cave
+  rotate: false
+  xy: 578,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 245
+celestic_cave
+  rotate: false
+  xy: 612,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 248
+celestic_cave
+  rotate: false
+  xy: 646,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 249
+celestic_cave
+  rotate: false
+  xy: 680,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 250
+celestic_cave
+  rotate: false
+  xy: 714,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 251
+celestic_cave
+  rotate: false
+  xy: 748,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 252
+celestic_cave
+  rotate: false
+  xy: 782,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 253
+celestic_cave
+  rotate: false
+  xy: 816,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 254
+celestic_cave
+  rotate: false
+  xy: 850,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 255
+celestic_cave
+  rotate: false
+  xy: 884,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 256
+celestic_cave
+  rotate: false
+  xy: 918,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 257
+celestic_cave
+  rotate: false
+  xy: 952,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 258
+celestic_cave
+  rotate: false
+  xy: 0,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 259
+celestic_cave
+  rotate: false
+  xy: 34,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 260
+celestic_cave
+  rotate: false
+  xy: 68,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 261
+celestic_cave
+  rotate: false
+  xy: 102,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 262
+celestic_cave
+  rotate: false
+  xy: 136,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 263
+celestic_cave
+  rotate: false
+  xy: 170,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 264
+celestic_cave
+  rotate: false
+  xy: 204,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 267
+celestic_cave
+  rotate: false
+  xy: 238,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 268
+celestic_cave
+  rotate: false
+  xy: 272,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 269
+celestic_cave
+  rotate: false
+  xy: 306,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 270
+celestic_cave
+  rotate: false
+  xy: 340,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 271
+celestic_cave
+  rotate: false
+  xy: 374,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 272
+celestic_cave
+  rotate: false
+  xy: 408,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 273
+celestic_cave
+  rotate: false
+  xy: 442,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 274
+celestic_cave
+  rotate: false
+  xy: 476,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 275
+celestic_cave
+  rotate: false
+  xy: 510,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 276
+celestic_cave
+  rotate: false
+  xy: 544,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 277
+celestic_cave
+  rotate: false
+  xy: 578,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 278
+celestic_cave
+  rotate: false
+  xy: 612,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 279
+celestic_cave
+  rotate: false
+  xy: 646,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 280
+celestic_cave
+  rotate: false
+  xy: 680,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 281
+celestic_cave
+  rotate: false
+  xy: 714,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 282
+celestic_cave
+  rotate: false
+  xy: 748,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 283
+celestic_cave
+  rotate: false
+  xy: 782,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 286
+celestic_cave
+  rotate: false
+  xy: 816,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 287
+celestic_cave
+  rotate: false
+  xy: 850,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 288
+celestic_cave
+  rotate: false
+  xy: 884,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 289
+celestic_cave
+  rotate: false
+  xy: 918,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 290
+celestic_cave
+  rotate: false
+  xy: 952,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 291
+celestic_cave
+  rotate: false
+  xy: 0,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 292
+celestic_cave
+  rotate: false
+  xy: 34,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 293
+celestic_cave
+  rotate: false
+  xy: 68,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 294
+celestic_cave
+  rotate: false
+  xy: 102,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 295
+celestic_cave
+  rotate: false
+  xy: 136,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 296
+celestic_cave
+  rotate: false
+  xy: 170,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 297
+celestic_cave
+  rotate: false
+  xy: 204,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 298
+celestic_cave
+  rotate: false
+  xy: 238,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 299
+celestic_cave
+  rotate: false
+  xy: 272,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 300
+celestic_cave
+  rotate: false
+  xy: 306,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 301
+celestic_cave
+  rotate: false
+  xy: 340,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 302
+celestic_cave
+  rotate: false
+  xy: 374,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 305
+celestic_cave
+  rotate: false
+  xy: 408,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 306
+celestic_cave
+  rotate: false
+  xy: 442,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 307
+celestic_cave
+  rotate: false
+  xy: 476,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 308
+celestic_cave
+  rotate: false
+  xy: 510,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 309
+celestic_cave
+  rotate: false
+  xy: 544,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 310
+celestic_cave
+  rotate: false
+  xy: 578,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 311
+celestic_cave
+  rotate: false
+  xy: 612,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 312
+celestic_cave
+  rotate: false
+  xy: 646,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 313
+celestic_cave
+  rotate: false
+  xy: 680,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 314
+celestic_cave
+  rotate: false
+  xy: 714,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 315
+celestic_cave
+  rotate: false
+  xy: 748,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 316
+celestic_cave
+  rotate: false
+  xy: 782,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 317
+celestic_cave
+  rotate: false
+  xy: 816,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 318
+celestic_cave
+  rotate: false
+  xy: 850,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 319
+celestic_cave
+  rotate: false
+  xy: 884,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 320
+celestic_cave
+  rotate: false
+  xy: 918,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 321
+celestic_cave
+  rotate: false
+  xy: 952,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 330
+celestic_cave
+  rotate: false
+  xy: 0,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 331
+celestic_cave
+  rotate: false
+  xy: 34,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 332
+celestic_cave
+  rotate: false
+  xy: 68,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 333
+celestic_cave
+  rotate: false
+  xy: 102,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 334
+celestic_cave
+  rotate: false
+  xy: 136,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 335
+celestic_cave
+  rotate: false
+  xy: 170,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 336
+celestic_cave
+  rotate: false
+  xy: 204,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 351
+celestic_cave
+  rotate: false
+  xy: 238,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 352
+celestic_cave
+  rotate: false
+  xy: 272,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 353
+GFX1
+  rotate: false
+  xy: 306,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0

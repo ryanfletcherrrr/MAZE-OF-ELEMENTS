@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ofm5dj2xaq74"
+path="res://.godot/imported/1-06. Pallet Town.mp3-f1890a0676c80c91535702be0c6f016e.mp3str"
+
+[deps]
+
+source_file="res://Resources/Audio/1-06. Pallet Town.mp3"
+dest_files=["res://.godot/imported/1-06. Pallet Town.mp3-f1890a0676c80c91535702be0c6f016e.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,3093 @@
+
+100002_1.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 2,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 36,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 70,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 104,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 138,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 172,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 5
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 206,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 6
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 240,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 7
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 274,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 8
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 308,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 9
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 342,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 10
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 376,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 11
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 410,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 12
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 444,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 13
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 478,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 14
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 512,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 15
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 546,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 16
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 580,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 17
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 614,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 20
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 648,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 23
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 682,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 24
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 716,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 26
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 750,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 27
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 784,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 32
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 818,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 33
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 852,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 34
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 886,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 35
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 920,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 36
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 954,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 37
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 988,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 38
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1022,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 39
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1056,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 40
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1090,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 41
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1124,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 42
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1158,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 43
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1192,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 44
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1226,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 45
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1260,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 46
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1294,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 47
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1328,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 48
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1362,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 49
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1396,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 50
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1430,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 51
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1464,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 52
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1498,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 53
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1532,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 54
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1566,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 55
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1600,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 56
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1634,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 58
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1668,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 59
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1702,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 64
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1736,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 65
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1770,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 66
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1804,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 67
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1838,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 68
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1872,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 69
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1906,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 70
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1940,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 71
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1974,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 72
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 2008,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 73
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 0,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 74
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 34,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 75
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 68,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 76
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 102,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 77
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 136,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 78
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 170,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 79
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 204,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 80
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 238,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 81
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 272,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 82
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 306,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 83
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 340,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 84
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 374,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 85
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 408,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 86
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 442,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 87
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 476,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 88
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 510,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 89
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 544,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 96
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 578,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 97
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 612,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 98
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 646,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 99
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 680,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 100
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 714,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 101
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 748,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 102
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 782,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 103
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 816,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 104
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 850,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 105
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 884,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 106
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 918,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 107
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 952,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 108
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 986,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 109
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1020,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 110
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1054,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 111
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1088,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 112
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1122,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 113
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1156,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 117
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1190,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 118
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1224,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 120
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1258,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 121
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1292,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 123
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1326,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 128
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1360,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 129
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1394,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 130
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1428,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 131
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1462,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 132
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1496,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 133
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1530,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 134
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1564,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 135
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1598,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 136
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1632,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 137
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1666,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 138
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1700,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 139
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1734,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 140
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1768,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 141
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1802,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 142
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1836,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 143
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1870,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 144
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1904,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 145
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1938,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 150
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1972,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 152
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 2006,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 153
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 0,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 154
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 34,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 160
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 68,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 161
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 102,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 162
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 136,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 163
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 170,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 164
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 204,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 165
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 238,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 166
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 272,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 167
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 306,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 168
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 340,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 169
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 374,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 170
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 408,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 171
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 442,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 172
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 476,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 173
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 510,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 174
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 544,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 175
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 578,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 176
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 612,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 177
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 646,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 190
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 680,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 191
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 714,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 192
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 748,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 193
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 782,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 194
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 816,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 195
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 850,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 196
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 884,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 197
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 918,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 198
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 952,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 199
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 986,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 200
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1020,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 201
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1054,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 202
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1088,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 203
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1122,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 204
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1156,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 205
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1190,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 206
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1224,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 207
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1258,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 208
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1292,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 209
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1326,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 222
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1360,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 223
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1394,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 224
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1428,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 225
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1462,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 226
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1496,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 227
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1530,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 228
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1564,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 229
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1598,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 230
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1632,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 231
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1666,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 232
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1700,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 233
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1734,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 234
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1768,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 235
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1802,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 236
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1836,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 237
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1870,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 238
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1904,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 239
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1938,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 240
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1972,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 241
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 2006,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 252
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 0,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 253
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 34,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 254
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 68,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 256
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 102,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 257
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 136,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 258
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 170,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 259
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 204,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 260
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 238,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 261
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 272,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 262
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 306,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 263
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 340,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 264
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 374,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 265
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 408,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 266
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 442,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 267
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 476,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 268
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 510,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 269
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 544,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 270
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 578,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 271
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 612,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 272
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 646,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 273
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 680,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 284
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 714,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 285
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 748,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 286
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 782,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 288
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 816,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 289
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 850,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 290
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 884,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 291
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 918,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 292
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 952,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 293
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 986,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 294
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1020,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 295
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1054,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 297
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1088,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 298
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1122,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 300
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1156,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 301
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1190,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 302
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1224,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 316
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1258,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 317
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1292,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 318
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1326,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 320
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1360,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 321
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1394,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 322
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1428,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 323
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1462,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 324
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1496,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 325
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1530,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 326
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1564,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 327
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1598,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 328
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1632,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 329
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1666,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 330
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1700,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 331
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1734,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 352
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1768,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 353
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1802,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 354
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1836,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 355
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1870,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 356
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1904,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 357
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1938,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 358
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1972,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 359
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 2006,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 360
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 0,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 361
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 34,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 362
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 68,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 363
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 102,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 384
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 136,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 385
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 170,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 386
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 204,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 387
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 238,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 388
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 272,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 389
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 306,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 390
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 340,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 391
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 374,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 392
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 408,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 393
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 442,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 394
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 476,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 395
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 510,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 416
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 544,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 417
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 578,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 418
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 612,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 419
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 646,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 421
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 680,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 422
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 714,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 424
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 748,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 425
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 782,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 426
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 816,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 427
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 850,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 448
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 884,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 449
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 918,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 450
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 952,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 451
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 986,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 452
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1020,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 453
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1054,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 454
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1088,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 455
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1122,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 456
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1156,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 457
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1190,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 458
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1224,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 459
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1258,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 480
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1292,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 481
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1326,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 482
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1360,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 483
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1394,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 484
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1428,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 485
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1462,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 486
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1496,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 487
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1530,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 488
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1564,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 489
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1598,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 490
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1632,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 491
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1666,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 512
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1700,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 513
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1734,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 514
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1768,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 515
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1802,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 516
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1836,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 517
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1870,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 518
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1904,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 519
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1938,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 520
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1972,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 521
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 2006,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 522
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 0,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 523
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 34,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 544
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 68,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 545
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 102,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 546
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 136,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 547
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 170,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 548
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 204,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 549
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 238,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 550
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 272,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 551
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 306,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 553
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 340,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 554
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 374,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 576
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 408,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 577
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 442,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 578
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 476,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 579
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 510,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 580
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 544,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 581
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 578,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 582
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 612,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 583
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 646,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 584
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 680,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 585
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 714,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 586
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 748,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 587
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 782,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 608
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 816,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 609
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 850,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 610
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 884,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 611
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 918,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 612
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 952,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 613
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 986,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 614
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1020,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 615
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1054,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 616
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1088,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 617
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1122,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 618
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1156,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 619
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1190,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 640
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1224,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 641
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1258,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 642
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1292,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 643
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1326,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 644
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1360,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 645
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1394,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 646
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1428,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 647
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1462,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 648
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1496,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 649
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1530,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 650
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1564,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 651
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1598,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 673
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1632,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 674
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1666,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 677
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1700,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 678
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1734,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 680
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1768,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 681
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1802,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 682
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1836,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 683
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1870,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 704
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1904,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 705
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1938,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 706
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 1972,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 707
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 2006,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 708
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 0,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 709
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 34,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 710
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 68,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 711
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 102,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 712
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 136,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 713
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 170,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 714
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 204,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 715
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 238,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 721
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 272,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 753
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 306,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 785
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 340,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 818
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 374,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 820
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 408,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 822
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 442,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 829
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 476,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 850
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 510,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 851
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 544,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 852
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 578,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 853
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 612,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 854
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 646,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 882
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 680,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 883
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 714,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 884
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 748,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 885
+JohtoOutdoorHalloween
+  rotate: false
+  xy: 782,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 886
+JohtoOutdoor
+  rotate: false
+  xy: 816,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 84
+JohtoOutdoor
+  rotate: false
+  xy: 850,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 116
+JohtoOutdoor
+  rotate: false
+  xy: 884,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 275
+JohtoOutdoor
+  rotate: false
+  xy: 918,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 337
+GFX1
+  rotate: false
+  xy: 952,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+GFX1
+  rotate: false
+  xy: 986,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+JohtoOutdoorHalloween2
+  rotate: false
+  xy: 1020,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+JohtoOutdoorHalloween2
+  rotate: false
+  xy: 1054,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+JohtoOutdoorHalloween2
+  rotate: false
+  xy: 1088,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+JohtoOutdoorHalloween2
+  rotate: false
+  xy: 1122,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 128
+JohtoOutdoorHalloween2
+  rotate: false
+  xy: 1156,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 129
+JohtoOutdoorHalloween2
+  rotate: false
+  xy: 1190,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 130
+JohtoOutdoorHalloween2
+  rotate: false
+  xy: 1224,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 160
+JohtoOutdoorHalloween2
+  rotate: false
+  xy: 1258,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 161
+JohtoOutdoorHalloween2
+  rotate: false
+  xy: 1292,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 162
+JohtoOutdoorHalloween2
+  rotate: false
+  xy: 1326,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 163
+JohtoOutdoorHalloween2
+  rotate: false
+  xy: 1360,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 164
+JohtoOutdoorHalloween2
+  rotate: false
+  xy: 1394,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 192
+JohtoOutdoorHalloween2
+  rotate: false
+  xy: 1428,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 193
+JohtoOutdoorHalloween2
+  rotate: false
+  xy: 1462,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 194
+JohtoOutdoorHalloween2
+  rotate: false
+  xy: 1496,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 195
+JohtoOutdoorHalloween2
+  rotate: false
+  xy: 1530,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 196
+JohtoOutdoor2
+  rotate: false
+  xy: 1564,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 190
+JohtoOutdoor2
+  rotate: false
+  xy: 1598,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 222
+JohtoOutdoor2
+  rotate: false
+  xy: 1632,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 254
+JohtoFXHalloween
+  rotate: false
+  xy: 1666,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 480
+JohtoFXHalloween
+  rotate: false
+  xy: 1700,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 481
+JohtoFXHalloween
+  rotate: false
+  xy: 1734,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 482
+JohtoFXHalloween
+  rotate: false
+  xy: 1768,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 483
+JohtoFXHalloween
+  rotate: false
+  xy: 1802,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 512
+JohtoFXHalloween
+  rotate: false
+  xy: 1836,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 513
+JohtoFXHalloween
+  rotate: false
+  xy: 1870,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 514
+JohtoFXHalloween
+  rotate: false
+  xy: 1904,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 515
+JohtoFXHalloween
+  rotate: false
+  xy: 1938,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 576
+JohtoFXHalloween
+  rotate: false
+  xy: 1972,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 577
+JohtoFXHalloween
+  rotate: false
+  xy: 2006,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 578
+JohtoFXHalloween
+  rotate: false
+  xy: 0,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 579
+JohtoFXHalloween
+  rotate: false
+  xy: 34,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 608
+JohtoFXHalloween
+  rotate: false
+  xy: 68,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 609
+JohtoFXHalloween
+  rotate: false
+  xy: 102,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 610
+JohtoFXHalloween
+  rotate: false
+  xy: 136,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 611
+JohtoFXHalloween
+  rotate: false
+  xy: 170,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 640
+JohtoFXHalloween
+  rotate: false
+  xy: 204,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 641
+JohtoFXHalloween
+  rotate: false
+  xy: 238,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 642
+JohtoFXHalloween
+  rotate: false
+  xy: 272,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 643
+JohtoFXHalloween
+  rotate: false
+  xy: 306,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 672
+JohtoFXHalloween
+  rotate: false
+  xy: 340,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 673
+JohtoFXHalloween
+  rotate: false
+  xy: 374,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 674
+JohtoFXHalloween
+  rotate: false
+  xy: 408,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 675
+JohtoFXHalloween
+  rotate: false
+  xy: 442,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 704
+JohtoFXHalloween
+  rotate: false
+  xy: 476,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 705
+JohtoFXHalloween
+  rotate: false
+  xy: 510,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 706
+JohtoFXHalloween
+  rotate: false
+  xy: 544,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 707
+JohtoFXHalloween
+  rotate: false
+  xy: 578,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 736
+JohtoFXHalloween
+  rotate: false
+  xy: 612,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 737
+JohtoFXHalloween
+  rotate: false
+  xy: 646,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 738
+JohtoFXHalloween
+  rotate: false
+  xy: 680,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 739

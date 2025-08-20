@@ -1,0 +1,5424 @@
+
+5920001_1.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+battle_tower
+  rotate: false
+  xy: 2,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+battle_tower
+  rotate: false
+  xy: 36,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+battle_tower
+  rotate: false
+  xy: 70,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+battle_tower
+  rotate: false
+  xy: 104,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+battle_tower
+  rotate: false
+  xy: 138,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 5
+battle_tower
+  rotate: false
+  xy: 172,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 6
+battle_tower
+  rotate: false
+  xy: 206,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 7
+battle_tower
+  rotate: false
+  xy: 240,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 8
+battle_tower
+  rotate: false
+  xy: 274,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 9
+battle_tower
+  rotate: false
+  xy: 308,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 10
+battle_tower
+  rotate: false
+  xy: 342,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 11
+battle_tower
+  rotate: false
+  xy: 376,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 12
+battle_tower
+  rotate: false
+  xy: 410,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 13
+battle_tower
+  rotate: false
+  xy: 444,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 14
+battle_tower
+  rotate: false
+  xy: 478,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 15
+battle_tower
+  rotate: false
+  xy: 512,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 16
+battle_tower
+  rotate: false
+  xy: 546,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 17
+battle_tower
+  rotate: false
+  xy: 580,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 18
+battle_tower
+  rotate: false
+  xy: 614,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 19
+battle_tower
+  rotate: false
+  xy: 648,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 20
+battle_tower
+  rotate: false
+  xy: 682,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 21
+battle_tower
+  rotate: false
+  xy: 716,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 22
+battle_tower
+  rotate: false
+  xy: 750,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 23
+battle_tower
+  rotate: false
+  xy: 784,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 24
+battle_tower
+  rotate: false
+  xy: 818,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 25
+battle_tower
+  rotate: false
+  xy: 852,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 26
+battle_tower
+  rotate: false
+  xy: 886,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 27
+battle_tower
+  rotate: false
+  xy: 920,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 28
+battle_tower
+  rotate: false
+  xy: 954,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 29
+battle_tower
+  rotate: false
+  xy: 0,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 33
+battle_tower
+  rotate: false
+  xy: 34,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 34
+battle_tower
+  rotate: false
+  xy: 68,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 35
+battle_tower
+  rotate: false
+  xy: 102,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 36
+battle_tower
+  rotate: false
+  xy: 136,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 37
+battle_tower
+  rotate: false
+  xy: 170,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 38
+battle_tower
+  rotate: false
+  xy: 204,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 39
+battle_tower
+  rotate: false
+  xy: 238,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 40
+battle_tower
+  rotate: false
+  xy: 272,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 41
+battle_tower
+  rotate: false
+  xy: 306,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 42
+battle_tower
+  rotate: false
+  xy: 340,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 43
+battle_tower
+  rotate: false
+  xy: 374,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 44
+battle_tower
+  rotate: false
+  xy: 408,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 45
+battle_tower
+  rotate: false
+  xy: 442,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 46
+battle_tower
+  rotate: false
+  xy: 476,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 47
+battle_tower
+  rotate: false
+  xy: 510,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 48
+battle_tower
+  rotate: false
+  xy: 544,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 49
+battle_tower
+  rotate: false
+  xy: 578,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 50
+battle_tower
+  rotate: false
+  xy: 612,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 51
+battle_tower
+  rotate: false
+  xy: 646,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 52
+battle_tower
+  rotate: false
+  xy: 680,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 53
+battle_tower
+  rotate: false
+  xy: 714,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 54
+battle_tower
+  rotate: false
+  xy: 748,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 55
+battle_tower
+  rotate: false
+  xy: 782,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 56
+battle_tower
+  rotate: false
+  xy: 816,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 57
+battle_tower
+  rotate: false
+  xy: 850,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 58
+battle_tower
+  rotate: false
+  xy: 884,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 59
+battle_tower
+  rotate: false
+  xy: 918,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 60
+battle_tower
+  rotate: false
+  xy: 952,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 61
+battle_tower
+  rotate: false
+  xy: 0,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 65
+battle_tower
+  rotate: false
+  xy: 34,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 66
+battle_tower
+  rotate: false
+  xy: 68,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 67
+battle_tower
+  rotate: false
+  xy: 102,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 68
+battle_tower
+  rotate: false
+  xy: 136,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 69
+battle_tower
+  rotate: false
+  xy: 170,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 70
+battle_tower
+  rotate: false
+  xy: 204,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 71
+battle_tower
+  rotate: false
+  xy: 238,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 72
+battle_tower
+  rotate: false
+  xy: 272,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 73
+battle_tower
+  rotate: false
+  xy: 306,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 74
+battle_tower
+  rotate: false
+  xy: 340,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 75
+battle_tower
+  rotate: false
+  xy: 374,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 76
+battle_tower
+  rotate: false
+  xy: 408,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 77
+battle_tower
+  rotate: false
+  xy: 442,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 78
+battle_tower
+  rotate: false
+  xy: 476,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 79
+battle_tower
+  rotate: false
+  xy: 510,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 80
+battle_tower
+  rotate: false
+  xy: 544,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 81
+battle_tower
+  rotate: false
+  xy: 578,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 82
+battle_tower
+  rotate: false
+  xy: 612,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 83
+battle_tower
+  rotate: false
+  xy: 646,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 84
+battle_tower
+  rotate: false
+  xy: 680,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 85
+battle_tower
+  rotate: false
+  xy: 714,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 86
+battle_tower
+  rotate: false
+  xy: 748,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 87
+battle_tower
+  rotate: false
+  xy: 782,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 88
+battle_tower
+  rotate: false
+  xy: 816,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 89
+battle_tower
+  rotate: false
+  xy: 850,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 90
+battle_tower
+  rotate: false
+  xy: 884,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 91
+battle_tower
+  rotate: false
+  xy: 918,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 92
+battle_tower
+  rotate: false
+  xy: 952,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 93
+battle_tower
+  rotate: false
+  xy: 0,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 97
+battle_tower
+  rotate: false
+  xy: 34,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 98
+battle_tower
+  rotate: false
+  xy: 68,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 99
+battle_tower
+  rotate: false
+  xy: 102,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 100
+battle_tower
+  rotate: false
+  xy: 136,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 101
+battle_tower
+  rotate: false
+  xy: 170,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 102
+battle_tower
+  rotate: false
+  xy: 204,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 103
+battle_tower
+  rotate: false
+  xy: 238,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 104
+battle_tower
+  rotate: false
+  xy: 272,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 105
+battle_tower
+  rotate: false
+  xy: 306,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 106
+battle_tower
+  rotate: false
+  xy: 340,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 107
+battle_tower
+  rotate: false
+  xy: 374,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 108
+battle_tower
+  rotate: false
+  xy: 408,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 109
+battle_tower
+  rotate: false
+  xy: 442,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 110
+battle_tower
+  rotate: false
+  xy: 476,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 111
+battle_tower
+  rotate: false
+  xy: 510,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 112
+battle_tower
+  rotate: false
+  xy: 544,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 113
+battle_tower
+  rotate: false
+  xy: 578,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 114
+battle_tower
+  rotate: false
+  xy: 612,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 115
+battle_tower
+  rotate: false
+  xy: 646,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 116
+battle_tower
+  rotate: false
+  xy: 680,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 117
+battle_tower
+  rotate: false
+  xy: 714,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 118
+battle_tower
+  rotate: false
+  xy: 748,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 119
+battle_tower
+  rotate: false
+  xy: 782,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 120
+battle_tower
+  rotate: false
+  xy: 816,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 121
+battle_tower
+  rotate: false
+  xy: 850,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 122
+battle_tower
+  rotate: false
+  xy: 884,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 123
+battle_tower
+  rotate: false
+  xy: 918,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 124
+battle_tower
+  rotate: false
+  xy: 952,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 125
+battle_tower
+  rotate: false
+  xy: 0,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 129
+battle_tower
+  rotate: false
+  xy: 34,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 130
+battle_tower
+  rotate: false
+  xy: 68,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 131
+battle_tower
+  rotate: false
+  xy: 102,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 132
+battle_tower
+  rotate: false
+  xy: 136,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 133
+battle_tower
+  rotate: false
+  xy: 170,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 134
+battle_tower
+  rotate: false
+  xy: 204,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 135
+battle_tower
+  rotate: false
+  xy: 238,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 136
+battle_tower
+  rotate: false
+  xy: 272,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 137
+battle_tower
+  rotate: false
+  xy: 306,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 138
+battle_tower
+  rotate: false
+  xy: 340,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 139
+battle_tower
+  rotate: false
+  xy: 374,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 140
+battle_tower
+  rotate: false
+  xy: 408,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 141
+battle_tower
+  rotate: false
+  xy: 442,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 142
+battle_tower
+  rotate: false
+  xy: 476,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 143
+battle_tower
+  rotate: false
+  xy: 510,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 144
+battle_tower
+  rotate: false
+  xy: 544,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 145
+battle_tower
+  rotate: false
+  xy: 578,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 146
+battle_tower
+  rotate: false
+  xy: 612,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 147
+battle_tower
+  rotate: false
+  xy: 646,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 148
+battle_tower
+  rotate: false
+  xy: 680,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 149
+battle_tower
+  rotate: false
+  xy: 714,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 150
+battle_tower
+  rotate: false
+  xy: 748,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 151
+battle_tower
+  rotate: false
+  xy: 782,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 152
+battle_tower
+  rotate: false
+  xy: 816,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 153
+battle_tower
+  rotate: false
+  xy: 850,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 154
+battle_tower
+  rotate: false
+  xy: 884,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 155
+battle_tower
+  rotate: false
+  xy: 918,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 156
+battle_tower
+  rotate: false
+  xy: 952,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 157
+battle_tower
+  rotate: false
+  xy: 0,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 161
+battle_tower
+  rotate: false
+  xy: 34,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 162
+battle_tower
+  rotate: false
+  xy: 68,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 163
+battle_tower
+  rotate: false
+  xy: 102,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 164
+battle_tower
+  rotate: false
+  xy: 136,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 165
+battle_tower
+  rotate: false
+  xy: 170,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 166
+battle_tower
+  rotate: false
+  xy: 204,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 167
+battle_tower
+  rotate: false
+  xy: 238,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 168
+battle_tower
+  rotate: false
+  xy: 272,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 169
+battle_tower
+  rotate: false
+  xy: 306,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 170
+battle_tower
+  rotate: false
+  xy: 340,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 171
+battle_tower
+  rotate: false
+  xy: 374,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 172
+battle_tower
+  rotate: false
+  xy: 408,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 173
+battle_tower
+  rotate: false
+  xy: 442,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 174
+battle_tower
+  rotate: false
+  xy: 476,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 175
+battle_tower
+  rotate: false
+  xy: 510,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 176
+battle_tower
+  rotate: false
+  xy: 544,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 177
+battle_tower
+  rotate: false
+  xy: 578,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 178
+battle_tower
+  rotate: false
+  xy: 612,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 179
+battle_tower
+  rotate: false
+  xy: 646,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 180
+battle_tower
+  rotate: false
+  xy: 680,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 181
+battle_tower
+  rotate: false
+  xy: 714,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 182
+battle_tower
+  rotate: false
+  xy: 748,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 183
+battle_tower
+  rotate: false
+  xy: 782,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 184
+battle_tower
+  rotate: false
+  xy: 816,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 185
+battle_tower
+  rotate: false
+  xy: 850,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 186
+battle_tower
+  rotate: false
+  xy: 884,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 187
+battle_tower
+  rotate: false
+  xy: 918,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 188
+battle_tower
+  rotate: false
+  xy: 952,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 189
+battle_tower
+  rotate: false
+  xy: 0,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 193
+battle_tower
+  rotate: false
+  xy: 34,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 194
+battle_tower
+  rotate: false
+  xy: 68,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 195
+battle_tower
+  rotate: false
+  xy: 102,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 196
+battle_tower
+  rotate: false
+  xy: 136,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 197
+battle_tower
+  rotate: false
+  xy: 170,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 198
+battle_tower
+  rotate: false
+  xy: 204,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 199
+battle_tower
+  rotate: false
+  xy: 238,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 200
+battle_tower
+  rotate: false
+  xy: 272,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 201
+battle_tower
+  rotate: false
+  xy: 306,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 202
+battle_tower
+  rotate: false
+  xy: 340,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 203
+battle_tower
+  rotate: false
+  xy: 374,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 204
+battle_tower
+  rotate: false
+  xy: 408,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 205
+battle_tower
+  rotate: false
+  xy: 442,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 206
+battle_tower
+  rotate: false
+  xy: 476,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 207
+battle_tower
+  rotate: false
+  xy: 510,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 208
+battle_tower
+  rotate: false
+  xy: 544,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 209
+battle_tower
+  rotate: false
+  xy: 578,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 210
+battle_tower
+  rotate: false
+  xy: 612,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 211
+battle_tower
+  rotate: false
+  xy: 646,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 212
+battle_tower
+  rotate: false
+  xy: 680,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 213
+battle_tower
+  rotate: false
+  xy: 714,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 214
+battle_tower
+  rotate: false
+  xy: 748,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 215
+battle_tower
+  rotate: false
+  xy: 782,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 216
+battle_tower
+  rotate: false
+  xy: 816,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 217
+battle_tower
+  rotate: false
+  xy: 850,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 218
+battle_tower
+  rotate: false
+  xy: 884,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 219
+battle_tower
+  rotate: false
+  xy: 918,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 220
+battle_tower
+  rotate: false
+  xy: 952,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 221
+battle_tower
+  rotate: false
+  xy: 0,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 225
+battle_tower
+  rotate: false
+  xy: 34,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 226
+battle_tower
+  rotate: false
+  xy: 68,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 227
+battle_tower
+  rotate: false
+  xy: 102,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 228
+battle_tower
+  rotate: false
+  xy: 136,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 229
+battle_tower
+  rotate: false
+  xy: 170,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 230
+battle_tower
+  rotate: false
+  xy: 204,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 231
+battle_tower
+  rotate: false
+  xy: 238,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 232
+battle_tower
+  rotate: false
+  xy: 272,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 233
+battle_tower
+  rotate: false
+  xy: 306,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 234
+battle_tower
+  rotate: false
+  xy: 340,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 235
+battle_tower
+  rotate: false
+  xy: 374,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 236
+battle_tower
+  rotate: false
+  xy: 408,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 237
+battle_tower
+  rotate: false
+  xy: 442,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 238
+battle_tower
+  rotate: false
+  xy: 476,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 239
+battle_tower
+  rotate: false
+  xy: 510,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 240
+battle_tower
+  rotate: false
+  xy: 544,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 241
+battle_tower
+  rotate: false
+  xy: 578,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 242
+battle_tower
+  rotate: false
+  xy: 612,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 243
+battle_tower
+  rotate: false
+  xy: 646,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 244
+battle_tower
+  rotate: false
+  xy: 680,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 245
+battle_tower
+  rotate: false
+  xy: 714,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 246
+battle_tower
+  rotate: false
+  xy: 748,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 247
+battle_tower
+  rotate: false
+  xy: 782,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 248
+battle_tower
+  rotate: false
+  xy: 816,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 249
+battle_tower
+  rotate: false
+  xy: 850,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 250
+battle_tower
+  rotate: false
+  xy: 884,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 251
+battle_tower
+  rotate: false
+  xy: 918,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 252
+battle_tower
+  rotate: false
+  xy: 952,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 253
+battle_tower
+  rotate: false
+  xy: 0,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 257
+battle_tower
+  rotate: false
+  xy: 34,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 258
+battle_tower
+  rotate: false
+  xy: 68,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 259
+battle_tower
+  rotate: false
+  xy: 102,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 260
+battle_tower
+  rotate: false
+  xy: 136,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 261
+battle_tower
+  rotate: false
+  xy: 170,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 262
+battle_tower
+  rotate: false
+  xy: 204,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 263
+battle_tower
+  rotate: false
+  xy: 238,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 264
+battle_tower
+  rotate: false
+  xy: 272,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 265
+battle_tower
+  rotate: false
+  xy: 306,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 266
+battle_tower
+  rotate: false
+  xy: 340,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 267
+battle_tower
+  rotate: false
+  xy: 374,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 268
+battle_tower
+  rotate: false
+  xy: 408,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 269
+battle_tower
+  rotate: false
+  xy: 442,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 270
+battle_tower
+  rotate: false
+  xy: 476,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 271
+battle_tower
+  rotate: false
+  xy: 510,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 272
+battle_tower
+  rotate: false
+  xy: 544,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 273
+battle_tower
+  rotate: false
+  xy: 578,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 274
+battle_tower
+  rotate: false
+  xy: 612,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 275
+battle_tower
+  rotate: false
+  xy: 646,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 276
+battle_tower
+  rotate: false
+  xy: 680,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 277
+battle_tower
+  rotate: false
+  xy: 714,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 278
+battle_tower
+  rotate: false
+  xy: 748,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 279
+battle_tower
+  rotate: false
+  xy: 782,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 280
+battle_tower
+  rotate: false
+  xy: 816,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 281
+battle_tower
+  rotate: false
+  xy: 850,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 282
+battle_tower
+  rotate: false
+  xy: 884,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 283
+battle_tower
+  rotate: false
+  xy: 918,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 284
+battle_tower
+  rotate: false
+  xy: 952,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 285
+battle_tower
+  rotate: false
+  xy: 0,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 289
+battle_tower
+  rotate: false
+  xy: 34,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 290
+battle_tower
+  rotate: false
+  xy: 68,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 291
+battle_tower
+  rotate: false
+  xy: 102,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 292
+battle_tower
+  rotate: false
+  xy: 136,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 293
+battle_tower
+  rotate: false
+  xy: 170,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 294
+battle_tower
+  rotate: false
+  xy: 204,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 295
+battle_tower
+  rotate: false
+  xy: 238,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 296
+battle_tower
+  rotate: false
+  xy: 272,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 297
+battle_tower
+  rotate: false
+  xy: 306,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 298
+battle_tower
+  rotate: false
+  xy: 340,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 299
+battle_tower
+  rotate: false
+  xy: 374,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 300
+battle_tower
+  rotate: false
+  xy: 408,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 301
+battle_tower
+  rotate: false
+  xy: 442,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 302
+battle_tower
+  rotate: false
+  xy: 476,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 303
+battle_tower
+  rotate: false
+  xy: 510,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 304
+battle_tower
+  rotate: false
+  xy: 544,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 305
+battle_tower
+  rotate: false
+  xy: 578,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 306
+battle_tower
+  rotate: false
+  xy: 612,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 307
+battle_tower
+  rotate: false
+  xy: 646,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 308
+battle_tower
+  rotate: false
+  xy: 680,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 309
+battle_tower
+  rotate: false
+  xy: 714,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 310
+battle_tower
+  rotate: false
+  xy: 748,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 311
+battle_tower
+  rotate: false
+  xy: 782,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 312
+battle_tower
+  rotate: false
+  xy: 816,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 313
+battle_tower
+  rotate: false
+  xy: 850,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 314
+battle_tower
+  rotate: false
+  xy: 884,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 315
+battle_tower
+  rotate: false
+  xy: 918,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 316
+battle_tower
+  rotate: false
+  xy: 952,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 317
+battle_tower
+  rotate: false
+  xy: 0,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 321
+battle_tower
+  rotate: false
+  xy: 34,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 322
+battle_tower
+  rotate: false
+  xy: 68,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 323
+battle_tower
+  rotate: false
+  xy: 102,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 324
+battle_tower
+  rotate: false
+  xy: 136,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 325
+battle_tower
+  rotate: false
+  xy: 170,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 326
+battle_tower
+  rotate: false
+  xy: 204,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 327
+battle_tower
+  rotate: false
+  xy: 238,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 328
+battle_tower
+  rotate: false
+  xy: 272,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 329
+battle_tower
+  rotate: false
+  xy: 306,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 330
+battle_tower
+  rotate: false
+  xy: 340,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 331
+battle_tower
+  rotate: false
+  xy: 374,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 332
+battle_tower
+  rotate: false
+  xy: 408,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 333
+battle_tower
+  rotate: false
+  xy: 442,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 334
+battle_tower
+  rotate: false
+  xy: 476,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 335
+battle_tower
+  rotate: false
+  xy: 510,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 336
+battle_tower
+  rotate: false
+  xy: 544,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 337
+battle_tower
+  rotate: false
+  xy: 578,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 338
+battle_tower
+  rotate: false
+  xy: 612,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 339
+battle_tower
+  rotate: false
+  xy: 646,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 340
+battle_tower
+  rotate: false
+  xy: 680,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 341
+battle_tower
+  rotate: false
+  xy: 714,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 342
+battle_tower
+  rotate: false
+  xy: 748,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 343
+battle_tower
+  rotate: false
+  xy: 782,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 344
+battle_tower
+  rotate: false
+  xy: 816,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 345
+battle_tower
+  rotate: false
+  xy: 850,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 346
+battle_tower
+  rotate: false
+  xy: 884,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 347
+battle_tower
+  rotate: false
+  xy: 918,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 348
+battle_tower
+  rotate: false
+  xy: 952,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 349
+battle_tower
+  rotate: false
+  xy: 0,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 353
+battle_tower
+  rotate: false
+  xy: 34,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 354
+battle_tower
+  rotate: false
+  xy: 68,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 355
+battle_tower
+  rotate: false
+  xy: 102,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 356
+battle_tower
+  rotate: false
+  xy: 136,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 357
+battle_tower
+  rotate: false
+  xy: 170,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 358
+battle_tower
+  rotate: false
+  xy: 204,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 359
+battle_tower
+  rotate: false
+  xy: 238,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 360
+battle_tower
+  rotate: false
+  xy: 272,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 361
+battle_tower
+  rotate: false
+  xy: 306,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 362
+battle_tower
+  rotate: false
+  xy: 340,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 363
+battle_tower
+  rotate: false
+  xy: 374,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 364
+battle_tower
+  rotate: false
+  xy: 408,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 365
+battle_tower
+  rotate: false
+  xy: 442,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 366
+battle_tower
+  rotate: false
+  xy: 476,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 367
+battle_tower
+  rotate: false
+  xy: 510,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 368
+battle_tower
+  rotate: false
+  xy: 544,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 369
+battle_tower
+  rotate: false
+  xy: 578,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 370
+battle_tower
+  rotate: false
+  xy: 612,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 371
+battle_tower
+  rotate: false
+  xy: 646,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 372
+battle_tower
+  rotate: false
+  xy: 680,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 373
+battle_tower
+  rotate: false
+  xy: 714,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 374
+battle_tower
+  rotate: false
+  xy: 748,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 375
+battle_tower
+  rotate: false
+  xy: 782,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 376
+battle_tower
+  rotate: false
+  xy: 816,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 377
+battle_tower
+  rotate: false
+  xy: 850,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 378
+battle_tower
+  rotate: false
+  xy: 884,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 379
+battle_tower
+  rotate: false
+  xy: 918,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 380
+battle_tower
+  rotate: false
+  xy: 952,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 381
+battle_tower
+  rotate: false
+  xy: 0,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 385
+battle_tower
+  rotate: false
+  xy: 34,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 386
+battle_tower
+  rotate: false
+  xy: 68,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 387
+battle_tower
+  rotate: false
+  xy: 102,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 388
+battle_tower
+  rotate: false
+  xy: 136,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 389
+battle_tower
+  rotate: false
+  xy: 170,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 390
+battle_tower
+  rotate: false
+  xy: 204,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 391
+battle_tower
+  rotate: false
+  xy: 238,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 392
+battle_tower
+  rotate: false
+  xy: 272,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 393
+battle_tower
+  rotate: false
+  xy: 306,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 394
+battle_tower
+  rotate: false
+  xy: 340,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 395
+battle_tower
+  rotate: false
+  xy: 374,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 396
+battle_tower
+  rotate: false
+  xy: 408,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 397
+battle_tower
+  rotate: false
+  xy: 442,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 398
+battle_tower
+  rotate: false
+  xy: 476,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 399
+battle_tower
+  rotate: false
+  xy: 510,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 400
+battle_tower
+  rotate: false
+  xy: 544,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 401
+battle_tower
+  rotate: false
+  xy: 578,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 402
+battle_tower
+  rotate: false
+  xy: 612,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 403
+battle_tower
+  rotate: false
+  xy: 646,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 404
+battle_tower
+  rotate: false
+  xy: 680,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 405
+battle_tower
+  rotate: false
+  xy: 714,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 406
+battle_tower
+  rotate: false
+  xy: 748,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 407
+battle_tower
+  rotate: false
+  xy: 782,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 408
+battle_tower
+  rotate: false
+  xy: 816,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 409
+battle_tower
+  rotate: false
+  xy: 850,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 410
+battle_tower
+  rotate: false
+  xy: 884,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 411
+battle_tower
+  rotate: false
+  xy: 918,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 412
+battle_tower
+  rotate: false
+  xy: 952,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 413
+battle_tower
+  rotate: false
+  xy: 0,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 417
+battle_tower
+  rotate: false
+  xy: 34,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 418
+battle_tower
+  rotate: false
+  xy: 68,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 419
+battle_tower
+  rotate: false
+  xy: 102,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 420
+battle_tower
+  rotate: false
+  xy: 136,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 421
+battle_tower
+  rotate: false
+  xy: 170,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 422
+battle_tower
+  rotate: false
+  xy: 204,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 423
+battle_tower
+  rotate: false
+  xy: 238,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 424
+battle_tower
+  rotate: false
+  xy: 272,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 425
+battle_tower
+  rotate: false
+  xy: 306,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 426
+battle_tower
+  rotate: false
+  xy: 340,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 427
+battle_tower
+  rotate: false
+  xy: 374,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 428
+battle_tower
+  rotate: false
+  xy: 408,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 429
+battle_tower
+  rotate: false
+  xy: 442,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 430
+battle_tower
+  rotate: false
+  xy: 476,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 431
+battle_tower
+  rotate: false
+  xy: 510,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 432
+battle_tower
+  rotate: false
+  xy: 544,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 433
+battle_tower
+  rotate: false
+  xy: 578,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 434
+battle_tower
+  rotate: false
+  xy: 612,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 435
+battle_tower
+  rotate: false
+  xy: 646,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 436
+battle_tower
+  rotate: false
+  xy: 680,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 437
+battle_tower
+  rotate: false
+  xy: 714,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 438
+battle_tower
+  rotate: false
+  xy: 748,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 439
+battle_tower
+  rotate: false
+  xy: 782,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 440
+battle_tower
+  rotate: false
+  xy: 816,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 441
+battle_tower
+  rotate: false
+  xy: 850,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 442
+battle_tower
+  rotate: false
+  xy: 884,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 443
+battle_tower
+  rotate: false
+  xy: 918,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 444
+battle_tower
+  rotate: false
+  xy: 952,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 445
+battle_tower
+  rotate: false
+  xy: 0,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 449
+battle_tower
+  rotate: false
+  xy: 34,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 450
+battle_tower
+  rotate: false
+  xy: 68,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 451
+battle_tower
+  rotate: false
+  xy: 102,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 452
+battle_tower
+  rotate: false
+  xy: 136,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 453
+battle_tower
+  rotate: false
+  xy: 170,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 454
+battle_tower
+  rotate: false
+  xy: 204,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 455
+battle_tower
+  rotate: false
+  xy: 238,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 456
+battle_tower
+  rotate: false
+  xy: 272,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 457
+battle_tower
+  rotate: false
+  xy: 306,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 458
+battle_tower
+  rotate: false
+  xy: 340,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 459
+battle_tower
+  rotate: false
+  xy: 374,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 460
+battle_tower
+  rotate: false
+  xy: 408,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 461
+battle_tower
+  rotate: false
+  xy: 442,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 462
+battle_tower
+  rotate: false
+  xy: 476,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 463
+battle_tower
+  rotate: false
+  xy: 510,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 464
+battle_tower
+  rotate: false
+  xy: 544,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 465
+battle_tower
+  rotate: false
+  xy: 578,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 466
+battle_tower
+  rotate: false
+  xy: 612,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 467
+battle_tower
+  rotate: false
+  xy: 646,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 468
+battle_tower
+  rotate: false
+  xy: 680,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 469
+battle_tower
+  rotate: false
+  xy: 714,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 470
+battle_tower
+  rotate: false
+  xy: 748,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 471
+battle_tower
+  rotate: false
+  xy: 782,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 472
+battle_tower
+  rotate: false
+  xy: 816,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 473
+battle_tower
+  rotate: false
+  xy: 850,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 474
+battle_tower
+  rotate: false
+  xy: 884,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 475
+battle_tower
+  rotate: false
+  xy: 918,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 476
+battle_tower
+  rotate: false
+  xy: 952,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 477
+battle_tower
+  rotate: false
+  xy: 0,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 481
+battle_tower
+  rotate: false
+  xy: 34,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 482
+battle_tower
+  rotate: false
+  xy: 68,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 483
+battle_tower
+  rotate: false
+  xy: 102,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 484
+battle_tower
+  rotate: false
+  xy: 136,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 485
+battle_tower
+  rotate: false
+  xy: 170,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 486
+battle_tower
+  rotate: false
+  xy: 204,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 487
+battle_tower
+  rotate: false
+  xy: 238,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 488
+battle_tower
+  rotate: false
+  xy: 272,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 489
+battle_tower
+  rotate: false
+  xy: 306,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 490
+battle_tower
+  rotate: false
+  xy: 340,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 491
+battle_tower
+  rotate: false
+  xy: 374,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 492
+battle_tower
+  rotate: false
+  xy: 408,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 493
+battle_tower
+  rotate: false
+  xy: 442,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 494
+battle_tower
+  rotate: false
+  xy: 476,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 495
+battle_tower
+  rotate: false
+  xy: 510,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 496
+battle_tower
+  rotate: false
+  xy: 544,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 497
+battle_tower
+  rotate: false
+  xy: 578,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 498
+battle_tower
+  rotate: false
+  xy: 612,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 499
+battle_tower
+  rotate: false
+  xy: 646,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 500
+battle_tower
+  rotate: false
+  xy: 680,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 501
+battle_tower
+  rotate: false
+  xy: 714,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 502
+battle_tower
+  rotate: false
+  xy: 748,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 503
+battle_tower
+  rotate: false
+  xy: 782,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 504
+battle_tower
+  rotate: false
+  xy: 816,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 505
+battle_tower
+  rotate: false
+  xy: 850,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 506
+battle_tower
+  rotate: false
+  xy: 884,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 507
+battle_tower
+  rotate: false
+  xy: 918,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 508
+battle_tower
+  rotate: false
+  xy: 952,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 509
+battle_tower
+  rotate: false
+  xy: 0,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 513
+battle_tower
+  rotate: false
+  xy: 34,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 514
+battle_tower
+  rotate: false
+  xy: 68,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 515
+battle_tower
+  rotate: false
+  xy: 102,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 516
+battle_tower
+  rotate: false
+  xy: 136,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 517
+battle_tower
+  rotate: false
+  xy: 170,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 518
+battle_tower
+  rotate: false
+  xy: 204,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 519
+battle_tower
+  rotate: false
+  xy: 238,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 520
+battle_tower
+  rotate: false
+  xy: 272,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 521
+battle_tower
+  rotate: false
+  xy: 306,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 522
+battle_tower
+  rotate: false
+  xy: 340,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 523
+battle_tower
+  rotate: false
+  xy: 374,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 524
+battle_tower
+  rotate: false
+  xy: 408,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 525
+battle_tower
+  rotate: false
+  xy: 442,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 526
+battle_tower
+  rotate: false
+  xy: 476,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 527
+battle_tower
+  rotate: false
+  xy: 510,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 528
+battle_tower
+  rotate: false
+  xy: 544,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 529
+battle_tower
+  rotate: false
+  xy: 578,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 530
+battle_tower
+  rotate: false
+  xy: 612,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 531
+battle_tower
+  rotate: false
+  xy: 646,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 532
+battle_tower
+  rotate: false
+  xy: 680,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 533
+battle_tower
+  rotate: false
+  xy: 714,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 534
+battle_tower
+  rotate: false
+  xy: 748,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 535
+battle_tower
+  rotate: false
+  xy: 782,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 536
+battle_tower
+  rotate: false
+  xy: 816,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 537
+battle_tower
+  rotate: false
+  xy: 850,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 538
+battle_tower
+  rotate: false
+  xy: 884,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 539
+battle_tower
+  rotate: false
+  xy: 918,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 540
+battle_tower
+  rotate: false
+  xy: 952,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 541
+battle_tower
+  rotate: false
+  xy: 0,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 545
+battle_tower
+  rotate: false
+  xy: 34,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 546
+battle_tower
+  rotate: false
+  xy: 68,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 547
+battle_tower
+  rotate: false
+  xy: 102,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 548
+battle_tower
+  rotate: false
+  xy: 136,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 549
+battle_tower
+  rotate: false
+  xy: 170,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 550
+battle_tower
+  rotate: false
+  xy: 204,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 551
+battle_tower
+  rotate: false
+  xy: 238,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 552
+battle_tower
+  rotate: false
+  xy: 272,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 553
+battle_tower
+  rotate: false
+  xy: 306,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 554
+battle_tower
+  rotate: false
+  xy: 340,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 555
+battle_tower
+  rotate: false
+  xy: 374,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 556
+battle_tower
+  rotate: false
+  xy: 408,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 557
+battle_tower
+  rotate: false
+  xy: 442,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 558
+battle_tower
+  rotate: false
+  xy: 476,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 559
+battle_tower
+  rotate: false
+  xy: 510,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 560
+battle_tower
+  rotate: false
+  xy: 544,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 561
+battle_tower
+  rotate: false
+  xy: 578,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 562
+battle_tower
+  rotate: false
+  xy: 612,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 563
+battle_tower
+  rotate: false
+  xy: 646,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 564
+battle_tower
+  rotate: false
+  xy: 680,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 565
+battle_tower
+  rotate: false
+  xy: 714,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 566
+battle_tower
+  rotate: false
+  xy: 748,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 567
+battle_tower
+  rotate: false
+  xy: 782,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 568
+battle_tower
+  rotate: false
+  xy: 816,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 569
+battle_tower
+  rotate: false
+  xy: 850,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 570
+battle_tower
+  rotate: false
+  xy: 884,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 571
+battle_tower
+  rotate: false
+  xy: 918,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 572
+battle_tower
+  rotate: false
+  xy: 952,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 573
+battle_tower
+  rotate: false
+  xy: 0,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 577
+battle_tower
+  rotate: false
+  xy: 34,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 578
+battle_tower
+  rotate: false
+  xy: 68,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 579
+battle_tower
+  rotate: false
+  xy: 102,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 580
+battle_tower
+  rotate: false
+  xy: 136,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 581
+battle_tower
+  rotate: false
+  xy: 170,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 582
+battle_tower
+  rotate: false
+  xy: 204,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 583
+battle_tower
+  rotate: false
+  xy: 238,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 584
+battle_tower
+  rotate: false
+  xy: 272,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 585
+battle_tower
+  rotate: false
+  xy: 306,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 586
+battle_tower
+  rotate: false
+  xy: 340,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 587
+battle_tower
+  rotate: false
+  xy: 374,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 588
+battle_tower
+  rotate: false
+  xy: 408,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 589
+battle_tower
+  rotate: false
+  xy: 442,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 590
+battle_tower
+  rotate: false
+  xy: 476,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 591
+battle_tower
+  rotate: false
+  xy: 510,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 592
+battle_tower
+  rotate: false
+  xy: 544,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 593
+battle_tower
+  rotate: false
+  xy: 578,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 594
+battle_tower
+  rotate: false
+  xy: 612,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 595
+battle_tower
+  rotate: false
+  xy: 646,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 596
+battle_tower
+  rotate: false
+  xy: 680,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 597
+battle_tower
+  rotate: false
+  xy: 714,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 598
+battle_tower
+  rotate: false
+  xy: 748,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 599
+battle_tower
+  rotate: false
+  xy: 782,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 600
+battle_tower
+  rotate: false
+  xy: 816,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 601
+battle_tower
+  rotate: false
+  xy: 850,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 602
+battle_tower
+  rotate: false
+  xy: 884,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 603
+battle_tower
+  rotate: false
+  xy: 918,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 604
+battle_tower
+  rotate: false
+  xy: 952,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 605
+battle_tower
+  rotate: false
+  xy: 0,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 609
+battle_tower
+  rotate: false
+  xy: 34,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 610
+battle_tower
+  rotate: false
+  xy: 68,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 611
+battle_tower
+  rotate: false
+  xy: 102,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 612
+battle_tower
+  rotate: false
+  xy: 136,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 613
+battle_tower
+  rotate: false
+  xy: 170,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 614
+battle_tower
+  rotate: false
+  xy: 204,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 615
+battle_tower
+  rotate: false
+  xy: 238,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 616
+battle_tower
+  rotate: false
+  xy: 272,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 617
+battle_tower
+  rotate: false
+  xy: 306,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 618
+battle_tower
+  rotate: false
+  xy: 340,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 619
+battle_tower
+  rotate: false
+  xy: 374,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 620
+battle_tower
+  rotate: false
+  xy: 408,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 621
+battle_tower
+  rotate: false
+  xy: 442,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 622
+battle_tower
+  rotate: false
+  xy: 476,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 623
+battle_tower
+  rotate: false
+  xy: 510,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 624
+battle_tower
+  rotate: false
+  xy: 544,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 625
+battle_tower
+  rotate: false
+  xy: 578,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 626
+battle_tower
+  rotate: false
+  xy: 612,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 627
+battle_tower
+  rotate: false
+  xy: 646,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 628
+battle_tower
+  rotate: false
+  xy: 680,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 629
+battle_tower
+  rotate: false
+  xy: 714,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 630
+battle_tower
+  rotate: false
+  xy: 748,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 631
+battle_tower
+  rotate: false
+  xy: 782,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 632
+battle_tower
+  rotate: false
+  xy: 816,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 633
+battle_tower
+  rotate: false
+  xy: 850,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 634
+battle_tower
+  rotate: false
+  xy: 884,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 635
+battle_tower
+  rotate: false
+  xy: 918,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 636
+battle_tower
+  rotate: false
+  xy: 952,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 637
+battle_tower
+  rotate: false
+  xy: 0,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 641
+battle_tower
+  rotate: false
+  xy: 34,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 642
+battle_tower
+  rotate: false
+  xy: 68,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 643
+battle_tower
+  rotate: false
+  xy: 102,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 644
+battle_tower
+  rotate: false
+  xy: 136,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 645
+battle_tower
+  rotate: false
+  xy: 170,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 646
+battle_tower
+  rotate: false
+  xy: 204,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 647
+battle_tower
+  rotate: false
+  xy: 238,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 648
+battle_tower
+  rotate: false
+  xy: 272,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 649
+battle_tower
+  rotate: false
+  xy: 306,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 650
+battle_tower
+  rotate: false
+  xy: 340,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 651
+battle_tower
+  rotate: false
+  xy: 374,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 652
+battle_tower
+  rotate: false
+  xy: 408,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 653
+battle_tower
+  rotate: false
+  xy: 442,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 654
+battle_tower
+  rotate: false
+  xy: 476,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 655
+battle_tower
+  rotate: false
+  xy: 510,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 656
+battle_tower
+  rotate: false
+  xy: 544,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 657
+battle_tower
+  rotate: false
+  xy: 578,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 658
+battle_tower
+  rotate: false
+  xy: 612,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 659
+battle_tower
+  rotate: false
+  xy: 646,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 660
+battle_tower
+  rotate: false
+  xy: 680,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 661
+battle_tower
+  rotate: false
+  xy: 714,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 662
+battle_tower
+  rotate: false
+  xy: 748,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 663
+battle_tower
+  rotate: false
+  xy: 782,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 664
+battle_tower
+  rotate: false
+  xy: 816,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 665
+battle_tower
+  rotate: false
+  xy: 850,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 666
+battle_tower
+  rotate: false
+  xy: 884,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 667
+battle_tower
+  rotate: false
+  xy: 918,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 668
+battle_tower
+  rotate: false
+  xy: 952,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 669
+battle_tower
+  rotate: false
+  xy: 0,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 673
+battle_tower
+  rotate: false
+  xy: 34,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 674
+battle_tower
+  rotate: false
+  xy: 68,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 675
+battle_tower
+  rotate: false
+  xy: 102,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 676
+battle_tower
+  rotate: false
+  xy: 136,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 677
+battle_tower
+  rotate: false
+  xy: 170,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 678
+battle_tower
+  rotate: false
+  xy: 204,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 679
+battle_tower
+  rotate: false
+  xy: 238,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 680
+battle_tower
+  rotate: false
+  xy: 272,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 681
+battle_tower
+  rotate: false
+  xy: 306,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 682
+battle_tower
+  rotate: false
+  xy: 340,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 683
+battle_tower
+  rotate: false
+  xy: 374,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 684
+battle_tower
+  rotate: false
+  xy: 408,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 685
+battle_tower
+  rotate: false
+  xy: 442,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 686
+battle_tower
+  rotate: false
+  xy: 476,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 687
+battle_tower
+  rotate: false
+  xy: 510,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 688
+battle_tower
+  rotate: false
+  xy: 544,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 689
+battle_tower
+  rotate: false
+  xy: 578,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 690
+battle_tower
+  rotate: false
+  xy: 612,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 691
+battle_tower
+  rotate: false
+  xy: 646,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 692
+battle_tower
+  rotate: false
+  xy: 680,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 693
+battle_tower
+  rotate: false
+  xy: 714,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 694
+battle_tower
+  rotate: false
+  xy: 748,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 695
+battle_tower
+  rotate: false
+  xy: 782,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 696
+battle_tower
+  rotate: false
+  xy: 816,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 697
+battle_tower
+  rotate: false
+  xy: 850,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 698
+battle_tower
+  rotate: false
+  xy: 884,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 699
+battle_tower
+  rotate: false
+  xy: 918,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 700
+battle_tower
+  rotate: false
+  xy: 952,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 701
+battle_tower
+  rotate: false
+  xy: 0,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 705
+battle_tower
+  rotate: false
+  xy: 34,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 706
+battle_tower
+  rotate: false
+  xy: 68,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 707
+battle_tower
+  rotate: false
+  xy: 102,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 708
+battle_tower
+  rotate: false
+  xy: 136,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 709
+battle_tower
+  rotate: false
+  xy: 170,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 710
+battle_tower
+  rotate: false
+  xy: 204,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 711
+battle_tower
+  rotate: false
+  xy: 238,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 712
+battle_tower
+  rotate: false
+  xy: 272,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 713
+battle_tower
+  rotate: false
+  xy: 306,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 714
+battle_tower
+  rotate: false
+  xy: 340,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 715
+battle_tower
+  rotate: false
+  xy: 374,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 716
+battle_tower
+  rotate: false
+  xy: 408,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 717
+battle_tower
+  rotate: false
+  xy: 442,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 718
+battle_tower
+  rotate: false
+  xy: 476,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 719
+battle_tower
+  rotate: false
+  xy: 510,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 720
+battle_tower
+  rotate: false
+  xy: 544,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 721
+battle_tower
+  rotate: false
+  xy: 578,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 722
+battle_tower
+  rotate: false
+  xy: 612,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 723
+battle_tower
+  rotate: false
+  xy: 646,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 724
+battle_tower
+  rotate: false
+  xy: 680,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 725
+battle_tower
+  rotate: false
+  xy: 714,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 726
+battle_tower
+  rotate: false
+  xy: 748,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 727
+battle_tower
+  rotate: false
+  xy: 782,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 728
+battle_tower
+  rotate: false
+  xy: 816,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 729
+battle_tower
+  rotate: false
+  xy: 850,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 730
+battle_tower
+  rotate: false
+  xy: 884,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 731
+battle_tower
+  rotate: false
+  xy: 918,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 732
+battle_tower
+  rotate: false
+  xy: 952,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 733
+battle_tower
+  rotate: false
+  xy: 0,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 737
+battle_tower
+  rotate: false
+  xy: 34,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 738
+battle_tower
+  rotate: false
+  xy: 68,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 739
+battle_tower
+  rotate: false
+  xy: 102,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 740
+battle_tower
+  rotate: false
+  xy: 136,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 741
+battle_tower
+  rotate: false
+  xy: 170,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 742
+battle_tower
+  rotate: false
+  xy: 204,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 743
+battle_tower
+  rotate: false
+  xy: 238,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 744
+battle_tower
+  rotate: false
+  xy: 272,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 745
+battle_tower
+  rotate: false
+  xy: 306,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 746
+battle_tower
+  rotate: false
+  xy: 340,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 747
+battle_tower
+  rotate: false
+  xy: 374,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 748
+battle_tower
+  rotate: false
+  xy: 408,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 749
+battle_tower
+  rotate: false
+  xy: 442,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 750
+battle_tower
+  rotate: false
+  xy: 476,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 751
+battle_tower
+  rotate: false
+  xy: 510,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 752
+battle_tower
+  rotate: false
+  xy: 544,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 753
+battle_tower
+  rotate: false
+  xy: 578,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 754
+battle_tower
+  rotate: false
+  xy: 612,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 755
+battle_tower
+  rotate: false
+  xy: 646,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 756
+battle_tower
+  rotate: false
+  xy: 680,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 757
+battle_tower
+  rotate: false
+  xy: 714,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 758
+battle_tower
+  rotate: false
+  xy: 748,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 759
+battle_tower
+  rotate: false
+  xy: 782,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 760
+battle_tower
+  rotate: false
+  xy: 816,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 761
+battle_tower
+  rotate: false
+  xy: 850,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 762
+battle_tower
+  rotate: false
+  xy: 884,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 763
+battle_tower
+  rotate: false
+  xy: 918,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 764
+battle_tower
+  rotate: false
+  xy: 952,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 765
+battle_tower
+  rotate: false
+  xy: 0,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 769
+battle_tower
+  rotate: false
+  xy: 34,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 770
+battle_tower
+  rotate: false
+  xy: 68,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 771
+battle_tower
+  rotate: false
+  xy: 102,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 772
+battle_tower
+  rotate: false
+  xy: 136,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 773
+battle_tower
+  rotate: false
+  xy: 170,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 774
+battle_tower
+  rotate: false
+  xy: 204,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 775
+battle_tower
+  rotate: false
+  xy: 238,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 776
+battle_tower
+  rotate: false
+  xy: 272,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 777
+battle_tower
+  rotate: false
+  xy: 306,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 778
+battle_tower
+  rotate: false
+  xy: 340,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 779
+battle_tower
+  rotate: false
+  xy: 374,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 780
+battle_tower
+  rotate: false
+  xy: 408,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 781
+battle_tower
+  rotate: false
+  xy: 442,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 782
+battle_tower
+  rotate: false
+  xy: 476,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 783
+battle_tower
+  rotate: false
+  xy: 510,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 784
+battle_tower
+  rotate: false
+  xy: 544,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 785
+battle_tower
+  rotate: false
+  xy: 578,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 786
+battle_tower
+  rotate: false
+  xy: 612,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 787
+battle_tower
+  rotate: false
+  xy: 646,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 788
+battle_tower
+  rotate: false
+  xy: 680,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 789
+battle_tower
+  rotate: false
+  xy: 714,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 790
+battle_tower
+  rotate: false
+  xy: 748,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 791
+battle_tower
+  rotate: false
+  xy: 782,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 792
+battle_tower
+  rotate: false
+  xy: 816,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 793
+battle_tower
+  rotate: false
+  xy: 850,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 794
+battle_tower
+  rotate: false
+  xy: 884,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 795
+battle_tower
+  rotate: false
+  xy: 918,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 796
+battle_tower
+  rotate: false
+  xy: 952,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 797
+battle_tower
+  rotate: false
+  xy: 0,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 801
+battle_tower
+  rotate: false
+  xy: 34,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 802
+battle_tower
+  rotate: false
+  xy: 68,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 803
+battle_tower
+  rotate: false
+  xy: 102,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 804
+battle_tower
+  rotate: false
+  xy: 136,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 805
+battle_tower
+  rotate: false
+  xy: 170,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 806
+battle_tower
+  rotate: false
+  xy: 204,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 807
+battle_tower
+  rotate: false
+  xy: 238,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 808
+battle_tower
+  rotate: false
+  xy: 272,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 809
+battle_tower
+  rotate: false
+  xy: 306,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 810
+battle_tower
+  rotate: false
+  xy: 340,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 811
+battle_tower
+  rotate: false
+  xy: 374,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 812
+battle_tower
+  rotate: false
+  xy: 408,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 813
+battle_tower
+  rotate: false
+  xy: 442,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 814
+battle_tower
+  rotate: false
+  xy: 476,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 815
+battle_tower
+  rotate: false
+  xy: 510,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 816
+battle_tower
+  rotate: false
+  xy: 544,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 817
+battle_tower
+  rotate: false
+  xy: 578,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 818
+battle_tower
+  rotate: false
+  xy: 612,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 819
+battle_tower
+  rotate: false
+  xy: 646,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 820
+battle_tower
+  rotate: false
+  xy: 680,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 821
+battle_tower
+  rotate: false
+  xy: 714,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 822
+battle_tower
+  rotate: false
+  xy: 748,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 823
+battle_tower
+  rotate: false
+  xy: 782,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 824
+battle_tower
+  rotate: false
+  xy: 816,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 825
+battle_tower
+  rotate: false
+  xy: 850,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 826
+battle_tower
+  rotate: false
+  xy: 884,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 827
+battle_tower
+  rotate: false
+  xy: 918,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 828
+battle_tower
+  rotate: false
+  xy: 952,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 829
+GFX1
+  rotate: false
+  xy: 0,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+battlefrontier_3
+  rotate: false
+  xy: 34,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 867
+battlefrontier_3
+  rotate: false
+  xy: 68,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 868
+battlefrontier_3
+  rotate: false
+  xy: 102,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 869
+battlefrontier_3
+  rotate: false
+  xy: 136,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 899
+battlefrontier_3
+  rotate: false
+  xy: 170,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 900
+battlefrontier_3
+  rotate: false
+  xy: 204,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 901
+battlefrontier_3
+  rotate: false
+  xy: 238,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 931
+battlefrontier_3
+  rotate: false
+  xy: 272,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 932
+battlefrontier_3
+  rotate: false
+  xy: 306,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 933
+battlefrontier_3
+  rotate: false
+  xy: 340,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 963
+battlefrontier_3
+  rotate: false
+  xy: 374,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 964
+battlefrontier_3
+  rotate: false
+  xy: 408,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 965
+battlefrontier_3
+  rotate: false
+  xy: 442,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 966
+battlefrontier_3
+  rotate: false
+  xy: 476,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 967
+battlefrontier_3
+  rotate: false
+  xy: 510,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 995
+battlefrontier_3
+  rotate: false
+  xy: 544,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 996
+battlefrontier_3
+  rotate: false
+  xy: 578,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 997
+battlefrontier_3
+  rotate: false
+  xy: 612,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 998
+battlefrontier_3
+  rotate: false
+  xy: 646,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 999

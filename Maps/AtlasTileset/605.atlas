@@ -1,0 +1,12688 @@
+
+605_1.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+crew_wars_lobby
+  rotate: false
+  xy: 2,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+crew_wars_lobby
+  rotate: false
+  xy: 36,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+crew_wars_lobby
+  rotate: false
+  xy: 70,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+crew_wars_lobby
+  rotate: false
+  xy: 104,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+crew_wars_lobby
+  rotate: false
+  xy: 138,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+crew_wars_lobby
+  rotate: false
+  xy: 172,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 5
+crew_wars_lobby
+  rotate: false
+  xy: 206,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 6
+crew_wars_lobby
+  rotate: false
+  xy: 240,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 7
+crew_wars_lobby
+  rotate: false
+  xy: 274,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 8
+crew_wars_lobby
+  rotate: false
+  xy: 308,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 9
+crew_wars_lobby
+  rotate: false
+  xy: 342,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 10
+crew_wars_lobby
+  rotate: false
+  xy: 376,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 11
+crew_wars_lobby
+  rotate: false
+  xy: 410,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 12
+crew_wars_lobby
+  rotate: false
+  xy: 444,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 13
+crew_wars_lobby
+  rotate: false
+  xy: 478,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 14
+crew_wars_lobby
+  rotate: false
+  xy: 512,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 15
+crew_wars_lobby
+  rotate: false
+  xy: 546,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 16
+crew_wars_lobby
+  rotate: false
+  xy: 580,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 17
+crew_wars_lobby
+  rotate: false
+  xy: 614,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 18
+crew_wars_lobby
+  rotate: false
+  xy: 648,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 19
+crew_wars_lobby
+  rotate: false
+  xy: 682,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 20
+crew_wars_lobby
+  rotate: false
+  xy: 716,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 21
+crew_wars_lobby
+  rotate: false
+  xy: 750,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 22
+crew_wars_lobby
+  rotate: false
+  xy: 784,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 23
+crew_wars_lobby
+  rotate: false
+  xy: 818,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 24
+crew_wars_lobby
+  rotate: false
+  xy: 852,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 25
+crew_wars_lobby
+  rotate: false
+  xy: 886,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 26
+crew_wars_lobby
+  rotate: false
+  xy: 920,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 27
+crew_wars_lobby
+  rotate: false
+  xy: 954,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 28
+crew_wars_lobby
+  rotate: false
+  xy: 0,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 29
+crew_wars_lobby
+  rotate: false
+  xy: 34,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 30
+crew_wars_lobby
+  rotate: false
+  xy: 68,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 31
+crew_wars_lobby
+  rotate: false
+  xy: 102,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 32
+crew_wars_lobby
+  rotate: false
+  xy: 136,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 33
+crew_wars_lobby
+  rotate: false
+  xy: 170,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 34
+crew_wars_lobby
+  rotate: false
+  xy: 204,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 35
+crew_wars_lobby
+  rotate: false
+  xy: 238,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 36
+crew_wars_lobby
+  rotate: false
+  xy: 272,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 37
+crew_wars_lobby
+  rotate: false
+  xy: 306,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 38
+crew_wars_lobby
+  rotate: false
+  xy: 340,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 39
+crew_wars_lobby
+  rotate: false
+  xy: 374,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 40
+crew_wars_lobby
+  rotate: false
+  xy: 408,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 41
+crew_wars_lobby
+  rotate: false
+  xy: 442,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 42
+crew_wars_lobby
+  rotate: false
+  xy: 476,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 43
+crew_wars_lobby
+  rotate: false
+  xy: 510,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 44
+crew_wars_lobby
+  rotate: false
+  xy: 544,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 45
+crew_wars_lobby
+  rotate: false
+  xy: 578,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 46
+crew_wars_lobby
+  rotate: false
+  xy: 612,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 47
+crew_wars_lobby
+  rotate: false
+  xy: 646,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 48
+crew_wars_lobby
+  rotate: false
+  xy: 680,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 49
+crew_wars_lobby
+  rotate: false
+  xy: 714,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 50
+crew_wars_lobby
+  rotate: false
+  xy: 748,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 51
+crew_wars_lobby
+  rotate: false
+  xy: 782,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 52
+crew_wars_lobby
+  rotate: false
+  xy: 816,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 53
+crew_wars_lobby
+  rotate: false
+  xy: 850,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 54
+crew_wars_lobby
+  rotate: false
+  xy: 884,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 55
+crew_wars_lobby
+  rotate: false
+  xy: 918,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 56
+crew_wars_lobby
+  rotate: false
+  xy: 952,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 57
+crew_wars_lobby
+  rotate: false
+  xy: 0,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 58
+crew_wars_lobby
+  rotate: false
+  xy: 34,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 59
+crew_wars_lobby
+  rotate: false
+  xy: 68,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 60
+crew_wars_lobby
+  rotate: false
+  xy: 102,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 61
+crew_wars_lobby
+  rotate: false
+  xy: 136,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 62
+crew_wars_lobby
+  rotate: false
+  xy: 170,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 63
+crew_wars_lobby
+  rotate: false
+  xy: 204,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 64
+crew_wars_lobby
+  rotate: false
+  xy: 238,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 65
+crew_wars_lobby
+  rotate: false
+  xy: 272,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 66
+crew_wars_lobby
+  rotate: false
+  xy: 306,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 67
+crew_wars_lobby
+  rotate: false
+  xy: 340,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 68
+crew_wars_lobby
+  rotate: false
+  xy: 374,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 69
+crew_wars_lobby
+  rotate: false
+  xy: 408,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 70
+crew_wars_lobby
+  rotate: false
+  xy: 442,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 71
+crew_wars_lobby
+  rotate: false
+  xy: 476,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 72
+crew_wars_lobby
+  rotate: false
+  xy: 510,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 73
+crew_wars_lobby
+  rotate: false
+  xy: 544,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 74
+crew_wars_lobby
+  rotate: false
+  xy: 578,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 75
+crew_wars_lobby
+  rotate: false
+  xy: 612,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 76
+crew_wars_lobby
+  rotate: false
+  xy: 646,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 77
+crew_wars_lobby
+  rotate: false
+  xy: 680,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 78
+crew_wars_lobby
+  rotate: false
+  xy: 714,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 79
+crew_wars_lobby
+  rotate: false
+  xy: 748,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 80
+crew_wars_lobby
+  rotate: false
+  xy: 782,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 81
+crew_wars_lobby
+  rotate: false
+  xy: 816,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 82
+crew_wars_lobby
+  rotate: false
+  xy: 850,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 83
+crew_wars_lobby
+  rotate: false
+  xy: 884,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 84
+crew_wars_lobby
+  rotate: false
+  xy: 918,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 85
+crew_wars_lobby
+  rotate: false
+  xy: 952,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 86
+crew_wars_lobby
+  rotate: false
+  xy: 0,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 87
+crew_wars_lobby
+  rotate: false
+  xy: 34,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 88
+crew_wars_lobby
+  rotate: false
+  xy: 68,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 89
+crew_wars_lobby
+  rotate: false
+  xy: 102,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 90
+crew_wars_lobby
+  rotate: false
+  xy: 136,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 91
+crew_wars_lobby
+  rotate: false
+  xy: 170,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 92
+crew_wars_lobby
+  rotate: false
+  xy: 204,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 93
+crew_wars_lobby
+  rotate: false
+  xy: 238,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 94
+crew_wars_lobby
+  rotate: false
+  xy: 272,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 95
+crew_wars_lobby
+  rotate: false
+  xy: 306,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 96
+crew_wars_lobby
+  rotate: false
+  xy: 340,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 97
+crew_wars_lobby
+  rotate: false
+  xy: 374,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 98
+crew_wars_lobby
+  rotate: false
+  xy: 408,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 99
+crew_wars_lobby
+  rotate: false
+  xy: 442,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 100
+crew_wars_lobby
+  rotate: false
+  xy: 476,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 101
+crew_wars_lobby
+  rotate: false
+  xy: 510,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 102
+crew_wars_lobby
+  rotate: false
+  xy: 544,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 103
+crew_wars_lobby
+  rotate: false
+  xy: 578,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 104
+crew_wars_lobby
+  rotate: false
+  xy: 612,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 105
+crew_wars_lobby
+  rotate: false
+  xy: 646,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 106
+crew_wars_lobby
+  rotate: false
+  xy: 680,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 107
+crew_wars_lobby
+  rotate: false
+  xy: 714,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 108
+crew_wars_lobby
+  rotate: false
+  xy: 748,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 109
+crew_wars_lobby
+  rotate: false
+  xy: 782,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 110
+crew_wars_lobby
+  rotate: false
+  xy: 816,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 111
+crew_wars_lobby
+  rotate: false
+  xy: 850,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 112
+crew_wars_lobby
+  rotate: false
+  xy: 884,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 113
+crew_wars_lobby
+  rotate: false
+  xy: 918,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 114
+crew_wars_lobby
+  rotate: false
+  xy: 952,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 115
+crew_wars_lobby
+  rotate: false
+  xy: 0,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 116
+crew_wars_lobby
+  rotate: false
+  xy: 34,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 117
+crew_wars_lobby
+  rotate: false
+  xy: 68,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 118
+crew_wars_lobby
+  rotate: false
+  xy: 102,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 119
+crew_wars_lobby
+  rotate: false
+  xy: 136,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 120
+crew_wars_lobby
+  rotate: false
+  xy: 170,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 121
+crew_wars_lobby
+  rotate: false
+  xy: 204,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 122
+crew_wars_lobby
+  rotate: false
+  xy: 238,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 123
+crew_wars_lobby
+  rotate: false
+  xy: 272,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 124
+crew_wars_lobby
+  rotate: false
+  xy: 306,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 125
+crew_wars_lobby
+  rotate: false
+  xy: 340,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 126
+crew_wars_lobby
+  rotate: false
+  xy: 374,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 127
+crew_wars_lobby
+  rotate: false
+  xy: 408,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 128
+crew_wars_lobby
+  rotate: false
+  xy: 442,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 129
+crew_wars_lobby
+  rotate: false
+  xy: 476,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 130
+crew_wars_lobby
+  rotate: false
+  xy: 510,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 131
+crew_wars_lobby
+  rotate: false
+  xy: 544,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 132
+crew_wars_lobby
+  rotate: false
+  xy: 578,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 133
+crew_wars_lobby
+  rotate: false
+  xy: 612,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 134
+crew_wars_lobby
+  rotate: false
+  xy: 646,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 135
+crew_wars_lobby
+  rotate: false
+  xy: 680,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 136
+crew_wars_lobby
+  rotate: false
+  xy: 714,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 137
+crew_wars_lobby
+  rotate: false
+  xy: 748,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 138
+crew_wars_lobby
+  rotate: false
+  xy: 782,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 139
+crew_wars_lobby
+  rotate: false
+  xy: 816,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 140
+crew_wars_lobby
+  rotate: false
+  xy: 850,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 141
+crew_wars_lobby
+  rotate: false
+  xy: 884,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 142
+crew_wars_lobby
+  rotate: false
+  xy: 918,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 143
+crew_wars_lobby
+  rotate: false
+  xy: 952,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 144
+crew_wars_lobby
+  rotate: false
+  xy: 0,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 145
+crew_wars_lobby
+  rotate: false
+  xy: 34,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 146
+crew_wars_lobby
+  rotate: false
+  xy: 68,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 147
+crew_wars_lobby
+  rotate: false
+  xy: 102,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 148
+crew_wars_lobby
+  rotate: false
+  xy: 136,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 149
+crew_wars_lobby
+  rotate: false
+  xy: 170,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 150
+crew_wars_lobby
+  rotate: false
+  xy: 204,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 151
+crew_wars_lobby
+  rotate: false
+  xy: 238,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 152
+crew_wars_lobby
+  rotate: false
+  xy: 272,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 153
+crew_wars_lobby
+  rotate: false
+  xy: 306,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 154
+crew_wars_lobby
+  rotate: false
+  xy: 340,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 155
+crew_wars_lobby
+  rotate: false
+  xy: 374,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 156
+crew_wars_lobby
+  rotate: false
+  xy: 408,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 157
+crew_wars_lobby
+  rotate: false
+  xy: 442,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 158
+crew_wars_lobby
+  rotate: false
+  xy: 476,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 159
+crew_wars_lobby
+  rotate: false
+  xy: 510,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 160
+crew_wars_lobby
+  rotate: false
+  xy: 544,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 161
+crew_wars_lobby
+  rotate: false
+  xy: 578,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 162
+crew_wars_lobby
+  rotate: false
+  xy: 612,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 163
+crew_wars_lobby
+  rotate: false
+  xy: 646,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 164
+crew_wars_lobby
+  rotate: false
+  xy: 680,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 165
+crew_wars_lobby
+  rotate: false
+  xy: 714,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 166
+crew_wars_lobby
+  rotate: false
+  xy: 748,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 167
+crew_wars_lobby
+  rotate: false
+  xy: 782,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 168
+crew_wars_lobby
+  rotate: false
+  xy: 816,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 169
+crew_wars_lobby
+  rotate: false
+  xy: 850,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 170
+crew_wars_lobby
+  rotate: false
+  xy: 884,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 171
+crew_wars_lobby
+  rotate: false
+  xy: 918,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 172
+crew_wars_lobby
+  rotate: false
+  xy: 952,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 173
+crew_wars_lobby
+  rotate: false
+  xy: 0,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 174
+crew_wars_lobby
+  rotate: false
+  xy: 34,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 175
+crew_wars_lobby
+  rotate: false
+  xy: 68,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 176
+crew_wars_lobby
+  rotate: false
+  xy: 102,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 177
+crew_wars_lobby
+  rotate: false
+  xy: 136,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 178
+crew_wars_lobby
+  rotate: false
+  xy: 170,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 179
+crew_wars_lobby
+  rotate: false
+  xy: 204,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 180
+crew_wars_lobby
+  rotate: false
+  xy: 238,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 181
+crew_wars_lobby
+  rotate: false
+  xy: 272,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 182
+crew_wars_lobby
+  rotate: false
+  xy: 306,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 183
+crew_wars_lobby
+  rotate: false
+  xy: 340,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 184
+crew_wars_lobby
+  rotate: false
+  xy: 374,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 185
+crew_wars_lobby
+  rotate: false
+  xy: 408,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 186
+crew_wars_lobby
+  rotate: false
+  xy: 442,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 187
+crew_wars_lobby
+  rotate: false
+  xy: 476,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 188
+crew_wars_lobby
+  rotate: false
+  xy: 510,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 189
+crew_wars_lobby
+  rotate: false
+  xy: 544,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 190
+crew_wars_lobby
+  rotate: false
+  xy: 578,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 191
+crew_wars_lobby
+  rotate: false
+  xy: 612,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 192
+crew_wars_lobby
+  rotate: false
+  xy: 646,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 193
+crew_wars_lobby
+  rotate: false
+  xy: 680,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 194
+crew_wars_lobby
+  rotate: false
+  xy: 714,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 195
+crew_wars_lobby
+  rotate: false
+  xy: 748,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 196
+crew_wars_lobby
+  rotate: false
+  xy: 782,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 197
+crew_wars_lobby
+  rotate: false
+  xy: 816,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 198
+crew_wars_lobby
+  rotate: false
+  xy: 850,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 199
+crew_wars_lobby
+  rotate: false
+  xy: 884,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 200
+crew_wars_lobby
+  rotate: false
+  xy: 918,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 201
+crew_wars_lobby
+  rotate: false
+  xy: 952,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 202
+crew_wars_lobby
+  rotate: false
+  xy: 0,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 203
+crew_wars_lobby
+  rotate: false
+  xy: 34,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 204
+crew_wars_lobby
+  rotate: false
+  xy: 68,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 205
+crew_wars_lobby
+  rotate: false
+  xy: 102,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 206
+crew_wars_lobby
+  rotate: false
+  xy: 136,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 207
+crew_wars_lobby
+  rotate: false
+  xy: 170,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 208
+crew_wars_lobby
+  rotate: false
+  xy: 204,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 209
+crew_wars_lobby
+  rotate: false
+  xy: 238,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 210
+crew_wars_lobby
+  rotate: false
+  xy: 272,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 211
+crew_wars_lobby
+  rotate: false
+  xy: 306,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 212
+crew_wars_lobby
+  rotate: false
+  xy: 340,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 213
+crew_wars_lobby
+  rotate: false
+  xy: 374,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 214
+crew_wars_lobby
+  rotate: false
+  xy: 408,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 215
+crew_wars_lobby
+  rotate: false
+  xy: 442,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 216
+crew_wars_lobby
+  rotate: false
+  xy: 476,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 217
+crew_wars_lobby
+  rotate: false
+  xy: 510,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 218
+crew_wars_lobby
+  rotate: false
+  xy: 544,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 219
+crew_wars_lobby
+  rotate: false
+  xy: 578,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 220
+crew_wars_lobby
+  rotate: false
+  xy: 612,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 221
+crew_wars_lobby
+  rotate: false
+  xy: 646,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 222
+crew_wars_lobby
+  rotate: false
+  xy: 680,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 223
+crew_wars_lobby
+  rotate: false
+  xy: 714,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 224
+crew_wars_lobby
+  rotate: false
+  xy: 748,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 225
+crew_wars_lobby
+  rotate: false
+  xy: 782,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 226
+crew_wars_lobby
+  rotate: false
+  xy: 816,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 227
+crew_wars_lobby
+  rotate: false
+  xy: 850,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 228
+crew_wars_lobby
+  rotate: false
+  xy: 884,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 229
+crew_wars_lobby
+  rotate: false
+  xy: 918,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 230
+crew_wars_lobby
+  rotate: false
+  xy: 952,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 231
+crew_wars_lobby
+  rotate: false
+  xy: 0,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 232
+crew_wars_lobby
+  rotate: false
+  xy: 34,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 233
+crew_wars_lobby
+  rotate: false
+  xy: 68,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 234
+crew_wars_lobby
+  rotate: false
+  xy: 102,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 235
+crew_wars_lobby
+  rotate: false
+  xy: 136,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 236
+crew_wars_lobby
+  rotate: false
+  xy: 170,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 237
+crew_wars_lobby
+  rotate: false
+  xy: 204,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 238
+crew_wars_lobby
+  rotate: false
+  xy: 238,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 239
+crew_wars_lobby
+  rotate: false
+  xy: 272,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 240
+crew_wars_lobby
+  rotate: false
+  xy: 306,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 241
+crew_wars_lobby
+  rotate: false
+  xy: 340,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 242
+crew_wars_lobby
+  rotate: false
+  xy: 374,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 243
+crew_wars_lobby
+  rotate: false
+  xy: 408,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 244
+crew_wars_lobby
+  rotate: false
+  xy: 442,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 245
+crew_wars_lobby
+  rotate: false
+  xy: 476,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 246
+crew_wars_lobby
+  rotate: false
+  xy: 510,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 247
+crew_wars_lobby
+  rotate: false
+  xy: 544,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 248
+crew_wars_lobby
+  rotate: false
+  xy: 578,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 249
+crew_wars_lobby
+  rotate: false
+  xy: 612,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 250
+crew_wars_lobby
+  rotate: false
+  xy: 646,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 251
+crew_wars_lobby
+  rotate: false
+  xy: 680,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 252
+crew_wars_lobby
+  rotate: false
+  xy: 714,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 253
+crew_wars_lobby
+  rotate: false
+  xy: 748,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 254
+crew_wars_lobby
+  rotate: false
+  xy: 782,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 255
+crew_wars_lobby
+  rotate: false
+  xy: 816,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 256
+crew_wars_lobby
+  rotate: false
+  xy: 850,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 257
+crew_wars_lobby
+  rotate: false
+  xy: 884,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 258
+crew_wars_lobby
+  rotate: false
+  xy: 918,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 259
+crew_wars_lobby
+  rotate: false
+  xy: 952,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 260
+crew_wars_lobby
+  rotate: false
+  xy: 0,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 261
+crew_wars_lobby
+  rotate: false
+  xy: 34,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 262
+crew_wars_lobby
+  rotate: false
+  xy: 68,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 263
+crew_wars_lobby
+  rotate: false
+  xy: 102,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 264
+crew_wars_lobby
+  rotate: false
+  xy: 136,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 265
+crew_wars_lobby
+  rotate: false
+  xy: 170,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 266
+crew_wars_lobby
+  rotate: false
+  xy: 204,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 267
+crew_wars_lobby
+  rotate: false
+  xy: 238,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 268
+crew_wars_lobby
+  rotate: false
+  xy: 272,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 269
+crew_wars_lobby
+  rotate: false
+  xy: 306,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 270
+crew_wars_lobby
+  rotate: false
+  xy: 340,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 271
+crew_wars_lobby
+  rotate: false
+  xy: 374,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 272
+crew_wars_lobby
+  rotate: false
+  xy: 408,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 273
+crew_wars_lobby
+  rotate: false
+  xy: 442,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 274
+crew_wars_lobby
+  rotate: false
+  xy: 476,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 275
+crew_wars_lobby
+  rotate: false
+  xy: 510,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 276
+crew_wars_lobby
+  rotate: false
+  xy: 544,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 277
+crew_wars_lobby
+  rotate: false
+  xy: 578,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 278
+crew_wars_lobby
+  rotate: false
+  xy: 612,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 279
+crew_wars_lobby
+  rotate: false
+  xy: 646,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 280
+crew_wars_lobby
+  rotate: false
+  xy: 680,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 281
+crew_wars_lobby
+  rotate: false
+  xy: 714,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 282
+crew_wars_lobby
+  rotate: false
+  xy: 748,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 283
+crew_wars_lobby
+  rotate: false
+  xy: 782,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 284
+crew_wars_lobby
+  rotate: false
+  xy: 816,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 285
+crew_wars_lobby
+  rotate: false
+  xy: 850,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 286
+crew_wars_lobby
+  rotate: false
+  xy: 884,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 287
+crew_wars_lobby
+  rotate: false
+  xy: 918,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 288
+crew_wars_lobby
+  rotate: false
+  xy: 952,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 289
+crew_wars_lobby
+  rotate: false
+  xy: 0,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 290
+crew_wars_lobby
+  rotate: false
+  xy: 34,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 291
+crew_wars_lobby
+  rotate: false
+  xy: 68,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 292
+crew_wars_lobby
+  rotate: false
+  xy: 102,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 293
+crew_wars_lobby
+  rotate: false
+  xy: 136,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 294
+crew_wars_lobby
+  rotate: false
+  xy: 170,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 295
+crew_wars_lobby
+  rotate: false
+  xy: 204,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 296
+crew_wars_lobby
+  rotate: false
+  xy: 238,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 297
+crew_wars_lobby
+  rotate: false
+  xy: 272,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 298
+crew_wars_lobby
+  rotate: false
+  xy: 306,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 299
+crew_wars_lobby
+  rotate: false
+  xy: 340,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 300
+crew_wars_lobby
+  rotate: false
+  xy: 374,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 301
+crew_wars_lobby
+  rotate: false
+  xy: 408,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 302
+crew_wars_lobby
+  rotate: false
+  xy: 442,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 305
+crew_wars_lobby
+  rotate: false
+  xy: 476,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 306
+crew_wars_lobby
+  rotate: false
+  xy: 510,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 307
+crew_wars_lobby
+  rotate: false
+  xy: 544,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 308
+crew_wars_lobby
+  rotate: false
+  xy: 578,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 309
+crew_wars_lobby
+  rotate: false
+  xy: 612,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 310
+crew_wars_lobby
+  rotate: false
+  xy: 646,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 311
+crew_wars_lobby
+  rotate: false
+  xy: 680,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 312
+crew_wars_lobby
+  rotate: false
+  xy: 714,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 313
+crew_wars_lobby
+  rotate: false
+  xy: 748,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 314
+crew_wars_lobby
+  rotate: false
+  xy: 782,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 315
+crew_wars_lobby
+  rotate: false
+  xy: 816,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 316
+crew_wars_lobby
+  rotate: false
+  xy: 850,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 317
+crew_wars_lobby
+  rotate: false
+  xy: 884,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 318
+crew_wars_lobby
+  rotate: false
+  xy: 918,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 319
+crew_wars_lobby
+  rotate: false
+  xy: 952,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 320
+crew_wars_lobby
+  rotate: false
+  xy: 0,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 321
+crew_wars_lobby
+  rotate: false
+  xy: 34,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 322
+crew_wars_lobby
+  rotate: false
+  xy: 68,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 323
+crew_wars_lobby
+  rotate: false
+  xy: 102,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 324
+crew_wars_lobby
+  rotate: false
+  xy: 136,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 325
+crew_wars_lobby
+  rotate: false
+  xy: 170,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 326
+crew_wars_lobby
+  rotate: false
+  xy: 204,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 327
+crew_wars_lobby
+  rotate: false
+  xy: 238,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 328
+crew_wars_lobby
+  rotate: false
+  xy: 272,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 329
+crew_wars_lobby
+  rotate: false
+  xy: 306,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 330
+crew_wars_lobby
+  rotate: false
+  xy: 340,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 331
+crew_wars_lobby
+  rotate: false
+  xy: 374,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 332
+crew_wars_lobby
+  rotate: false
+  xy: 408,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 333
+crew_wars_lobby
+  rotate: false
+  xy: 442,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 334
+crew_wars_lobby
+  rotate: false
+  xy: 476,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 337
+crew_wars_lobby
+  rotate: false
+  xy: 510,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 338
+crew_wars_lobby
+  rotate: false
+  xy: 544,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 339
+crew_wars_lobby
+  rotate: false
+  xy: 578,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 340
+crew_wars_lobby
+  rotate: false
+  xy: 612,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 341
+crew_wars_lobby
+  rotate: false
+  xy: 646,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 342
+crew_wars_lobby
+  rotate: false
+  xy: 680,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 343
+crew_wars_lobby
+  rotate: false
+  xy: 714,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 344
+crew_wars_lobby
+  rotate: false
+  xy: 748,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 345
+crew_wars_lobby
+  rotate: false
+  xy: 782,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 346
+crew_wars_lobby
+  rotate: false
+  xy: 816,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 347
+crew_wars_lobby
+  rotate: false
+  xy: 850,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 348
+crew_wars_lobby
+  rotate: false
+  xy: 884,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 349
+crew_wars_lobby
+  rotate: false
+  xy: 918,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 350
+crew_wars_lobby
+  rotate: false
+  xy: 952,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 351
+crew_wars_lobby
+  rotate: false
+  xy: 0,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 352
+crew_wars_lobby
+  rotate: false
+  xy: 34,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 353
+crew_wars_lobby
+  rotate: false
+  xy: 68,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 354
+crew_wars_lobby
+  rotate: false
+  xy: 102,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 355
+crew_wars_lobby
+  rotate: false
+  xy: 136,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 356
+crew_wars_lobby
+  rotate: false
+  xy: 170,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 357
+crew_wars_lobby
+  rotate: false
+  xy: 204,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 358
+crew_wars_lobby
+  rotate: false
+  xy: 238,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 359
+crew_wars_lobby
+  rotate: false
+  xy: 272,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 360
+crew_wars_lobby
+  rotate: false
+  xy: 306,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 361
+crew_wars_lobby
+  rotate: false
+  xy: 340,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 362
+crew_wars_lobby
+  rotate: false
+  xy: 374,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 363
+crew_wars_lobby
+  rotate: false
+  xy: 408,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 364
+crew_wars_lobby
+  rotate: false
+  xy: 442,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 365
+crew_wars_lobby
+  rotate: false
+  xy: 476,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 366
+crew_wars_lobby
+  rotate: false
+  xy: 510,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 369
+crew_wars_lobby
+  rotate: false
+  xy: 544,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 370
+crew_wars_lobby
+  rotate: false
+  xy: 578,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 371
+crew_wars_lobby
+  rotate: false
+  xy: 612,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 372
+crew_wars_lobby
+  rotate: false
+  xy: 646,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 373
+crew_wars_lobby
+  rotate: false
+  xy: 680,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 374
+crew_wars_lobby
+  rotate: false
+  xy: 714,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 375
+crew_wars_lobby
+  rotate: false
+  xy: 748,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 376
+crew_wars_lobby
+  rotate: false
+  xy: 782,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 377
+crew_wars_lobby
+  rotate: false
+  xy: 816,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 378
+crew_wars_lobby
+  rotate: false
+  xy: 850,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 379
+crew_wars_lobby
+  rotate: false
+  xy: 884,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 380
+crew_wars_lobby
+  rotate: false
+  xy: 918,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 381
+crew_wars_lobby
+  rotate: false
+  xy: 952,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 382
+crew_wars_lobby
+  rotate: false
+  xy: 0,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 383
+crew_wars_lobby
+  rotate: false
+  xy: 34,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 384
+crew_wars_lobby
+  rotate: false
+  xy: 68,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 385
+crew_wars_lobby
+  rotate: false
+  xy: 102,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 386
+crew_wars_lobby
+  rotate: false
+  xy: 136,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 387
+crew_wars_lobby
+  rotate: false
+  xy: 170,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 388
+crew_wars_lobby
+  rotate: false
+  xy: 204,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 389
+crew_wars_lobby
+  rotate: false
+  xy: 238,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 390
+crew_wars_lobby
+  rotate: false
+  xy: 272,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 391
+crew_wars_lobby
+  rotate: false
+  xy: 306,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 392
+crew_wars_lobby
+  rotate: false
+  xy: 340,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 393
+crew_wars_lobby
+  rotate: false
+  xy: 374,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 394
+crew_wars_lobby
+  rotate: false
+  xy: 408,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 395
+crew_wars_lobby
+  rotate: false
+  xy: 442,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 396
+crew_wars_lobby
+  rotate: false
+  xy: 476,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 397
+crew_wars_lobby
+  rotate: false
+  xy: 510,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 398
+crew_wars_lobby
+  rotate: false
+  xy: 544,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 399
+crew_wars_lobby
+  rotate: false
+  xy: 578,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 400
+crew_wars_lobby
+  rotate: false
+  xy: 612,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 401
+crew_wars_lobby
+  rotate: false
+  xy: 646,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 402
+crew_wars_lobby
+  rotate: false
+  xy: 680,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 403
+crew_wars_lobby
+  rotate: false
+  xy: 714,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 404
+crew_wars_lobby
+  rotate: false
+  xy: 748,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 405
+crew_wars_lobby
+  rotate: false
+  xy: 782,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 406
+crew_wars_lobby
+  rotate: false
+  xy: 816,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 407
+crew_wars_lobby
+  rotate: false
+  xy: 850,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 408
+crew_wars_lobby
+  rotate: false
+  xy: 884,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 409
+crew_wars_lobby
+  rotate: false
+  xy: 918,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 410
+crew_wars_lobby
+  rotate: false
+  xy: 952,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 411
+crew_wars_lobby
+  rotate: false
+  xy: 0,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 412
+crew_wars_lobby
+  rotate: false
+  xy: 34,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 413
+crew_wars_lobby
+  rotate: false
+  xy: 68,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 414
+crew_wars_lobby
+  rotate: false
+  xy: 102,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 415
+crew_wars_lobby
+  rotate: false
+  xy: 136,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 416
+crew_wars_lobby
+  rotate: false
+  xy: 170,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 417
+crew_wars_lobby
+  rotate: false
+  xy: 204,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 418
+crew_wars_lobby
+  rotate: false
+  xy: 238,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 419
+crew_wars_lobby
+  rotate: false
+  xy: 272,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 420
+crew_wars_lobby
+  rotate: false
+  xy: 306,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 421
+crew_wars_lobby
+  rotate: false
+  xy: 340,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 422
+crew_wars_lobby
+  rotate: false
+  xy: 374,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 423
+crew_wars_lobby
+  rotate: false
+  xy: 408,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 424
+crew_wars_lobby
+  rotate: false
+  xy: 442,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 425
+crew_wars_lobby
+  rotate: false
+  xy: 476,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 426
+crew_wars_lobby
+  rotate: false
+  xy: 510,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 427
+crew_wars_lobby
+  rotate: false
+  xy: 544,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 428
+crew_wars_lobby
+  rotate: false
+  xy: 578,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 429
+crew_wars_lobby
+  rotate: false
+  xy: 612,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 430
+crew_wars_lobby
+  rotate: false
+  xy: 646,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 431
+crew_wars_lobby
+  rotate: false
+  xy: 680,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 432
+crew_wars_lobby
+  rotate: false
+  xy: 714,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 433
+crew_wars_lobby
+  rotate: false
+  xy: 748,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 434
+crew_wars_lobby
+  rotate: false
+  xy: 782,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 435
+crew_wars_lobby
+  rotate: false
+  xy: 816,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 436
+crew_wars_lobby
+  rotate: false
+  xy: 850,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 437
+crew_wars_lobby
+  rotate: false
+  xy: 884,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 438
+crew_wars_lobby
+  rotate: false
+  xy: 918,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 439
+crew_wars_lobby
+  rotate: false
+  xy: 952,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 440
+crew_wars_lobby
+  rotate: false
+  xy: 0,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 441
+crew_wars_lobby
+  rotate: false
+  xy: 34,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 442
+crew_wars_lobby
+  rotate: false
+  xy: 68,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 443
+crew_wars_lobby
+  rotate: false
+  xy: 102,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 444
+crew_wars_lobby
+  rotate: false
+  xy: 136,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 445
+crew_wars_lobby
+  rotate: false
+  xy: 170,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 446
+crew_wars_lobby
+  rotate: false
+  xy: 204,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 447
+crew_wars_lobby
+  rotate: false
+  xy: 238,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 448
+crew_wars_lobby
+  rotate: false
+  xy: 272,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 449
+crew_wars_lobby
+  rotate: false
+  xy: 306,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 450
+crew_wars_lobby
+  rotate: false
+  xy: 340,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 451
+crew_wars_lobby
+  rotate: false
+  xy: 374,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 452
+crew_wars_lobby
+  rotate: false
+  xy: 408,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 453
+crew_wars_lobby
+  rotate: false
+  xy: 442,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 454
+crew_wars_lobby
+  rotate: false
+  xy: 476,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 455
+crew_wars_lobby
+  rotate: false
+  xy: 510,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 456
+crew_wars_lobby
+  rotate: false
+  xy: 544,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 457
+crew_wars_lobby
+  rotate: false
+  xy: 578,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 458
+crew_wars_lobby
+  rotate: false
+  xy: 612,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 459
+crew_wars_lobby
+  rotate: false
+  xy: 646,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 460
+crew_wars_lobby
+  rotate: false
+  xy: 680,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 461
+crew_wars_lobby
+  rotate: false
+  xy: 714,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 462
+crew_wars_lobby
+  rotate: false
+  xy: 748,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 463
+crew_wars_lobby
+  rotate: false
+  xy: 782,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 464
+crew_wars_lobby
+  rotate: false
+  xy: 816,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 465
+crew_wars_lobby
+  rotate: false
+  xy: 850,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 466
+crew_wars_lobby
+  rotate: false
+  xy: 884,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 467
+crew_wars_lobby
+  rotate: false
+  xy: 918,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 468
+crew_wars_lobby
+  rotate: false
+  xy: 952,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 469
+crew_wars_lobby
+  rotate: false
+  xy: 0,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 470
+crew_wars_lobby
+  rotate: false
+  xy: 34,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 471
+crew_wars_lobby
+  rotate: false
+  xy: 68,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 472
+crew_wars_lobby
+  rotate: false
+  xy: 102,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 473
+crew_wars_lobby
+  rotate: false
+  xy: 136,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 474
+crew_wars_lobby
+  rotate: false
+  xy: 170,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 475
+crew_wars_lobby
+  rotate: false
+  xy: 204,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 476
+crew_wars_lobby
+  rotate: false
+  xy: 238,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 477
+crew_wars_lobby
+  rotate: false
+  xy: 272,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 478
+crew_wars_lobby
+  rotate: false
+  xy: 306,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 479
+crew_wars_lobby
+  rotate: false
+  xy: 340,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 480
+crew_wars_lobby
+  rotate: false
+  xy: 374,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 481
+crew_wars_lobby
+  rotate: false
+  xy: 408,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 482
+crew_wars_lobby
+  rotate: false
+  xy: 442,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 483
+crew_wars_lobby
+  rotate: false
+  xy: 476,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 484
+crew_wars_lobby
+  rotate: false
+  xy: 510,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 485
+crew_wars_lobby
+  rotate: false
+  xy: 544,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 486
+crew_wars_lobby
+  rotate: false
+  xy: 578,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 487
+crew_wars_lobby
+  rotate: false
+  xy: 612,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 488
+crew_wars_lobby
+  rotate: false
+  xy: 646,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 489
+crew_wars_lobby
+  rotate: false
+  xy: 680,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 490
+crew_wars_lobby
+  rotate: false
+  xy: 714,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 491
+crew_wars_lobby
+  rotate: false
+  xy: 748,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 492
+crew_wars_lobby
+  rotate: false
+  xy: 782,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 493
+crew_wars_lobby
+  rotate: false
+  xy: 816,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 494
+crew_wars_lobby
+  rotate: false
+  xy: 850,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 495
+crew_wars_lobby
+  rotate: false
+  xy: 884,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 496
+crew_wars_lobby
+  rotate: false
+  xy: 918,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 497
+crew_wars_lobby
+  rotate: false
+  xy: 952,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 498
+crew_wars_lobby
+  rotate: false
+  xy: 0,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 499
+crew_wars_lobby
+  rotate: false
+  xy: 34,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 500
+crew_wars_lobby
+  rotate: false
+  xy: 68,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 501
+crew_wars_lobby
+  rotate: false
+  xy: 102,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 502
+crew_wars_lobby
+  rotate: false
+  xy: 136,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 503
+crew_wars_lobby
+  rotate: false
+  xy: 170,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 504
+crew_wars_lobby
+  rotate: false
+  xy: 204,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 505
+crew_wars_lobby
+  rotate: false
+  xy: 238,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 506
+crew_wars_lobby
+  rotate: false
+  xy: 272,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 507
+crew_wars_lobby
+  rotate: false
+  xy: 306,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 508
+crew_wars_lobby
+  rotate: false
+  xy: 340,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 509
+crew_wars_lobby
+  rotate: false
+  xy: 374,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 510
+crew_wars_lobby
+  rotate: false
+  xy: 408,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 511
+crew_wars_lobby
+  rotate: false
+  xy: 442,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 512
+crew_wars_lobby
+  rotate: false
+  xy: 476,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 513
+crew_wars_lobby
+  rotate: false
+  xy: 510,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 514
+crew_wars_lobby
+  rotate: false
+  xy: 544,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 515
+crew_wars_lobby
+  rotate: false
+  xy: 578,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 516
+crew_wars_lobby
+  rotate: false
+  xy: 612,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 517
+crew_wars_lobby
+  rotate: false
+  xy: 646,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 518
+crew_wars_lobby
+  rotate: false
+  xy: 680,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 519
+crew_wars_lobby
+  rotate: false
+  xy: 714,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 520
+crew_wars_lobby
+  rotate: false
+  xy: 748,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 521
+crew_wars_lobby
+  rotate: false
+  xy: 782,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 522
+crew_wars_lobby
+  rotate: false
+  xy: 816,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 523
+crew_wars_lobby
+  rotate: false
+  xy: 850,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 524
+crew_wars_lobby
+  rotate: false
+  xy: 884,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 525
+crew_wars_lobby
+  rotate: false
+  xy: 918,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 526
+crew_wars_lobby
+  rotate: false
+  xy: 952,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 527
+crew_wars_lobby
+  rotate: false
+  xy: 0,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 528
+crew_wars_lobby
+  rotate: false
+  xy: 34,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 529
+crew_wars_lobby
+  rotate: false
+  xy: 68,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 530
+crew_wars_lobby
+  rotate: false
+  xy: 102,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 531
+crew_wars_lobby
+  rotate: false
+  xy: 136,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 532
+crew_wars_lobby
+  rotate: false
+  xy: 170,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 533
+crew_wars_lobby
+  rotate: false
+  xy: 204,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 534
+crew_wars_lobby
+  rotate: false
+  xy: 238,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 535
+crew_wars_lobby
+  rotate: false
+  xy: 272,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 536
+crew_wars_lobby
+  rotate: false
+  xy: 306,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 537
+crew_wars_lobby
+  rotate: false
+  xy: 340,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 538
+crew_wars_lobby
+  rotate: false
+  xy: 374,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 539
+crew_wars_lobby
+  rotate: false
+  xy: 408,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 540
+crew_wars_lobby
+  rotate: false
+  xy: 442,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 541
+crew_wars_lobby
+  rotate: false
+  xy: 476,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 542
+crew_wars_lobby
+  rotate: false
+  xy: 510,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 543
+crew_wars_lobby
+  rotate: false
+  xy: 544,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 544
+crew_wars_lobby
+  rotate: false
+  xy: 578,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 545
+crew_wars_lobby
+  rotate: false
+  xy: 612,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 546
+crew_wars_lobby
+  rotate: false
+  xy: 646,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 547
+crew_wars_lobby
+  rotate: false
+  xy: 680,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 548
+crew_wars_lobby
+  rotate: false
+  xy: 714,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 549
+crew_wars_lobby
+  rotate: false
+  xy: 748,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 550
+crew_wars_lobby
+  rotate: false
+  xy: 782,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 551
+crew_wars_lobby
+  rotate: false
+  xy: 816,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 552
+crew_wars_lobby
+  rotate: false
+  xy: 850,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 553
+crew_wars_lobby
+  rotate: false
+  xy: 884,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 554
+crew_wars_lobby
+  rotate: false
+  xy: 918,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 555
+crew_wars_lobby
+  rotate: false
+  xy: 952,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 556
+crew_wars_lobby
+  rotate: false
+  xy: 0,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 557
+crew_wars_lobby
+  rotate: false
+  xy: 34,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 558
+crew_wars_lobby
+  rotate: false
+  xy: 68,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 559
+crew_wars_lobby
+  rotate: false
+  xy: 102,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 560
+crew_wars_lobby
+  rotate: false
+  xy: 136,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 561
+crew_wars_lobby
+  rotate: false
+  xy: 170,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 562
+crew_wars_lobby
+  rotate: false
+  xy: 204,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 563
+crew_wars_lobby
+  rotate: false
+  xy: 238,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 564
+crew_wars_lobby
+  rotate: false
+  xy: 272,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 565
+crew_wars_lobby
+  rotate: false
+  xy: 306,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 566
+crew_wars_lobby
+  rotate: false
+  xy: 340,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 567
+crew_wars_lobby
+  rotate: false
+  xy: 374,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 568
+crew_wars_lobby
+  rotate: false
+  xy: 408,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 569
+crew_wars_lobby
+  rotate: false
+  xy: 442,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 570
+crew_wars_lobby
+  rotate: false
+  xy: 476,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 571
+crew_wars_lobby
+  rotate: false
+  xy: 510,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 572
+crew_wars_lobby
+  rotate: false
+  xy: 544,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 573
+crew_wars_lobby
+  rotate: false
+  xy: 578,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 574
+crew_wars_lobby
+  rotate: false
+  xy: 612,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 575
+crew_wars_lobby
+  rotate: false
+  xy: 646,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 576
+crew_wars_lobby
+  rotate: false
+  xy: 680,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 577
+crew_wars_lobby
+  rotate: false
+  xy: 714,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 578
+crew_wars_lobby
+  rotate: false
+  xy: 748,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 579
+crew_wars_lobby
+  rotate: false
+  xy: 782,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 580
+crew_wars_lobby
+  rotate: false
+  xy: 816,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 581
+crew_wars_lobby
+  rotate: false
+  xy: 850,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 582
+crew_wars_lobby
+  rotate: false
+  xy: 884,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 583
+crew_wars_lobby
+  rotate: false
+  xy: 918,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 584
+crew_wars_lobby
+  rotate: false
+  xy: 952,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 585
+crew_wars_lobby
+  rotate: false
+  xy: 0,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 586
+crew_wars_lobby
+  rotate: false
+  xy: 34,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 587
+crew_wars_lobby
+  rotate: false
+  xy: 68,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 588
+crew_wars_lobby
+  rotate: false
+  xy: 102,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 589
+crew_wars_lobby
+  rotate: false
+  xy: 136,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 590
+crew_wars_lobby
+  rotate: false
+  xy: 170,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 591
+crew_wars_lobby
+  rotate: false
+  xy: 204,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 592
+crew_wars_lobby
+  rotate: false
+  xy: 238,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 593
+crew_wars_lobby
+  rotate: false
+  xy: 272,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 594
+crew_wars_lobby
+  rotate: false
+  xy: 306,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 595
+crew_wars_lobby
+  rotate: false
+  xy: 340,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 596
+crew_wars_lobby
+  rotate: false
+  xy: 374,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 597
+crew_wars_lobby
+  rotate: false
+  xy: 408,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 598
+crew_wars_lobby
+  rotate: false
+  xy: 442,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 599
+crew_wars_lobby
+  rotate: false
+  xy: 476,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 600
+crew_wars_lobby
+  rotate: false
+  xy: 510,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 601
+crew_wars_lobby
+  rotate: false
+  xy: 544,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 602
+crew_wars_lobby
+  rotate: false
+  xy: 578,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 603
+crew_wars_lobby
+  rotate: false
+  xy: 612,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 604
+crew_wars_lobby
+  rotate: false
+  xy: 646,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 605
+crew_wars_lobby
+  rotate: false
+  xy: 680,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 606
+crew_wars_lobby
+  rotate: false
+  xy: 714,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 607
+crew_wars_lobby
+  rotate: false
+  xy: 748,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 608
+crew_wars_lobby
+  rotate: false
+  xy: 782,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 609
+crew_wars_lobby
+  rotate: false
+  xy: 816,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 610
+crew_wars_lobby
+  rotate: false
+  xy: 850,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 611
+crew_wars_lobby
+  rotate: false
+  xy: 884,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 612
+crew_wars_lobby
+  rotate: false
+  xy: 918,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 613
+crew_wars_lobby
+  rotate: false
+  xy: 952,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 614
+crew_wars_lobby
+  rotate: false
+  xy: 0,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 615
+crew_wars_lobby
+  rotate: false
+  xy: 34,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 616
+crew_wars_lobby
+  rotate: false
+  xy: 68,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 617
+crew_wars_lobby
+  rotate: false
+  xy: 102,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 618
+crew_wars_lobby
+  rotate: false
+  xy: 136,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 619
+crew_wars_lobby
+  rotate: false
+  xy: 170,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 620
+crew_wars_lobby
+  rotate: false
+  xy: 204,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 621
+crew_wars_lobby
+  rotate: false
+  xy: 238,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 622
+crew_wars_lobby
+  rotate: false
+  xy: 272,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 623
+crew_wars_lobby
+  rotate: false
+  xy: 306,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 624
+crew_wars_lobby
+  rotate: false
+  xy: 340,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 625
+crew_wars_lobby
+  rotate: false
+  xy: 374,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 626
+crew_wars_lobby
+  rotate: false
+  xy: 408,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 627
+crew_wars_lobby
+  rotate: false
+  xy: 442,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 628
+crew_wars_lobby
+  rotate: false
+  xy: 476,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 629
+crew_wars_lobby
+  rotate: false
+  xy: 510,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 630
+crew_wars_lobby
+  rotate: false
+  xy: 544,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 631
+crew_wars_lobby
+  rotate: false
+  xy: 578,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 632
+crew_wars_lobby
+  rotate: false
+  xy: 612,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 633
+crew_wars_lobby
+  rotate: false
+  xy: 646,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 634
+crew_wars_lobby
+  rotate: false
+  xy: 680,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 635
+crew_wars_lobby
+  rotate: false
+  xy: 714,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 636
+crew_wars_lobby
+  rotate: false
+  xy: 748,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 637
+crew_wars_lobby
+  rotate: false
+  xy: 782,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 638
+crew_wars_lobby
+  rotate: false
+  xy: 816,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 639
+crew_wars_lobby
+  rotate: false
+  xy: 850,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 640
+crew_wars_lobby
+  rotate: false
+  xy: 884,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 641
+crew_wars_lobby
+  rotate: false
+  xy: 918,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 642
+crew_wars_lobby
+  rotate: false
+  xy: 952,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 643
+crew_wars_lobby
+  rotate: false
+  xy: 0,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 644
+crew_wars_lobby
+  rotate: false
+  xy: 34,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 645
+crew_wars_lobby
+  rotate: false
+  xy: 68,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 646
+crew_wars_lobby
+  rotate: false
+  xy: 102,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 647
+crew_wars_lobby
+  rotate: false
+  xy: 136,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 648
+crew_wars_lobby
+  rotate: false
+  xy: 170,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 649
+crew_wars_lobby
+  rotate: false
+  xy: 204,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 650
+crew_wars_lobby
+  rotate: false
+  xy: 238,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 651
+crew_wars_lobby
+  rotate: false
+  xy: 272,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 652
+crew_wars_lobby
+  rotate: false
+  xy: 306,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 653
+crew_wars_lobby
+  rotate: false
+  xy: 340,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 654
+crew_wars_lobby
+  rotate: false
+  xy: 374,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 655
+crew_wars_lobby
+  rotate: false
+  xy: 408,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 656
+crew_wars_lobby
+  rotate: false
+  xy: 442,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 657
+crew_wars_lobby
+  rotate: false
+  xy: 476,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 658
+crew_wars_lobby
+  rotate: false
+  xy: 510,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 659
+crew_wars_lobby
+  rotate: false
+  xy: 544,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 660
+crew_wars_lobby
+  rotate: false
+  xy: 578,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 661
+crew_wars_lobby
+  rotate: false
+  xy: 612,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 662
+crew_wars_lobby
+  rotate: false
+  xy: 646,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 663
+crew_wars_lobby
+  rotate: false
+  xy: 680,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 664
+crew_wars_lobby
+  rotate: false
+  xy: 714,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 665
+crew_wars_lobby
+  rotate: false
+  xy: 748,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 666
+crew_wars_lobby
+  rotate: false
+  xy: 782,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 667
+crew_wars_lobby
+  rotate: false
+  xy: 816,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 668
+crew_wars_lobby
+  rotate: false
+  xy: 850,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 669
+crew_wars_lobby
+  rotate: false
+  xy: 884,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 670
+crew_wars_lobby
+  rotate: false
+  xy: 918,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 671
+crew_wars_lobby
+  rotate: false
+  xy: 952,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 672
+crew_wars_lobby
+  rotate: false
+  xy: 0,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 673
+crew_wars_lobby
+  rotate: false
+  xy: 34,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 674
+crew_wars_lobby
+  rotate: false
+  xy: 68,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 675
+crew_wars_lobby
+  rotate: false
+  xy: 102,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 676
+crew_wars_lobby
+  rotate: false
+  xy: 136,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 677
+crew_wars_lobby
+  rotate: false
+  xy: 170,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 678
+crew_wars_lobby
+  rotate: false
+  xy: 204,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 679
+crew_wars_lobby
+  rotate: false
+  xy: 238,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 680
+crew_wars_lobby
+  rotate: false
+  xy: 272,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 681
+crew_wars_lobby
+  rotate: false
+  xy: 306,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 682
+crew_wars_lobby
+  rotate: false
+  xy: 340,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 683
+crew_wars_lobby
+  rotate: false
+  xy: 374,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 684
+crew_wars_lobby
+  rotate: false
+  xy: 408,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 685
+crew_wars_lobby
+  rotate: false
+  xy: 442,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 686
+crew_wars_lobby
+  rotate: false
+  xy: 476,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 687
+crew_wars_lobby
+  rotate: false
+  xy: 510,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 688
+crew_wars_lobby
+  rotate: false
+  xy: 544,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 689
+crew_wars_lobby
+  rotate: false
+  xy: 578,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 690
+crew_wars_lobby
+  rotate: false
+  xy: 612,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 691
+crew_wars_lobby
+  rotate: false
+  xy: 646,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 692
+crew_wars_lobby
+  rotate: false
+  xy: 680,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 693
+crew_wars_lobby
+  rotate: false
+  xy: 714,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 694
+crew_wars_lobby
+  rotate: false
+  xy: 748,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 695
+crew_wars_lobby
+  rotate: false
+  xy: 782,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 696
+crew_wars_lobby
+  rotate: false
+  xy: 816,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 697
+crew_wars_lobby
+  rotate: false
+  xy: 850,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 698
+crew_wars_lobby
+  rotate: false
+  xy: 884,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 699
+crew_wars_lobby
+  rotate: false
+  xy: 918,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 700
+crew_wars_lobby
+  rotate: false
+  xy: 952,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 701
+crew_wars_lobby
+  rotate: false
+  xy: 0,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 702
+crew_wars_lobby
+  rotate: false
+  xy: 34,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 703
+crew_wars_lobby
+  rotate: false
+  xy: 68,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 704
+crew_wars_lobby
+  rotate: false
+  xy: 102,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 705
+crew_wars_lobby
+  rotate: false
+  xy: 136,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 706
+crew_wars_lobby
+  rotate: false
+  xy: 170,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 707
+crew_wars_lobby
+  rotate: false
+  xy: 204,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 708
+crew_wars_lobby
+  rotate: false
+  xy: 238,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 709
+crew_wars_lobby
+  rotate: false
+  xy: 272,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 710
+crew_wars_lobby
+  rotate: false
+  xy: 306,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 711
+crew_wars_lobby
+  rotate: false
+  xy: 340,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 712
+crew_wars_lobby
+  rotate: false
+  xy: 374,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 713
+crew_wars_lobby
+  rotate: false
+  xy: 408,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 714
+crew_wars_lobby
+  rotate: false
+  xy: 442,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 715
+crew_wars_lobby
+  rotate: false
+  xy: 476,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 716
+crew_wars_lobby
+  rotate: false
+  xy: 510,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 717
+crew_wars_lobby
+  rotate: false
+  xy: 544,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 718
+crew_wars_lobby
+  rotate: false
+  xy: 578,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 719
+crew_wars_lobby
+  rotate: false
+  xy: 612,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 720
+crew_wars_lobby
+  rotate: false
+  xy: 646,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 721
+crew_wars_lobby
+  rotate: false
+  xy: 680,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 722
+crew_wars_lobby
+  rotate: false
+  xy: 714,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 723
+crew_wars_lobby
+  rotate: false
+  xy: 748,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 724
+crew_wars_lobby
+  rotate: false
+  xy: 782,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 725
+crew_wars_lobby
+  rotate: false
+  xy: 816,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 726
+crew_wars_lobby
+  rotate: false
+  xy: 850,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 727
+crew_wars_lobby
+  rotate: false
+  xy: 884,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 728
+crew_wars_lobby
+  rotate: false
+  xy: 918,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 729
+crew_wars_lobby
+  rotate: false
+  xy: 952,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 730
+crew_wars_lobby
+  rotate: false
+  xy: 0,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 731
+crew_wars_lobby
+  rotate: false
+  xy: 34,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 732
+crew_wars_lobby
+  rotate: false
+  xy: 68,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 733
+crew_wars_lobby
+  rotate: false
+  xy: 102,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 734
+crew_wars_lobby
+  rotate: false
+  xy: 136,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 735
+crew_wars_lobby
+  rotate: false
+  xy: 170,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 736
+crew_wars_lobby
+  rotate: false
+  xy: 204,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 737
+crew_wars_lobby
+  rotate: false
+  xy: 238,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 738
+crew_wars_lobby
+  rotate: false
+  xy: 272,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 739
+crew_wars_lobby
+  rotate: false
+  xy: 306,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 740
+crew_wars_lobby
+  rotate: false
+  xy: 340,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 741
+crew_wars_lobby
+  rotate: false
+  xy: 374,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 742
+crew_wars_lobby
+  rotate: false
+  xy: 408,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 743
+crew_wars_lobby
+  rotate: false
+  xy: 442,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 744
+crew_wars_lobby
+  rotate: false
+  xy: 476,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 745
+crew_wars_lobby
+  rotate: false
+  xy: 510,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 746
+crew_wars_lobby
+  rotate: false
+  xy: 544,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 747
+crew_wars_lobby
+  rotate: false
+  xy: 578,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 748
+crew_wars_lobby
+  rotate: false
+  xy: 612,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 749
+crew_wars_lobby
+  rotate: false
+  xy: 646,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 750
+crew_wars_lobby
+  rotate: false
+  xy: 680,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 751
+crew_wars_lobby
+  rotate: false
+  xy: 714,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 752
+crew_wars_lobby
+  rotate: false
+  xy: 748,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 753
+crew_wars_lobby
+  rotate: false
+  xy: 782,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 754
+crew_wars_lobby
+  rotate: false
+  xy: 816,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 755
+crew_wars_lobby
+  rotate: false
+  xy: 850,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 756
+crew_wars_lobby
+  rotate: false
+  xy: 884,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 757
+crew_wars_lobby
+  rotate: false
+  xy: 918,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 758
+crew_wars_lobby
+  rotate: false
+  xy: 952,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 759
+crew_wars_lobby
+  rotate: false
+  xy: 0,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 760
+crew_wars_lobby
+  rotate: false
+  xy: 34,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 761
+crew_wars_lobby
+  rotate: false
+  xy: 68,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 762
+crew_wars_lobby
+  rotate: false
+  xy: 102,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 763
+crew_wars_lobby
+  rotate: false
+  xy: 136,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 764
+crew_wars_lobby
+  rotate: false
+  xy: 170,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 765
+crew_wars_lobby
+  rotate: false
+  xy: 204,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 766
+crew_wars_lobby
+  rotate: false
+  xy: 238,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 767
+crew_wars_lobby
+  rotate: false
+  xy: 272,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 768
+crew_wars_lobby
+  rotate: false
+  xy: 306,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 769
+crew_wars_lobby
+  rotate: false
+  xy: 340,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 770
+crew_wars_lobby
+  rotate: false
+  xy: 374,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 771
+crew_wars_lobby
+  rotate: false
+  xy: 408,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 772
+crew_wars_lobby
+  rotate: false
+  xy: 442,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 773
+crew_wars_lobby
+  rotate: false
+  xy: 476,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 774
+crew_wars_lobby
+  rotate: false
+  xy: 510,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 775
+crew_wars_lobby
+  rotate: false
+  xy: 544,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 776
+crew_wars_lobby
+  rotate: false
+  xy: 578,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 777
+crew_wars_lobby
+  rotate: false
+  xy: 612,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 778
+crew_wars_lobby
+  rotate: false
+  xy: 646,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 779
+crew_wars_lobby
+  rotate: false
+  xy: 680,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 780
+crew_wars_lobby
+  rotate: false
+  xy: 714,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 781
+crew_wars_lobby
+  rotate: false
+  xy: 748,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 782
+crew_wars_lobby
+  rotate: false
+  xy: 782,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 783
+crew_wars_lobby
+  rotate: false
+  xy: 816,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 784
+crew_wars_lobby
+  rotate: false
+  xy: 850,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 785
+crew_wars_lobby
+  rotate: false
+  xy: 884,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 786
+crew_wars_lobby
+  rotate: false
+  xy: 918,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 787
+crew_wars_lobby
+  rotate: false
+  xy: 952,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 788
+crew_wars_lobby
+  rotate: false
+  xy: 0,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 789
+crew_wars_lobby
+  rotate: false
+  xy: 34,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 790
+crew_wars_lobby
+  rotate: false
+  xy: 68,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 791
+crew_wars_lobby
+  rotate: false
+  xy: 102,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 792
+crew_wars_lobby
+  rotate: false
+  xy: 136,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 793
+crew_wars_lobby
+  rotate: false
+  xy: 170,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 794
+crew_wars_lobby
+  rotate: false
+  xy: 204,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 795
+crew_wars_lobby
+  rotate: false
+  xy: 238,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 796
+crew_wars_lobby
+  rotate: false
+  xy: 272,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 797
+crew_wars_lobby
+  rotate: false
+  xy: 306,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 798
+crew_wars_lobby
+  rotate: false
+  xy: 340,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 799
+crew_wars_lobby
+  rotate: false
+  xy: 374,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 800
+crew_wars_lobby
+  rotate: false
+  xy: 408,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 801
+crew_wars_lobby
+  rotate: false
+  xy: 442,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 802
+crew_wars_lobby
+  rotate: false
+  xy: 476,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 803
+crew_wars_lobby
+  rotate: false
+  xy: 510,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 804
+crew_wars_lobby
+  rotate: false
+  xy: 544,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 805
+crew_wars_lobby
+  rotate: false
+  xy: 578,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 806
+crew_wars_lobby
+  rotate: false
+  xy: 612,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 807
+crew_wars_lobby
+  rotate: false
+  xy: 646,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 808
+crew_wars_lobby
+  rotate: false
+  xy: 680,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 809
+crew_wars_lobby
+  rotate: false
+  xy: 714,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 810
+crew_wars_lobby
+  rotate: false
+  xy: 748,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 811
+crew_wars_lobby
+  rotate: false
+  xy: 782,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 812
+crew_wars_lobby
+  rotate: false
+  xy: 816,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 813
+crew_wars_lobby
+  rotate: false
+  xy: 850,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 814
+crew_wars_lobby
+  rotate: false
+  xy: 884,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 815
+crew_wars_lobby
+  rotate: false
+  xy: 918,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 816
+crew_wars_lobby
+  rotate: false
+  xy: 952,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 817
+crew_wars_lobby
+  rotate: false
+  xy: 0,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 818
+crew_wars_lobby
+  rotate: false
+  xy: 34,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 819
+crew_wars_lobby
+  rotate: false
+  xy: 68,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 820
+crew_wars_lobby
+  rotate: false
+  xy: 102,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 821
+crew_wars_lobby
+  rotate: false
+  xy: 136,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 822
+crew_wars_lobby
+  rotate: false
+  xy: 170,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 823
+crew_wars_lobby
+  rotate: false
+  xy: 204,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 824
+crew_wars_lobby
+  rotate: false
+  xy: 238,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 825
+crew_wars_lobby
+  rotate: false
+  xy: 272,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 826
+crew_wars_lobby
+  rotate: false
+  xy: 306,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 827
+crew_wars_lobby
+  rotate: false
+  xy: 340,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 828
+crew_wars_lobby
+  rotate: false
+  xy: 374,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 829
+crew_wars_lobby
+  rotate: false
+  xy: 408,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 830
+crew_wars_lobby
+  rotate: false
+  xy: 442,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 831
+crew_wars_lobby
+  rotate: false
+  xy: 476,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 832
+crew_wars_lobby
+  rotate: false
+  xy: 510,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 833
+crew_wars_lobby
+  rotate: false
+  xy: 544,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 834
+crew_wars_lobby
+  rotate: false
+  xy: 578,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 835
+crew_wars_lobby
+  rotate: false
+  xy: 612,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 836
+crew_wars_lobby
+  rotate: false
+  xy: 646,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 837
+crew_wars_lobby
+  rotate: false
+  xy: 680,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 838
+crew_wars_lobby
+  rotate: false
+  xy: 714,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 839
+crew_wars_lobby
+  rotate: false
+  xy: 748,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 840
+crew_wars_lobby
+  rotate: false
+  xy: 782,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 841
+crew_wars_lobby
+  rotate: false
+  xy: 816,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 842
+crew_wars_lobby
+  rotate: false
+  xy: 850,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 843
+crew_wars_lobby
+  rotate: false
+  xy: 884,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 844
+crew_wars_lobby
+  rotate: false
+  xy: 918,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 845
+crew_wars_lobby
+  rotate: false
+  xy: 952,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 846
+
+605_2.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+crew_wars_lobby
+  rotate: false
+  xy: 2,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 847
+crew_wars_lobby
+  rotate: false
+  xy: 36,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 848
+crew_wars_lobby
+  rotate: false
+  xy: 70,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 849
+crew_wars_lobby
+  rotate: false
+  xy: 104,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 850
+crew_wars_lobby
+  rotate: false
+  xy: 138,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 851
+crew_wars_lobby
+  rotate: false
+  xy: 172,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 852
+crew_wars_lobby
+  rotate: false
+  xy: 206,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 853
+crew_wars_lobby
+  rotate: false
+  xy: 240,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 854
+crew_wars_lobby
+  rotate: false
+  xy: 274,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 855
+crew_wars_lobby
+  rotate: false
+  xy: 308,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 856
+crew_wars_lobby
+  rotate: false
+  xy: 342,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 857
+crew_wars_lobby
+  rotate: false
+  xy: 376,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 858
+crew_wars_lobby
+  rotate: false
+  xy: 410,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 859
+crew_wars_lobby
+  rotate: false
+  xy: 444,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 860
+crew_wars_lobby
+  rotate: false
+  xy: 478,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 861
+crew_wars_lobby
+  rotate: false
+  xy: 512,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 862
+crew_wars_lobby
+  rotate: false
+  xy: 546,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 863
+crew_wars_lobby
+  rotate: false
+  xy: 580,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 864
+crew_wars_lobby
+  rotate: false
+  xy: 614,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 865
+crew_wars_lobby
+  rotate: false
+  xy: 648,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 866
+crew_wars_lobby
+  rotate: false
+  xy: 682,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 867
+crew_wars_lobby
+  rotate: false
+  xy: 716,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 868
+crew_wars_lobby
+  rotate: false
+  xy: 750,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 869
+crew_wars_lobby
+  rotate: false
+  xy: 784,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 870
+crew_wars_lobby
+  rotate: false
+  xy: 818,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 871
+crew_wars_lobby
+  rotate: false
+  xy: 852,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 872
+crew_wars_lobby
+  rotate: false
+  xy: 886,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 873
+crew_wars_lobby
+  rotate: false
+  xy: 920,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 874
+crew_wars_lobby
+  rotate: false
+  xy: 954,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 875
+crew_wars_lobby
+  rotate: false
+  xy: 0,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 876
+crew_wars_lobby
+  rotate: false
+  xy: 34,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 877
+crew_wars_lobby
+  rotate: false
+  xy: 68,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 878
+crew_wars_lobby
+  rotate: false
+  xy: 102,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 879
+crew_wars_lobby
+  rotate: false
+  xy: 136,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 880
+crew_wars_lobby
+  rotate: false
+  xy: 170,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 881
+crew_wars_lobby
+  rotate: false
+  xy: 204,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 882
+crew_wars_lobby
+  rotate: false
+  xy: 238,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 883
+crew_wars_lobby
+  rotate: false
+  xy: 272,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 884
+crew_wars_lobby
+  rotate: false
+  xy: 306,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 885
+crew_wars_lobby
+  rotate: false
+  xy: 340,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 886
+crew_wars_lobby
+  rotate: false
+  xy: 374,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 887
+crew_wars_lobby
+  rotate: false
+  xy: 408,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 888
+crew_wars_lobby
+  rotate: false
+  xy: 442,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 889
+crew_wars_lobby
+  rotate: false
+  xy: 476,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 890
+crew_wars_lobby
+  rotate: false
+  xy: 510,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 891
+crew_wars_lobby
+  rotate: false
+  xy: 544,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 892
+crew_wars_lobby
+  rotate: false
+  xy: 578,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 893
+crew_wars_lobby
+  rotate: false
+  xy: 612,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 894
+crew_wars_lobby
+  rotate: false
+  xy: 646,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 895
+crew_wars_lobby
+  rotate: false
+  xy: 680,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 896
+crew_wars_lobby
+  rotate: false
+  xy: 714,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 897
+crew_wars_lobby
+  rotate: false
+  xy: 748,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 898
+crew_wars_lobby
+  rotate: false
+  xy: 782,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 899
+crew_wars_lobby
+  rotate: false
+  xy: 816,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 900
+crew_wars_lobby
+  rotate: false
+  xy: 850,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 901
+crew_wars_lobby
+  rotate: false
+  xy: 884,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 902
+crew_wars_lobby
+  rotate: false
+  xy: 918,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 903
+crew_wars_lobby
+  rotate: false
+  xy: 952,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 904
+crew_wars_lobby
+  rotate: false
+  xy: 0,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 905
+crew_wars_lobby
+  rotate: false
+  xy: 34,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 906
+crew_wars_lobby
+  rotate: false
+  xy: 68,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 907
+crew_wars_lobby
+  rotate: false
+  xy: 102,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 908
+crew_wars_lobby
+  rotate: false
+  xy: 136,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 909
+crew_wars_lobby
+  rotate: false
+  xy: 170,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 910
+crew_wars_lobby
+  rotate: false
+  xy: 204,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 911
+crew_wars_lobby
+  rotate: false
+  xy: 238,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 912
+crew_wars_lobby
+  rotate: false
+  xy: 272,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 913
+crew_wars_lobby
+  rotate: false
+  xy: 306,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 914
+crew_wars_lobby
+  rotate: false
+  xy: 340,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 915
+crew_wars_lobby
+  rotate: false
+  xy: 374,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 916
+crew_wars_lobby
+  rotate: false
+  xy: 408,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 917
+crew_wars_lobby
+  rotate: false
+  xy: 442,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 918
+crew_wars_lobby
+  rotate: false
+  xy: 476,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 919
+crew_wars_lobby
+  rotate: false
+  xy: 510,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 920
+crew_wars_lobby
+  rotate: false
+  xy: 544,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 921
+crew_wars_lobby
+  rotate: false
+  xy: 578,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 922
+crew_wars_lobby
+  rotate: false
+  xy: 612,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 923
+crew_wars_lobby
+  rotate: false
+  xy: 646,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 924
+crew_wars_lobby
+  rotate: false
+  xy: 680,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 925
+crew_wars_lobby
+  rotate: false
+  xy: 714,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 926
+crew_wars_lobby
+  rotate: false
+  xy: 748,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 927
+crew_wars_lobby
+  rotate: false
+  xy: 782,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 928
+crew_wars_lobby
+  rotate: false
+  xy: 816,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 929
+crew_wars_lobby
+  rotate: false
+  xy: 850,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 930
+crew_wars_lobby
+  rotate: false
+  xy: 884,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 931
+crew_wars_lobby
+  rotate: false
+  xy: 918,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 932
+crew_wars_lobby
+  rotate: false
+  xy: 952,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 933
+crew_wars_lobby
+  rotate: false
+  xy: 0,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 934
+crew_wars_lobby
+  rotate: false
+  xy: 34,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 935
+crew_wars_lobby
+  rotate: false
+  xy: 68,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 936
+crew_wars_lobby
+  rotate: false
+  xy: 102,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 937
+crew_wars_lobby
+  rotate: false
+  xy: 136,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 938
+crew_wars_lobby
+  rotate: false
+  xy: 170,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 939
+crew_wars_lobby
+  rotate: false
+  xy: 204,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 940
+crew_wars_lobby
+  rotate: false
+  xy: 238,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 941
+crew_wars_lobby
+  rotate: false
+  xy: 272,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 942
+crew_wars_lobby
+  rotate: false
+  xy: 306,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 943
+crew_wars_lobby
+  rotate: false
+  xy: 340,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 944
+crew_wars_lobby
+  rotate: false
+  xy: 374,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 945
+crew_wars_lobby
+  rotate: false
+  xy: 408,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 946
+crew_wars_lobby
+  rotate: false
+  xy: 442,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 947
+crew_wars_lobby
+  rotate: false
+  xy: 476,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 948
+crew_wars_lobby
+  rotate: false
+  xy: 510,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 949
+crew_wars_lobby
+  rotate: false
+  xy: 544,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 950
+crew_wars_lobby
+  rotate: false
+  xy: 578,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 951
+crew_wars_lobby
+  rotate: false
+  xy: 612,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 952
+crew_wars_lobby
+  rotate: false
+  xy: 646,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 953
+crew_wars_lobby
+  rotate: false
+  xy: 680,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 954
+crew_wars_lobby
+  rotate: false
+  xy: 714,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 955
+crew_wars_lobby
+  rotate: false
+  xy: 748,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 956
+crew_wars_lobby
+  rotate: false
+  xy: 782,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 957
+crew_wars_lobby
+  rotate: false
+  xy: 816,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 958
+crew_wars_lobby
+  rotate: false
+  xy: 850,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 959
+crew_wars_lobby
+  rotate: false
+  xy: 884,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 960
+crew_wars_lobby
+  rotate: false
+  xy: 918,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 961
+crew_wars_lobby
+  rotate: false
+  xy: 952,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 962
+crew_wars_lobby
+  rotate: false
+  xy: 0,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 963
+crew_wars_lobby
+  rotate: false
+  xy: 34,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 964
+crew_wars_lobby
+  rotate: false
+  xy: 68,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 965
+crew_wars_lobby
+  rotate: false
+  xy: 102,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 966
+crew_wars_lobby
+  rotate: false
+  xy: 136,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 967
+crew_wars_lobby
+  rotate: false
+  xy: 170,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 968
+crew_wars_lobby
+  rotate: false
+  xy: 204,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 969
+crew_wars_lobby
+  rotate: false
+  xy: 238,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 970
+crew_wars_lobby
+  rotate: false
+  xy: 272,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 971
+crew_wars_lobby
+  rotate: false
+  xy: 306,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 972
+crew_wars_lobby
+  rotate: false
+  xy: 340,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 973
+crew_wars_lobby
+  rotate: false
+  xy: 374,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 974
+crew_wars_lobby
+  rotate: false
+  xy: 408,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 975
+crew_wars_lobby
+  rotate: false
+  xy: 442,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 976
+crew_wars_lobby
+  rotate: false
+  xy: 476,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 977
+crew_wars_lobby
+  rotate: false
+  xy: 510,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 978
+crew_wars_lobby
+  rotate: false
+  xy: 544,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 979
+crew_wars_lobby
+  rotate: false
+  xy: 578,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 980
+crew_wars_lobby
+  rotate: false
+  xy: 612,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 981
+crew_wars_lobby
+  rotate: false
+  xy: 646,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 982
+crew_wars_lobby
+  rotate: false
+  xy: 680,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 983
+crew_wars_lobby
+  rotate: false
+  xy: 714,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 984
+crew_wars_lobby
+  rotate: false
+  xy: 748,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 985
+crew_wars_lobby
+  rotate: false
+  xy: 782,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 986
+crew_wars_lobby
+  rotate: false
+  xy: 816,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 987
+crew_wars_lobby
+  rotate: false
+  xy: 850,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 988
+crew_wars_lobby
+  rotate: false
+  xy: 884,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 989
+crew_wars_lobby
+  rotate: false
+  xy: 918,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 990
+crew_wars_lobby
+  rotate: false
+  xy: 952,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 991
+crew_wars_lobby
+  rotate: false
+  xy: 0,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 992
+crew_wars_lobby
+  rotate: false
+  xy: 34,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 993
+crew_wars_lobby
+  rotate: false
+  xy: 68,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 994
+crew_wars_lobby
+  rotate: false
+  xy: 102,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 995
+crew_wars_lobby
+  rotate: false
+  xy: 136,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 996
+crew_wars_lobby
+  rotate: false
+  xy: 170,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 997
+crew_wars_lobby
+  rotate: false
+  xy: 204,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 998
+crew_wars_lobby
+  rotate: false
+  xy: 238,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 999
+crew_wars_lobby
+  rotate: false
+  xy: 272,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1000
+crew_wars_lobby
+  rotate: false
+  xy: 306,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1001
+crew_wars_lobby
+  rotate: false
+  xy: 340,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1002
+crew_wars_lobby
+  rotate: false
+  xy: 374,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1003
+crew_wars_lobby
+  rotate: false
+  xy: 408,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1004
+crew_wars_lobby
+  rotate: false
+  xy: 442,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1005
+crew_wars_lobby
+  rotate: false
+  xy: 476,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1006
+crew_wars_lobby
+  rotate: false
+  xy: 510,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1007
+crew_wars_lobby
+  rotate: false
+  xy: 544,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1008
+crew_wars_lobby
+  rotate: false
+  xy: 578,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1009
+crew_wars_lobby
+  rotate: false
+  xy: 612,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1010
+crew_wars_lobby
+  rotate: false
+  xy: 646,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1011
+crew_wars_lobby
+  rotate: false
+  xy: 680,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1012
+crew_wars_lobby
+  rotate: false
+  xy: 714,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1013
+crew_wars_lobby
+  rotate: false
+  xy: 748,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1014
+crew_wars_lobby
+  rotate: false
+  xy: 782,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1015
+crew_wars_lobby
+  rotate: false
+  xy: 816,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1016
+crew_wars_lobby
+  rotate: false
+  xy: 850,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1017
+crew_wars_lobby
+  rotate: false
+  xy: 884,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1018
+crew_wars_lobby
+  rotate: false
+  xy: 918,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1019
+crew_wars_lobby
+  rotate: false
+  xy: 952,172
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1020
+crew_wars_lobby
+  rotate: false
+  xy: 0,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1021
+crew_wars_lobby
+  rotate: false
+  xy: 34,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1022
+crew_wars_lobby
+  rotate: false
+  xy: 68,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1023
+crew_wars_lobby
+  rotate: false
+  xy: 102,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1025
+crew_wars_lobby
+  rotate: false
+  xy: 136,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1026
+crew_wars_lobby
+  rotate: false
+  xy: 170,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1027
+crew_wars_lobby
+  rotate: false
+  xy: 204,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1028
+crew_wars_lobby
+  rotate: false
+  xy: 238,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1029
+crew_wars_lobby
+  rotate: false
+  xy: 272,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1030
+crew_wars_lobby
+  rotate: false
+  xy: 306,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1031
+crew_wars_lobby
+  rotate: false
+  xy: 340,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1047
+crew_wars_lobby
+  rotate: false
+  xy: 374,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1048
+crew_wars_lobby
+  rotate: false
+  xy: 408,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1049
+crew_wars_lobby
+  rotate: false
+  xy: 442,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1050
+crew_wars_lobby
+  rotate: false
+  xy: 476,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1051
+crew_wars_lobby
+  rotate: false
+  xy: 510,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1052
+crew_wars_lobby
+  rotate: false
+  xy: 544,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1053
+crew_wars_lobby
+  rotate: false
+  xy: 578,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1057
+crew_wars_lobby
+  rotate: false
+  xy: 612,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1058
+crew_wars_lobby
+  rotate: false
+  xy: 646,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1059
+crew_wars_lobby
+  rotate: false
+  xy: 680,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1060
+crew_wars_lobby
+  rotate: false
+  xy: 714,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1061
+crew_wars_lobby
+  rotate: false
+  xy: 748,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1062
+crew_wars_lobby
+  rotate: false
+  xy: 782,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1063
+crew_wars_lobby
+  rotate: false
+  xy: 816,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1068
+crew_wars_lobby
+  rotate: false
+  xy: 850,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1069
+crew_wars_lobby
+  rotate: false
+  xy: 884,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1070
+crew_wars_lobby
+  rotate: false
+  xy: 918,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1071
+crew_wars_lobby
+  rotate: false
+  xy: 952,206
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1072
+crew_wars_lobby
+  rotate: false
+  xy: 0,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1073
+crew_wars_lobby
+  rotate: false
+  xy: 34,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1074
+crew_wars_lobby
+  rotate: false
+  xy: 68,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1075
+crew_wars_lobby
+  rotate: false
+  xy: 102,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1076
+crew_wars_lobby
+  rotate: false
+  xy: 136,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1079
+crew_wars_lobby
+  rotate: false
+  xy: 170,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1080
+crew_wars_lobby
+  rotate: false
+  xy: 204,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1081
+crew_wars_lobby
+  rotate: false
+  xy: 238,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1082
+crew_wars_lobby
+  rotate: false
+  xy: 272,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1083
+crew_wars_lobby
+  rotate: false
+  xy: 306,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1084
+crew_wars_lobby
+  rotate: false
+  xy: 340,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1085
+crew_wars_lobby
+  rotate: false
+  xy: 374,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1089
+crew_wars_lobby
+  rotate: false
+  xy: 408,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1090
+crew_wars_lobby
+  rotate: false
+  xy: 442,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1091
+crew_wars_lobby
+  rotate: false
+  xy: 476,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1092
+crew_wars_lobby
+  rotate: false
+  xy: 510,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1093
+crew_wars_lobby
+  rotate: false
+  xy: 544,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1094
+crew_wars_lobby
+  rotate: false
+  xy: 578,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1095
+crew_wars_lobby
+  rotate: false
+  xy: 612,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1100
+crew_wars_lobby
+  rotate: false
+  xy: 646,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1101
+crew_wars_lobby
+  rotate: false
+  xy: 680,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1102
+crew_wars_lobby
+  rotate: false
+  xy: 714,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1103
+crew_wars_lobby
+  rotate: false
+  xy: 748,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1104
+crew_wars_lobby
+  rotate: false
+  xy: 782,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1105
+crew_wars_lobby
+  rotate: false
+  xy: 816,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1106
+crew_wars_lobby
+  rotate: false
+  xy: 850,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1107
+crew_wars_lobby
+  rotate: false
+  xy: 884,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1108
+crew_wars_lobby
+  rotate: false
+  xy: 918,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1111
+crew_wars_lobby
+  rotate: false
+  xy: 952,240
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1112
+crew_wars_lobby
+  rotate: false
+  xy: 0,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1113
+crew_wars_lobby
+  rotate: false
+  xy: 34,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1114
+crew_wars_lobby
+  rotate: false
+  xy: 68,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1115
+crew_wars_lobby
+  rotate: false
+  xy: 102,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1116
+crew_wars_lobby
+  rotate: false
+  xy: 136,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1117
+crew_wars_lobby
+  rotate: false
+  xy: 170,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1121
+crew_wars_lobby
+  rotate: false
+  xy: 204,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1122
+crew_wars_lobby
+  rotate: false
+  xy: 238,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1123
+crew_wars_lobby
+  rotate: false
+  xy: 272,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1124
+crew_wars_lobby
+  rotate: false
+  xy: 306,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1125
+crew_wars_lobby
+  rotate: false
+  xy: 340,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1126
+crew_wars_lobby
+  rotate: false
+  xy: 374,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1127
+crew_wars_lobby
+  rotate: false
+  xy: 408,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1132
+crew_wars_lobby
+  rotate: false
+  xy: 442,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1133
+crew_wars_lobby
+  rotate: false
+  xy: 476,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1134
+crew_wars_lobby
+  rotate: false
+  xy: 510,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1137
+crew_wars_lobby
+  rotate: false
+  xy: 544,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1138
+crew_wars_lobby
+  rotate: false
+  xy: 578,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1139
+crew_wars_lobby
+  rotate: false
+  xy: 612,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1140
+crew_wars_lobby
+  rotate: false
+  xy: 646,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1143
+crew_wars_lobby
+  rotate: false
+  xy: 680,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1144
+crew_wars_lobby
+  rotate: false
+  xy: 714,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1145
+crew_wars_lobby
+  rotate: false
+  xy: 748,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1146
+crew_wars_lobby
+  rotate: false
+  xy: 782,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1147
+crew_wars_lobby
+  rotate: false
+  xy: 816,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1148
+crew_wars_lobby
+  rotate: false
+  xy: 850,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1149
+crew_wars_lobby
+  rotate: false
+  xy: 884,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1153
+crew_wars_lobby
+  rotate: false
+  xy: 918,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1154
+crew_wars_lobby
+  rotate: false
+  xy: 952,274
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1155
+crew_wars_lobby
+  rotate: false
+  xy: 0,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1156
+crew_wars_lobby
+  rotate: false
+  xy: 34,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1157
+crew_wars_lobby
+  rotate: false
+  xy: 68,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1158
+crew_wars_lobby
+  rotate: false
+  xy: 102,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1159
+crew_wars_lobby
+  rotate: false
+  xy: 136,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1164
+crew_wars_lobby
+  rotate: false
+  xy: 170,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1165
+crew_wars_lobby
+  rotate: false
+  xy: 204,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1166
+crew_wars_lobby
+  rotate: false
+  xy: 238,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1167
+crew_wars_lobby
+  rotate: false
+  xy: 272,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1169
+crew_wars_lobby
+  rotate: false
+  xy: 306,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1170
+crew_wars_lobby
+  rotate: false
+  xy: 340,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1171
+crew_wars_lobby
+  rotate: false
+  xy: 374,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1172
+crew_wars_lobby
+  rotate: false
+  xy: 408,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1175
+crew_wars_lobby
+  rotate: false
+  xy: 442,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1176
+crew_wars_lobby
+  rotate: false
+  xy: 476,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1177
+crew_wars_lobby
+  rotate: false
+  xy: 510,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1178
+crew_wars_lobby
+  rotate: false
+  xy: 544,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1179
+crew_wars_lobby
+  rotate: false
+  xy: 578,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1180
+crew_wars_lobby
+  rotate: false
+  xy: 612,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1181
+crew_wars_lobby
+  rotate: false
+  xy: 646,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1185
+crew_wars_lobby
+  rotate: false
+  xy: 680,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1186
+crew_wars_lobby
+  rotate: false
+  xy: 714,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1187
+crew_wars_lobby
+  rotate: false
+  xy: 748,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1188
+crew_wars_lobby
+  rotate: false
+  xy: 782,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1189
+crew_wars_lobby
+  rotate: false
+  xy: 816,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1190
+crew_wars_lobby
+  rotate: false
+  xy: 850,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1191
+crew_wars_lobby
+  rotate: false
+  xy: 884,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1192
+crew_wars_lobby
+  rotate: false
+  xy: 918,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1193
+crew_wars_lobby
+  rotate: false
+  xy: 952,308
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1194
+crew_wars_lobby
+  rotate: false
+  xy: 0,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1195
+crew_wars_lobby
+  rotate: false
+  xy: 34,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1196
+crew_wars_lobby
+  rotate: false
+  xy: 68,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1197
+crew_wars_lobby
+  rotate: false
+  xy: 102,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1198
+crew_wars_lobby
+  rotate: false
+  xy: 136,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1200
+crew_wars_lobby
+  rotate: false
+  xy: 170,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1201
+crew_wars_lobby
+  rotate: false
+  xy: 204,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1202
+crew_wars_lobby
+  rotate: false
+  xy: 238,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1203
+crew_wars_lobby
+  rotate: false
+  xy: 272,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1204
+crew_wars_lobby
+  rotate: false
+  xy: 306,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1205
+crew_wars_lobby
+  rotate: false
+  xy: 340,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1206
+crew_wars_lobby
+  rotate: false
+  xy: 374,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1207
+crew_wars_lobby
+  rotate: false
+  xy: 408,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1208
+crew_wars_lobby
+  rotate: false
+  xy: 442,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1209
+crew_wars_lobby
+  rotate: false
+  xy: 476,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1210
+crew_wars_lobby
+  rotate: false
+  xy: 510,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1211
+crew_wars_lobby
+  rotate: false
+  xy: 544,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1212
+crew_wars_lobby
+  rotate: false
+  xy: 578,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1213
+crew_wars_lobby
+  rotate: false
+  xy: 612,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1217
+crew_wars_lobby
+  rotate: false
+  xy: 646,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1218
+crew_wars_lobby
+  rotate: false
+  xy: 680,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1219
+crew_wars_lobby
+  rotate: false
+  xy: 714,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1220
+crew_wars_lobby
+  rotate: false
+  xy: 748,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1221
+crew_wars_lobby
+  rotate: false
+  xy: 782,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1222
+crew_wars_lobby
+  rotate: false
+  xy: 816,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1223
+crew_wars_lobby
+  rotate: false
+  xy: 850,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1224
+crew_wars_lobby
+  rotate: false
+  xy: 884,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1225
+crew_wars_lobby
+  rotate: false
+  xy: 918,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1226
+crew_wars_lobby
+  rotate: false
+  xy: 952,342
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1227
+crew_wars_lobby
+  rotate: false
+  xy: 0,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1228
+crew_wars_lobby
+  rotate: false
+  xy: 34,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1229
+crew_wars_lobby
+  rotate: false
+  xy: 68,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1230
+crew_wars_lobby
+  rotate: false
+  xy: 102,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1231
+crew_wars_lobby
+  rotate: false
+  xy: 136,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1232
+crew_wars_lobby
+  rotate: false
+  xy: 170,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1233
+crew_wars_lobby
+  rotate: false
+  xy: 204,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1234
+crew_wars_lobby
+  rotate: false
+  xy: 238,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1235
+crew_wars_lobby
+  rotate: false
+  xy: 272,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1236
+crew_wars_lobby
+  rotate: false
+  xy: 306,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1237
+crew_wars_lobby
+  rotate: false
+  xy: 340,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1238
+crew_wars_lobby
+  rotate: false
+  xy: 374,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1239
+crew_wars_lobby
+  rotate: false
+  xy: 408,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1240
+crew_wars_lobby
+  rotate: false
+  xy: 442,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1241
+crew_wars_lobby
+  rotate: false
+  xy: 476,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1242
+crew_wars_lobby
+  rotate: false
+  xy: 510,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1243
+crew_wars_lobby
+  rotate: false
+  xy: 544,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1244
+crew_wars_lobby
+  rotate: false
+  xy: 578,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1245
+crew_wars_lobby
+  rotate: false
+  xy: 612,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1249
+crew_wars_lobby
+  rotate: false
+  xy: 646,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1250
+crew_wars_lobby
+  rotate: false
+  xy: 680,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1251
+crew_wars_lobby
+  rotate: false
+  xy: 714,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1252
+crew_wars_lobby
+  rotate: false
+  xy: 748,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1253
+crew_wars_lobby
+  rotate: false
+  xy: 782,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1254
+crew_wars_lobby
+  rotate: false
+  xy: 816,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1255
+crew_wars_lobby
+  rotate: false
+  xy: 850,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1256
+crew_wars_lobby
+  rotate: false
+  xy: 884,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1257
+crew_wars_lobby
+  rotate: false
+  xy: 918,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1258
+crew_wars_lobby
+  rotate: false
+  xy: 952,376
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1259
+crew_wars_lobby
+  rotate: false
+  xy: 0,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1260
+crew_wars_lobby
+  rotate: false
+  xy: 34,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1261
+crew_wars_lobby
+  rotate: false
+  xy: 68,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1262
+crew_wars_lobby
+  rotate: false
+  xy: 102,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1263
+crew_wars_lobby
+  rotate: false
+  xy: 136,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1264
+crew_wars_lobby
+  rotate: false
+  xy: 170,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1265
+crew_wars_lobby
+  rotate: false
+  xy: 204,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1266
+crew_wars_lobby
+  rotate: false
+  xy: 238,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1267
+crew_wars_lobby
+  rotate: false
+  xy: 272,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1268
+crew_wars_lobby
+  rotate: false
+  xy: 306,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1269
+crew_wars_lobby
+  rotate: false
+  xy: 340,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1270
+crew_wars_lobby
+  rotate: false
+  xy: 374,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1271
+crew_wars_lobby
+  rotate: false
+  xy: 408,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1272
+crew_wars_lobby
+  rotate: false
+  xy: 442,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1273
+crew_wars_lobby
+  rotate: false
+  xy: 476,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1274
+crew_wars_lobby
+  rotate: false
+  xy: 510,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1275
+crew_wars_lobby
+  rotate: false
+  xy: 544,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1276
+crew_wars_lobby
+  rotate: false
+  xy: 578,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1277
+crew_wars_lobby
+  rotate: false
+  xy: 612,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1281
+crew_wars_lobby
+  rotate: false
+  xy: 646,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1282
+crew_wars_lobby
+  rotate: false
+  xy: 680,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1283
+crew_wars_lobby
+  rotate: false
+  xy: 714,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1284
+crew_wars_lobby
+  rotate: false
+  xy: 748,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1285
+crew_wars_lobby
+  rotate: false
+  xy: 782,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1286
+crew_wars_lobby
+  rotate: false
+  xy: 816,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1287
+crew_wars_lobby
+  rotate: false
+  xy: 850,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1288
+crew_wars_lobby
+  rotate: false
+  xy: 884,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1289
+crew_wars_lobby
+  rotate: false
+  xy: 918,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1290
+crew_wars_lobby
+  rotate: false
+  xy: 952,410
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1291
+crew_wars_lobby
+  rotate: false
+  xy: 0,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1292
+crew_wars_lobby
+  rotate: false
+  xy: 34,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1293
+crew_wars_lobby
+  rotate: false
+  xy: 68,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1294
+crew_wars_lobby
+  rotate: false
+  xy: 102,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1295
+crew_wars_lobby
+  rotate: false
+  xy: 136,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1296
+crew_wars_lobby
+  rotate: false
+  xy: 170,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1297
+crew_wars_lobby
+  rotate: false
+  xy: 204,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1298
+crew_wars_lobby
+  rotate: false
+  xy: 238,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1299
+crew_wars_lobby
+  rotate: false
+  xy: 272,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1300
+crew_wars_lobby
+  rotate: false
+  xy: 306,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1301
+crew_wars_lobby
+  rotate: false
+  xy: 340,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1302
+crew_wars_lobby
+  rotate: false
+  xy: 374,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1303
+crew_wars_lobby
+  rotate: false
+  xy: 408,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1304
+crew_wars_lobby
+  rotate: false
+  xy: 442,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1305
+crew_wars_lobby
+  rotate: false
+  xy: 476,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1306
+crew_wars_lobby
+  rotate: false
+  xy: 510,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1307
+crew_wars_lobby
+  rotate: false
+  xy: 544,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1308
+crew_wars_lobby
+  rotate: false
+  xy: 578,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1309
+crew_wars_lobby
+  rotate: false
+  xy: 612,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1313
+crew_wars_lobby
+  rotate: false
+  xy: 646,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1314
+crew_wars_lobby
+  rotate: false
+  xy: 680,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1315
+crew_wars_lobby
+  rotate: false
+  xy: 714,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1316
+crew_wars_lobby
+  rotate: false
+  xy: 748,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1317
+crew_wars_lobby
+  rotate: false
+  xy: 782,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1318
+crew_wars_lobby
+  rotate: false
+  xy: 816,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1319
+crew_wars_lobby
+  rotate: false
+  xy: 850,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1320
+crew_wars_lobby
+  rotate: false
+  xy: 884,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1321
+crew_wars_lobby
+  rotate: false
+  xy: 918,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1322
+crew_wars_lobby
+  rotate: false
+  xy: 952,444
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1323
+crew_wars_lobby
+  rotate: false
+  xy: 0,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1324
+crew_wars_lobby
+  rotate: false
+  xy: 34,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1325
+crew_wars_lobby
+  rotate: false
+  xy: 68,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1326
+crew_wars_lobby
+  rotate: false
+  xy: 102,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1327
+crew_wars_lobby
+  rotate: false
+  xy: 136,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1328
+crew_wars_lobby
+  rotate: false
+  xy: 170,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1329
+crew_wars_lobby
+  rotate: false
+  xy: 204,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1330
+crew_wars_lobby
+  rotate: false
+  xy: 238,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1331
+crew_wars_lobby
+  rotate: false
+  xy: 272,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1332
+crew_wars_lobby
+  rotate: false
+  xy: 306,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1333
+crew_wars_lobby
+  rotate: false
+  xy: 340,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1334
+crew_wars_lobby
+  rotate: false
+  xy: 374,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1335
+crew_wars_lobby
+  rotate: false
+  xy: 408,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1336
+crew_wars_lobby
+  rotate: false
+  xy: 442,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1337
+crew_wars_lobby
+  rotate: false
+  xy: 476,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1338
+crew_wars_lobby
+  rotate: false
+  xy: 510,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1339
+crew_wars_lobby
+  rotate: false
+  xy: 544,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1340
+crew_wars_lobby
+  rotate: false
+  xy: 578,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1341
+crew_wars_lobby
+  rotate: false
+  xy: 612,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1345
+crew_wars_lobby
+  rotate: false
+  xy: 646,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1346
+crew_wars_lobby
+  rotate: false
+  xy: 680,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1347
+crew_wars_lobby
+  rotate: false
+  xy: 714,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1348
+crew_wars_lobby
+  rotate: false
+  xy: 748,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1349
+crew_wars_lobby
+  rotate: false
+  xy: 782,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1350
+crew_wars_lobby
+  rotate: false
+  xy: 816,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1351
+crew_wars_lobby
+  rotate: false
+  xy: 850,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1352
+crew_wars_lobby
+  rotate: false
+  xy: 884,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1353
+crew_wars_lobby
+  rotate: false
+  xy: 918,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1354
+crew_wars_lobby
+  rotate: false
+  xy: 952,478
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1355
+crew_wars_lobby
+  rotate: false
+  xy: 0,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1356
+crew_wars_lobby
+  rotate: false
+  xy: 34,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1357
+crew_wars_lobby
+  rotate: false
+  xy: 68,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1358
+crew_wars_lobby
+  rotate: false
+  xy: 102,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1359
+crew_wars_lobby
+  rotate: false
+  xy: 136,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1360
+crew_wars_lobby
+  rotate: false
+  xy: 170,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1361
+crew_wars_lobby
+  rotate: false
+  xy: 204,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1362
+crew_wars_lobby
+  rotate: false
+  xy: 238,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1363
+crew_wars_lobby
+  rotate: false
+  xy: 272,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1364
+crew_wars_lobby
+  rotate: false
+  xy: 306,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1365
+crew_wars_lobby
+  rotate: false
+  xy: 340,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1366
+crew_wars_lobby
+  rotate: false
+  xy: 374,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1367
+crew_wars_lobby
+  rotate: false
+  xy: 408,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1368
+crew_wars_lobby
+  rotate: false
+  xy: 442,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1369
+crew_wars_lobby
+  rotate: false
+  xy: 476,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1370
+crew_wars_lobby
+  rotate: false
+  xy: 510,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1371
+crew_wars_lobby
+  rotate: false
+  xy: 544,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1372
+crew_wars_lobby
+  rotate: false
+  xy: 578,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1373
+crew_wars_lobby
+  rotate: false
+  xy: 612,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1377
+crew_wars_lobby
+  rotate: false
+  xy: 646,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1378
+crew_wars_lobby
+  rotate: false
+  xy: 680,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1379
+crew_wars_lobby
+  rotate: false
+  xy: 714,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1380
+crew_wars_lobby
+  rotate: false
+  xy: 748,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1381
+crew_wars_lobby
+  rotate: false
+  xy: 782,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1382
+crew_wars_lobby
+  rotate: false
+  xy: 816,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1383
+crew_wars_lobby
+  rotate: false
+  xy: 850,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1384
+crew_wars_lobby
+  rotate: false
+  xy: 884,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1385
+crew_wars_lobby
+  rotate: false
+  xy: 918,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1386
+crew_wars_lobby
+  rotate: false
+  xy: 952,512
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1387
+crew_wars_lobby
+  rotate: false
+  xy: 0,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1388
+crew_wars_lobby
+  rotate: false
+  xy: 34,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1389
+crew_wars_lobby
+  rotate: false
+  xy: 68,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1390
+crew_wars_lobby
+  rotate: false
+  xy: 102,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1391
+crew_wars_lobby
+  rotate: false
+  xy: 136,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1392
+crew_wars_lobby
+  rotate: false
+  xy: 170,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1393
+crew_wars_lobby
+  rotate: false
+  xy: 204,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1394
+crew_wars_lobby
+  rotate: false
+  xy: 238,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1395
+crew_wars_lobby
+  rotate: false
+  xy: 272,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1396
+crew_wars_lobby
+  rotate: false
+  xy: 306,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1397
+crew_wars_lobby
+  rotate: false
+  xy: 340,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1398
+crew_wars_lobby
+  rotate: false
+  xy: 374,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1399
+crew_wars_lobby
+  rotate: false
+  xy: 408,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1400
+crew_wars_lobby
+  rotate: false
+  xy: 442,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1401
+crew_wars_lobby
+  rotate: false
+  xy: 476,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1402
+crew_wars_lobby
+  rotate: false
+  xy: 510,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1403
+crew_wars_lobby
+  rotate: false
+  xy: 544,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1404
+crew_wars_lobby
+  rotate: false
+  xy: 578,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1405
+crew_wars_lobby
+  rotate: false
+  xy: 612,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1409
+crew_wars_lobby
+  rotate: false
+  xy: 646,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1410
+crew_wars_lobby
+  rotate: false
+  xy: 680,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1411
+crew_wars_lobby
+  rotate: false
+  xy: 714,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1412
+crew_wars_lobby
+  rotate: false
+  xy: 748,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1413
+crew_wars_lobby
+  rotate: false
+  xy: 782,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1414
+crew_wars_lobby
+  rotate: false
+  xy: 816,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1415
+crew_wars_lobby
+  rotate: false
+  xy: 850,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1416
+crew_wars_lobby
+  rotate: false
+  xy: 884,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1417
+crew_wars_lobby
+  rotate: false
+  xy: 918,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1418
+crew_wars_lobby
+  rotate: false
+  xy: 952,546
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1419
+crew_wars_lobby
+  rotate: false
+  xy: 0,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1420
+crew_wars_lobby
+  rotate: false
+  xy: 34,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1421
+crew_wars_lobby
+  rotate: false
+  xy: 68,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1422
+crew_wars_lobby
+  rotate: false
+  xy: 102,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1423
+crew_wars_lobby
+  rotate: false
+  xy: 136,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1424
+crew_wars_lobby
+  rotate: false
+  xy: 170,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1425
+crew_wars_lobby
+  rotate: false
+  xy: 204,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1426
+crew_wars_lobby
+  rotate: false
+  xy: 238,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1427
+crew_wars_lobby
+  rotate: false
+  xy: 272,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1428
+crew_wars_lobby
+  rotate: false
+  xy: 306,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1429
+crew_wars_lobby
+  rotate: false
+  xy: 340,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1430
+crew_wars_lobby
+  rotate: false
+  xy: 374,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1431
+crew_wars_lobby
+  rotate: false
+  xy: 408,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1432
+crew_wars_lobby
+  rotate: false
+  xy: 442,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1433
+crew_wars_lobby
+  rotate: false
+  xy: 476,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1434
+crew_wars_lobby
+  rotate: false
+  xy: 510,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1435
+crew_wars_lobby
+  rotate: false
+  xy: 544,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1436
+crew_wars_lobby
+  rotate: false
+  xy: 578,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1437
+crew_wars_lobby
+  rotate: false
+  xy: 612,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1441
+crew_wars_lobby
+  rotate: false
+  xy: 646,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1442
+crew_wars_lobby
+  rotate: false
+  xy: 680,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1443
+crew_wars_lobby
+  rotate: false
+  xy: 714,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1444
+crew_wars_lobby
+  rotate: false
+  xy: 748,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1445
+crew_wars_lobby
+  rotate: false
+  xy: 782,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1446
+crew_wars_lobby
+  rotate: false
+  xy: 816,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1447
+crew_wars_lobby
+  rotate: false
+  xy: 850,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1448
+crew_wars_lobby
+  rotate: false
+  xy: 884,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1449
+crew_wars_lobby
+  rotate: false
+  xy: 918,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1450
+crew_wars_lobby
+  rotate: false
+  xy: 952,580
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1451
+crew_wars_lobby
+  rotate: false
+  xy: 0,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1452
+crew_wars_lobby
+  rotate: false
+  xy: 34,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1453
+crew_wars_lobby
+  rotate: false
+  xy: 68,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1454
+crew_wars_lobby
+  rotate: false
+  xy: 102,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1455
+crew_wars_lobby
+  rotate: false
+  xy: 136,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1456
+crew_wars_lobby
+  rotate: false
+  xy: 170,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1457
+crew_wars_lobby
+  rotate: false
+  xy: 204,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1458
+crew_wars_lobby
+  rotate: false
+  xy: 238,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1459
+crew_wars_lobby
+  rotate: false
+  xy: 272,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1460
+crew_wars_lobby
+  rotate: false
+  xy: 306,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1461
+crew_wars_lobby
+  rotate: false
+  xy: 340,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1462
+crew_wars_lobby
+  rotate: false
+  xy: 374,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1463
+crew_wars_lobby
+  rotate: false
+  xy: 408,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1464
+crew_wars_lobby
+  rotate: false
+  xy: 442,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1465
+crew_wars_lobby
+  rotate: false
+  xy: 476,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1466
+crew_wars_lobby
+  rotate: false
+  xy: 510,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1467
+crew_wars_lobby
+  rotate: false
+  xy: 544,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1468
+crew_wars_lobby
+  rotate: false
+  xy: 578,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1469
+crew_wars_lobby
+  rotate: false
+  xy: 612,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1473
+crew_wars_lobby
+  rotate: false
+  xy: 646,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1474
+crew_wars_lobby
+  rotate: false
+  xy: 680,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1475
+crew_wars_lobby
+  rotate: false
+  xy: 714,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1476
+crew_wars_lobby
+  rotate: false
+  xy: 748,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1477
+crew_wars_lobby
+  rotate: false
+  xy: 782,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1478
+crew_wars_lobby
+  rotate: false
+  xy: 816,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1479
+crew_wars_lobby
+  rotate: false
+  xy: 850,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1480
+crew_wars_lobby
+  rotate: false
+  xy: 884,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1481
+crew_wars_lobby
+  rotate: false
+  xy: 918,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1482
+crew_wars_lobby
+  rotate: false
+  xy: 952,614
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1483
+crew_wars_lobby
+  rotate: false
+  xy: 0,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1484
+crew_wars_lobby
+  rotate: false
+  xy: 34,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1485
+crew_wars_lobby
+  rotate: false
+  xy: 68,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1486
+crew_wars_lobby
+  rotate: false
+  xy: 102,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1487
+crew_wars_lobby
+  rotate: false
+  xy: 136,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1488
+crew_wars_lobby
+  rotate: false
+  xy: 170,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1489
+crew_wars_lobby
+  rotate: false
+  xy: 204,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1490
+crew_wars_lobby
+  rotate: false
+  xy: 238,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1491
+crew_wars_lobby
+  rotate: false
+  xy: 272,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1492
+crew_wars_lobby
+  rotate: false
+  xy: 306,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1493
+crew_wars_lobby
+  rotate: false
+  xy: 340,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1494
+crew_wars_lobby
+  rotate: false
+  xy: 374,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1495
+crew_wars_lobby
+  rotate: false
+  xy: 408,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1496
+crew_wars_lobby
+  rotate: false
+  xy: 442,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1497
+crew_wars_lobby
+  rotate: false
+  xy: 476,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1498
+crew_wars_lobby
+  rotate: false
+  xy: 510,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1499
+crew_wars_lobby
+  rotate: false
+  xy: 544,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1500
+crew_wars_lobby
+  rotate: false
+  xy: 578,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1501
+crew_wars_lobby
+  rotate: false
+  xy: 612,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1505
+crew_wars_lobby
+  rotate: false
+  xy: 646,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1506
+crew_wars_lobby
+  rotate: false
+  xy: 680,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1507
+crew_wars_lobby
+  rotate: false
+  xy: 714,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1508
+crew_wars_lobby
+  rotate: false
+  xy: 748,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1509
+crew_wars_lobby
+  rotate: false
+  xy: 782,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1510
+crew_wars_lobby
+  rotate: false
+  xy: 816,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1511
+crew_wars_lobby
+  rotate: false
+  xy: 850,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1512
+crew_wars_lobby
+  rotate: false
+  xy: 884,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1513
+crew_wars_lobby
+  rotate: false
+  xy: 918,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1514
+crew_wars_lobby
+  rotate: false
+  xy: 952,648
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1515
+crew_wars_lobby
+  rotate: false
+  xy: 0,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1516
+crew_wars_lobby
+  rotate: false
+  xy: 34,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1517
+crew_wars_lobby
+  rotate: false
+  xy: 68,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1518
+crew_wars_lobby
+  rotate: false
+  xy: 102,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1519
+crew_wars_lobby
+  rotate: false
+  xy: 136,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1520
+crew_wars_lobby
+  rotate: false
+  xy: 170,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1521
+crew_wars_lobby
+  rotate: false
+  xy: 204,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1522
+crew_wars_lobby
+  rotate: false
+  xy: 238,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1523
+crew_wars_lobby
+  rotate: false
+  xy: 272,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1524
+crew_wars_lobby
+  rotate: false
+  xy: 306,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1525
+crew_wars_lobby
+  rotate: false
+  xy: 340,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1526
+crew_wars_lobby
+  rotate: false
+  xy: 374,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1527
+crew_wars_lobby
+  rotate: false
+  xy: 408,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1528
+crew_wars_lobby
+  rotate: false
+  xy: 442,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1529
+crew_wars_lobby
+  rotate: false
+  xy: 476,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1530
+crew_wars_lobby
+  rotate: false
+  xy: 510,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1531
+crew_wars_lobby
+  rotate: false
+  xy: 544,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1532
+crew_wars_lobby
+  rotate: false
+  xy: 578,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1533
+crew_wars_lobby
+  rotate: false
+  xy: 612,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1538
+crew_wars_lobby
+  rotate: false
+  xy: 646,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1539
+crew_wars_lobby
+  rotate: false
+  xy: 680,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1540
+crew_wars_lobby
+  rotate: false
+  xy: 714,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1541
+crew_wars_lobby
+  rotate: false
+  xy: 748,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1542
+crew_wars_lobby
+  rotate: false
+  xy: 782,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1543
+crew_wars_lobby
+  rotate: false
+  xy: 816,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1544
+crew_wars_lobby
+  rotate: false
+  xy: 850,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1545
+crew_wars_lobby
+  rotate: false
+  xy: 884,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1546
+crew_wars_lobby
+  rotate: false
+  xy: 918,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1547
+crew_wars_lobby
+  rotate: false
+  xy: 952,682
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1548
+crew_wars_lobby
+  rotate: false
+  xy: 0,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1549
+crew_wars_lobby
+  rotate: false
+  xy: 34,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1550
+crew_wars_lobby
+  rotate: false
+  xy: 68,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1551
+crew_wars_lobby
+  rotate: false
+  xy: 102,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1552
+crew_wars_lobby
+  rotate: false
+  xy: 136,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1553
+crew_wars_lobby
+  rotate: false
+  xy: 170,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1554
+crew_wars_lobby
+  rotate: false
+  xy: 204,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1555
+crew_wars_lobby
+  rotate: false
+  xy: 238,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1556
+crew_wars_lobby
+  rotate: false
+  xy: 272,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1557
+crew_wars_lobby
+  rotate: false
+  xy: 306,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1558
+crew_wars_lobby
+  rotate: false
+  xy: 340,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1559
+crew_wars_lobby
+  rotate: false
+  xy: 374,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1560
+crew_wars_lobby
+  rotate: false
+  xy: 408,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1561
+crew_wars_lobby
+  rotate: false
+  xy: 442,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1562
+crew_wars_lobby
+  rotate: false
+  xy: 476,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1563
+crew_wars_lobby
+  rotate: false
+  xy: 510,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1564
+crew_wars_lobby
+  rotate: false
+  xy: 544,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1565
+crew_wars_lobby
+  rotate: false
+  xy: 578,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1566
+crew_wars_lobby
+  rotate: false
+  xy: 612,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1567
+crew_wars_lobby
+  rotate: false
+  xy: 646,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1570
+crew_wars_lobby
+  rotate: false
+  xy: 680,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1571
+crew_wars_lobby
+  rotate: false
+  xy: 714,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1572
+crew_wars_lobby
+  rotate: false
+  xy: 748,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1573
+crew_wars_lobby
+  rotate: false
+  xy: 782,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1574
+crew_wars_lobby
+  rotate: false
+  xy: 816,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1575
+crew_wars_lobby
+  rotate: false
+  xy: 850,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1576
+crew_wars_lobby
+  rotate: false
+  xy: 884,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1577
+crew_wars_lobby
+  rotate: false
+  xy: 918,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1578
+crew_wars_lobby
+  rotate: false
+  xy: 952,716
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1579
+crew_wars_lobby
+  rotate: false
+  xy: 0,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1580
+crew_wars_lobby
+  rotate: false
+  xy: 34,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1581
+crew_wars_lobby
+  rotate: false
+  xy: 68,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1582
+crew_wars_lobby
+  rotate: false
+  xy: 102,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1583
+crew_wars_lobby
+  rotate: false
+  xy: 136,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1584
+crew_wars_lobby
+  rotate: false
+  xy: 170,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1585
+crew_wars_lobby
+  rotate: false
+  xy: 204,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1586
+crew_wars_lobby
+  rotate: false
+  xy: 238,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1587
+crew_wars_lobby
+  rotate: false
+  xy: 272,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1588
+crew_wars_lobby
+  rotate: false
+  xy: 306,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1589
+crew_wars_lobby
+  rotate: false
+  xy: 340,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1590
+crew_wars_lobby
+  rotate: false
+  xy: 374,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1591
+crew_wars_lobby
+  rotate: false
+  xy: 408,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1592
+crew_wars_lobby
+  rotate: false
+  xy: 442,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1593
+crew_wars_lobby
+  rotate: false
+  xy: 476,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1594
+crew_wars_lobby
+  rotate: false
+  xy: 510,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1595
+crew_wars_lobby
+  rotate: false
+  xy: 544,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1596
+crew_wars_lobby
+  rotate: false
+  xy: 578,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1597
+crew_wars_lobby
+  rotate: false
+  xy: 612,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1598
+crew_wars_lobby
+  rotate: false
+  xy: 646,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1599
+crew_wars_lobby
+  rotate: false
+  xy: 680,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1602
+crew_wars_lobby
+  rotate: false
+  xy: 714,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1603
+crew_wars_lobby
+  rotate: false
+  xy: 748,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1604
+crew_wars_lobby
+  rotate: false
+  xy: 782,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1605
+crew_wars_lobby
+  rotate: false
+  xy: 816,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1606
+crew_wars_lobby
+  rotate: false
+  xy: 850,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1607
+crew_wars_lobby
+  rotate: false
+  xy: 884,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1608
+crew_wars_lobby
+  rotate: false
+  xy: 918,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1609
+crew_wars_lobby
+  rotate: false
+  xy: 952,750
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1610
+crew_wars_lobby
+  rotate: false
+  xy: 0,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1611
+crew_wars_lobby
+  rotate: false
+  xy: 34,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1612
+crew_wars_lobby
+  rotate: false
+  xy: 68,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1613
+crew_wars_lobby
+  rotate: false
+  xy: 102,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1614
+crew_wars_lobby
+  rotate: false
+  xy: 136,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1615
+crew_wars_lobby
+  rotate: false
+  xy: 170,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1616
+crew_wars_lobby
+  rotate: false
+  xy: 204,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1617
+crew_wars_lobby
+  rotate: false
+  xy: 238,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1618
+crew_wars_lobby
+  rotate: false
+  xy: 272,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1619
+crew_wars_lobby
+  rotate: false
+  xy: 306,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1620
+crew_wars_lobby
+  rotate: false
+  xy: 340,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1621
+crew_wars_lobby
+  rotate: false
+  xy: 374,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1622
+crew_wars_lobby
+  rotate: false
+  xy: 408,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1623
+crew_wars_lobby
+  rotate: false
+  xy: 442,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1624
+crew_wars_lobby
+  rotate: false
+  xy: 476,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1625
+crew_wars_lobby
+  rotate: false
+  xy: 510,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1626
+crew_wars_lobby
+  rotate: false
+  xy: 544,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1627
+crew_wars_lobby
+  rotate: false
+  xy: 578,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1628
+crew_wars_lobby
+  rotate: false
+  xy: 612,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1629
+crew_wars_lobby
+  rotate: false
+  xy: 646,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1630
+crew_wars_lobby
+  rotate: false
+  xy: 680,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1631
+crew_wars_lobby
+  rotate: false
+  xy: 714,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1634
+crew_wars_lobby
+  rotate: false
+  xy: 748,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1635
+crew_wars_lobby
+  rotate: false
+  xy: 782,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1636
+crew_wars_lobby
+  rotate: false
+  xy: 816,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1637
+crew_wars_lobby
+  rotate: false
+  xy: 850,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1638
+crew_wars_lobby
+  rotate: false
+  xy: 884,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1639
+crew_wars_lobby
+  rotate: false
+  xy: 918,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1640
+crew_wars_lobby
+  rotate: false
+  xy: 952,784
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1641
+crew_wars_lobby
+  rotate: false
+  xy: 0,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1642
+crew_wars_lobby
+  rotate: false
+  xy: 34,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1643
+crew_wars_lobby
+  rotate: false
+  xy: 68,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1644
+crew_wars_lobby
+  rotate: false
+  xy: 102,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1645
+crew_wars_lobby
+  rotate: false
+  xy: 136,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1646
+crew_wars_lobby
+  rotate: false
+  xy: 170,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1647
+crew_wars_lobby
+  rotate: false
+  xy: 204,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1648
+crew_wars_lobby
+  rotate: false
+  xy: 238,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1649
+crew_wars_lobby
+  rotate: false
+  xy: 272,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1650
+crew_wars_lobby
+  rotate: false
+  xy: 306,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1651
+crew_wars_lobby
+  rotate: false
+  xy: 340,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1652
+crew_wars_lobby
+  rotate: false
+  xy: 374,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1653
+crew_wars_lobby
+  rotate: false
+  xy: 408,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1654
+crew_wars_lobby
+  rotate: false
+  xy: 442,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1655
+crew_wars_lobby
+  rotate: false
+  xy: 476,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1656
+crew_wars_lobby
+  rotate: false
+  xy: 510,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1657
+crew_wars_lobby
+  rotate: false
+  xy: 544,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1658
+crew_wars_lobby
+  rotate: false
+  xy: 578,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1659
+crew_wars_lobby
+  rotate: false
+  xy: 612,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1660
+crew_wars_lobby
+  rotate: false
+  xy: 646,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1661
+crew_wars_lobby
+  rotate: false
+  xy: 680,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1662
+crew_wars_lobby
+  rotate: false
+  xy: 714,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1663
+crew_wars_lobby
+  rotate: false
+  xy: 748,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1666
+crew_wars_lobby
+  rotate: false
+  xy: 782,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1667
+crew_wars_lobby
+  rotate: false
+  xy: 816,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1668
+crew_wars_lobby
+  rotate: false
+  xy: 850,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1669
+crew_wars_lobby
+  rotate: false
+  xy: 884,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1670
+crew_wars_lobby
+  rotate: false
+  xy: 918,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1671
+crew_wars_lobby
+  rotate: false
+  xy: 952,818
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1672
+crew_wars_lobby
+  rotate: false
+  xy: 0,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1673
+crew_wars_lobby
+  rotate: false
+  xy: 34,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1674
+crew_wars_lobby
+  rotate: false
+  xy: 68,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1675
+crew_wars_lobby
+  rotate: false
+  xy: 102,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1676
+crew_wars_lobby
+  rotate: false
+  xy: 136,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1677
+crew_wars_lobby
+  rotate: false
+  xy: 170,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1678
+crew_wars_lobby
+  rotate: false
+  xy: 204,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1679
+crew_wars_lobby
+  rotate: false
+  xy: 238,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1680
+crew_wars_lobby
+  rotate: false
+  xy: 272,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1681
+crew_wars_lobby
+  rotate: false
+  xy: 306,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1682
+crew_wars_lobby
+  rotate: false
+  xy: 340,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1683
+crew_wars_lobby
+  rotate: false
+  xy: 374,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1684
+crew_wars_lobby
+  rotate: false
+  xy: 408,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1685
+crew_wars_lobby
+  rotate: false
+  xy: 442,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1686
+crew_wars_lobby
+  rotate: false
+  xy: 476,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1687
+crew_wars_lobby
+  rotate: false
+  xy: 510,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1688
+crew_wars_lobby
+  rotate: false
+  xy: 544,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1689
+crew_wars_lobby
+  rotate: false
+  xy: 578,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1690
+crew_wars_lobby
+  rotate: false
+  xy: 612,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1691
+crew_wars_lobby
+  rotate: false
+  xy: 646,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1692
+crew_wars_lobby
+  rotate: false
+  xy: 680,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1693
+crew_wars_lobby
+  rotate: false
+  xy: 714,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1694
+crew_wars_lobby
+  rotate: false
+  xy: 748,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1695
+crew_wars_lobby
+  rotate: false
+  xy: 782,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1698
+crew_wars_lobby
+  rotate: false
+  xy: 816,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1699
+crew_wars_lobby
+  rotate: false
+  xy: 850,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1700
+crew_wars_lobby
+  rotate: false
+  xy: 884,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1701
+crew_wars_lobby
+  rotate: false
+  xy: 918,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1702
+crew_wars_lobby
+  rotate: false
+  xy: 952,852
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1703
+crew_wars_lobby
+  rotate: false
+  xy: 0,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1704
+crew_wars_lobby
+  rotate: false
+  xy: 34,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1705
+crew_wars_lobby
+  rotate: false
+  xy: 68,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1706
+crew_wars_lobby
+  rotate: false
+  xy: 102,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1707
+crew_wars_lobby
+  rotate: false
+  xy: 136,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1708
+crew_wars_lobby
+  rotate: false
+  xy: 170,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1709
+crew_wars_lobby
+  rotate: false
+  xy: 204,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1710
+crew_wars_lobby
+  rotate: false
+  xy: 238,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1711
+crew_wars_lobby
+  rotate: false
+  xy: 272,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1712
+crew_wars_lobby
+  rotate: false
+  xy: 306,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1713
+crew_wars_lobby
+  rotate: false
+  xy: 340,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1714
+crew_wars_lobby
+  rotate: false
+  xy: 374,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1715
+crew_wars_lobby
+  rotate: false
+  xy: 408,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1716
+crew_wars_lobby
+  rotate: false
+  xy: 442,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1717
+crew_wars_lobby
+  rotate: false
+  xy: 476,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1718
+crew_wars_lobby
+  rotate: false
+  xy: 510,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1719
+crew_wars_lobby
+  rotate: false
+  xy: 544,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1720
+crew_wars_lobby
+  rotate: false
+  xy: 578,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1721
+crew_wars_lobby
+  rotate: false
+  xy: 612,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1722
+crew_wars_lobby
+  rotate: false
+  xy: 646,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1723
+crew_wars_lobby
+  rotate: false
+  xy: 680,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1724
+crew_wars_lobby
+  rotate: false
+  xy: 714,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1725
+crew_wars_lobby
+  rotate: false
+  xy: 748,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1726
+crew_wars_lobby
+  rotate: false
+  xy: 782,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1727
+crew_wars_lobby
+  rotate: false
+  xy: 816,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1730
+crew_wars_lobby
+  rotate: false
+  xy: 850,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1731
+crew_wars_lobby
+  rotate: false
+  xy: 884,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1732
+crew_wars_lobby
+  rotate: false
+  xy: 918,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1733
+crew_wars_lobby
+  rotate: false
+  xy: 952,886
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1734
+crew_wars_lobby
+  rotate: false
+  xy: 0,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1735
+crew_wars_lobby
+  rotate: false
+  xy: 34,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1736
+crew_wars_lobby
+  rotate: false
+  xy: 68,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1737
+crew_wars_lobby
+  rotate: false
+  xy: 102,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1738
+crew_wars_lobby
+  rotate: false
+  xy: 136,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1739
+crew_wars_lobby
+  rotate: false
+  xy: 170,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1740
+crew_wars_lobby
+  rotate: false
+  xy: 204,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1741
+crew_wars_lobby
+  rotate: false
+  xy: 238,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1742
+crew_wars_lobby
+  rotate: false
+  xy: 272,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1743
+crew_wars_lobby
+  rotate: false
+  xy: 306,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1744
+crew_wars_lobby
+  rotate: false
+  xy: 340,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1745
+crew_wars_lobby
+  rotate: false
+  xy: 374,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1746
+crew_wars_lobby
+  rotate: false
+  xy: 408,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1747
+crew_wars_lobby
+  rotate: false
+  xy: 442,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1748
+crew_wars_lobby
+  rotate: false
+  xy: 476,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1749
+crew_wars_lobby
+  rotate: false
+  xy: 510,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1750
+crew_wars_lobby
+  rotate: false
+  xy: 544,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1751
+crew_wars_lobby
+  rotate: false
+  xy: 578,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1752
+crew_wars_lobby
+  rotate: false
+  xy: 612,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1753
+crew_wars_lobby
+  rotate: false
+  xy: 646,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1754
+crew_wars_lobby
+  rotate: false
+  xy: 680,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1755
+crew_wars_lobby
+  rotate: false
+  xy: 714,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1756
+crew_wars_lobby
+  rotate: false
+  xy: 748,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1757
+crew_wars_lobby
+  rotate: false
+  xy: 782,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1758
+crew_wars_lobby
+  rotate: false
+  xy: 816,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1759
+crew_wars_lobby
+  rotate: false
+  xy: 850,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1792
+crew_wars_lobby
+  rotate: false
+  xy: 884,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1793
+crew_wars_lobby
+  rotate: false
+  xy: 918,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1794
+crew_wars_lobby
+  rotate: false
+  xy: 952,920
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1795
+crew_wars_lobby
+  rotate: false
+  xy: 0,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1796
+crew_wars_lobby
+  rotate: false
+  xy: 34,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1797
+crew_wars_lobby
+  rotate: false
+  xy: 68,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1798
+crew_wars_lobby
+  rotate: false
+  xy: 102,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1799
+crew_wars_lobby
+  rotate: false
+  xy: 136,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1800
+crew_wars_lobby
+  rotate: false
+  xy: 170,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1801
+crew_wars_lobby
+  rotate: false
+  xy: 204,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1802
+crew_wars_lobby
+  rotate: false
+  xy: 238,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1803
+crew_wars_lobby
+  rotate: false
+  xy: 272,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1804
+crew_wars_lobby
+  rotate: false
+  xy: 306,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1805
+crew_wars_lobby
+  rotate: false
+  xy: 340,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1806
+crew_wars_lobby
+  rotate: false
+  xy: 374,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1807
+crew_wars_lobby
+  rotate: false
+  xy: 408,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1808
+crew_wars_lobby
+  rotate: false
+  xy: 442,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1809
+crew_wars_lobby
+  rotate: false
+  xy: 476,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1810
+crew_wars_lobby
+  rotate: false
+  xy: 510,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1811
+crew_wars_lobby
+  rotate: false
+  xy: 544,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1812
+crew_wars_lobby
+  rotate: false
+  xy: 578,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1813
+crew_wars_lobby
+  rotate: false
+  xy: 612,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1814
+crew_wars_lobby
+  rotate: false
+  xy: 646,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1815
+crew_wars_lobby
+  rotate: false
+  xy: 680,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1816
+crew_wars_lobby
+  rotate: false
+  xy: 714,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1817
+crew_wars_lobby
+  rotate: false
+  xy: 748,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1818
+crew_wars_lobby
+  rotate: false
+  xy: 782,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1819
+crew_wars_lobby
+  rotate: false
+  xy: 816,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1820
+crew_wars_lobby
+  rotate: false
+  xy: 850,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1821
+crew_wars_lobby
+  rotate: false
+  xy: 884,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1822
+crew_wars_lobby
+  rotate: false
+  xy: 918,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1823
+crew_wars_lobby
+  rotate: false
+  xy: 952,954
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1824
+
+605_3.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+crew_wars_lobby
+  rotate: false
+  xy: 2,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1825
+crew_wars_lobby
+  rotate: false
+  xy: 36,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1826
+crew_wars_lobby
+  rotate: false
+  xy: 70,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1827
+crew_wars_lobby
+  rotate: false
+  xy: 104,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1828
+crew_wars_lobby
+  rotate: false
+  xy: 138,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1829
+crew_wars_lobby
+  rotate: false
+  xy: 172,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1830
+crew_wars_lobby
+  rotate: false
+  xy: 206,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1831
+crew_wars_lobby
+  rotate: false
+  xy: 240,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1832
+crew_wars_lobby
+  rotate: false
+  xy: 274,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1833
+crew_wars_lobby
+  rotate: false
+  xy: 308,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1834
+crew_wars_lobby
+  rotate: false
+  xy: 342,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1835
+crew_wars_lobby
+  rotate: false
+  xy: 376,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1836
+crew_wars_lobby
+  rotate: false
+  xy: 410,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1837
+crew_wars_lobby
+  rotate: false
+  xy: 444,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1838
+crew_wars_lobby
+  rotate: false
+  xy: 478,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1839
+crew_wars_lobby
+  rotate: false
+  xy: 512,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1840
+crew_wars_lobby
+  rotate: false
+  xy: 546,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1841
+crew_wars_lobby
+  rotate: false
+  xy: 580,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1842
+crew_wars_lobby
+  rotate: false
+  xy: 614,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1843
+crew_wars_lobby
+  rotate: false
+  xy: 648,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1844
+crew_wars_lobby
+  rotate: false
+  xy: 682,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1845
+crew_wars_lobby
+  rotate: false
+  xy: 716,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1846
+crew_wars_lobby
+  rotate: false
+  xy: 750,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1847
+crew_wars_lobby
+  rotate: false
+  xy: 784,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1848
+crew_wars_lobby
+  rotate: false
+  xy: 818,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1849
+crew_wars_lobby
+  rotate: false
+  xy: 852,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1850
+crew_wars_lobby
+  rotate: false
+  xy: 886,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1851
+crew_wars_lobby
+  rotate: false
+  xy: 920,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1852
+crew_wars_lobby
+  rotate: false
+  xy: 954,2
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1853
+crew_wars_lobby
+  rotate: false
+  xy: 0,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1854
+crew_wars_lobby
+  rotate: false
+  xy: 34,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1855
+crew_wars_lobby
+  rotate: false
+  xy: 68,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1856
+crew_wars_lobby
+  rotate: false
+  xy: 102,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1857
+crew_wars_lobby
+  rotate: false
+  xy: 136,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1858
+crew_wars_lobby
+  rotate: false
+  xy: 170,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1859
+crew_wars_lobby
+  rotate: false
+  xy: 204,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1860
+crew_wars_lobby
+  rotate: false
+  xy: 238,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1861
+crew_wars_lobby
+  rotate: false
+  xy: 272,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1862
+crew_wars_lobby
+  rotate: false
+  xy: 306,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1863
+crew_wars_lobby
+  rotate: false
+  xy: 340,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1864
+crew_wars_lobby
+  rotate: false
+  xy: 374,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1865
+crew_wars_lobby
+  rotate: false
+  xy: 408,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1866
+crew_wars_lobby
+  rotate: false
+  xy: 442,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1867
+crew_wars_lobby
+  rotate: false
+  xy: 476,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1868
+crew_wars_lobby
+  rotate: false
+  xy: 510,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1869
+crew_wars_lobby
+  rotate: false
+  xy: 544,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1870
+crew_wars_lobby
+  rotate: false
+  xy: 578,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1871
+crew_wars_lobby
+  rotate: false
+  xy: 612,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1872
+crew_wars_lobby
+  rotate: false
+  xy: 646,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1873
+crew_wars_lobby
+  rotate: false
+  xy: 680,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1874
+crew_wars_lobby
+  rotate: false
+  xy: 714,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1875
+crew_wars_lobby
+  rotate: false
+  xy: 748,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1876
+crew_wars_lobby
+  rotate: false
+  xy: 782,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1877
+crew_wars_lobby
+  rotate: false
+  xy: 816,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1878
+crew_wars_lobby
+  rotate: false
+  xy: 850,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1879
+crew_wars_lobby
+  rotate: false
+  xy: 884,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1880
+crew_wars_lobby
+  rotate: false
+  xy: 918,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1881
+crew_wars_lobby
+  rotate: false
+  xy: 952,36
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1882
+crew_wars_lobby
+  rotate: false
+  xy: 0,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1883
+crew_wars_lobby
+  rotate: false
+  xy: 34,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1884
+crew_wars_lobby
+  rotate: false
+  xy: 68,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1885
+crew_wars_lobby
+  rotate: false
+  xy: 102,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1886
+crew_wars_lobby
+  rotate: false
+  xy: 136,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1887
+crew_wars_lobby
+  rotate: false
+  xy: 170,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1888
+crew_wars_lobby
+  rotate: false
+  xy: 204,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1889
+crew_wars_lobby
+  rotate: false
+  xy: 238,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1890
+crew_wars_lobby
+  rotate: false
+  xy: 272,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1891
+crew_wars_lobby
+  rotate: false
+  xy: 306,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1892
+crew_wars_lobby
+  rotate: false
+  xy: 340,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1893
+crew_wars_lobby
+  rotate: false
+  xy: 374,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1894
+crew_wars_lobby
+  rotate: false
+  xy: 408,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1895
+crew_wars_lobby
+  rotate: false
+  xy: 442,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1896
+crew_wars_lobby
+  rotate: false
+  xy: 476,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1897
+crew_wars_lobby
+  rotate: false
+  xy: 510,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1898
+crew_wars_lobby
+  rotate: false
+  xy: 544,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1899
+crew_wars_lobby
+  rotate: false
+  xy: 578,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1900
+crew_wars_lobby
+  rotate: false
+  xy: 612,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1901
+crew_wars_lobby
+  rotate: false
+  xy: 646,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1902
+crew_wars_lobby
+  rotate: false
+  xy: 680,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1903
+crew_wars_lobby
+  rotate: false
+  xy: 714,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1904
+crew_wars_lobby
+  rotate: false
+  xy: 748,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1905
+crew_wars_lobby
+  rotate: false
+  xy: 782,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1906
+crew_wars_lobby
+  rotate: false
+  xy: 816,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1907
+crew_wars_lobby
+  rotate: false
+  xy: 850,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1908
+crew_wars_lobby
+  rotate: false
+  xy: 884,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1909
+crew_wars_lobby
+  rotate: false
+  xy: 918,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1910
+crew_wars_lobby
+  rotate: false
+  xy: 952,70
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1911
+crew_wars_lobby
+  rotate: false
+  xy: 0,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1912
+crew_wars_lobby
+  rotate: false
+  xy: 34,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1913
+crew_wars_lobby
+  rotate: false
+  xy: 68,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1914
+crew_wars_lobby
+  rotate: false
+  xy: 102,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1915
+crew_wars_lobby
+  rotate: false
+  xy: 136,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1916
+crew_wars_lobby
+  rotate: false
+  xy: 170,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1917
+crew_wars_lobby
+  rotate: false
+  xy: 204,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1918
+crew_wars_lobby
+  rotate: false
+  xy: 238,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1919
+crew_wars_lobby
+  rotate: false
+  xy: 272,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1920
+crew_wars_lobby
+  rotate: false
+  xy: 306,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1921
+crew_wars_lobby
+  rotate: false
+  xy: 340,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1922
+crew_wars_lobby
+  rotate: false
+  xy: 374,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1923
+crew_wars_lobby
+  rotate: false
+  xy: 408,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1924
+crew_wars_lobby
+  rotate: false
+  xy: 442,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1925
+crew_wars_lobby
+  rotate: false
+  xy: 476,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1926
+crew_wars_lobby
+  rotate: false
+  xy: 510,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1927
+crew_wars_lobby
+  rotate: false
+  xy: 544,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1928
+crew_wars_lobby
+  rotate: false
+  xy: 578,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1929
+crew_wars_lobby
+  rotate: false
+  xy: 612,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1930
+crew_wars_lobby
+  rotate: false
+  xy: 646,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1931
+crew_wars_lobby
+  rotate: false
+  xy: 680,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1932
+crew_wars_lobby
+  rotate: false
+  xy: 714,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1933
+crew_wars_lobby
+  rotate: false
+  xy: 748,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1934
+crew_wars_lobby
+  rotate: false
+  xy: 782,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1935
+crew_wars_lobby
+  rotate: false
+  xy: 816,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1936
+crew_wars_lobby
+  rotate: false
+  xy: 850,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1937
+crew_wars_lobby
+  rotate: false
+  xy: 884,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1938
+crew_wars_lobby
+  rotate: false
+  xy: 918,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1939
+crew_wars_lobby
+  rotate: false
+  xy: 952,104
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1940
+crew_wars_lobby
+  rotate: false
+  xy: 0,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1941
+crew_wars_lobby
+  rotate: false
+  xy: 34,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1942
+crew_wars_lobby
+  rotate: false
+  xy: 68,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1943
+crew_wars_lobby
+  rotate: false
+  xy: 102,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1944
+crew_wars_lobby
+  rotate: false
+  xy: 136,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1945
+crew_wars_lobby
+  rotate: false
+  xy: 170,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1946
+crew_wars_lobby
+  rotate: false
+  xy: 204,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1947
+crew_wars_lobby
+  rotate: false
+  xy: 238,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1948
+crew_wars_lobby
+  rotate: false
+  xy: 272,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1949
+crew_wars_lobby
+  rotate: false
+  xy: 306,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1950
+crew_wars_lobby
+  rotate: false
+  xy: 340,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1951
+GFX1
+  rotate: false
+  xy: 374,138
+  size: 32,32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
