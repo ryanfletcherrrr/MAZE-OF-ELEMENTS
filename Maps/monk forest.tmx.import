@@ -1,0 +1,23 @@
+[remap]
+
+importer="YATI"
+type="PackedScene"
+uid="uid://duv2xff6sokre"
+path="res://.godot/imported/monk forest.tmx-2ab0f0f5096490b858e28c8a88d6c4bb.tscn"
+
+[deps]
+
+source_file="res://Maps/monk forest.tmx"
+dest_files=["res://.godot/imported/monk forest.tmx-2ab0f0f5096490b858e28c8a88d6c4bb.tscn"]
+
+[params]
+
+use_default_filter=false
+add_class_as_metadata=false
+add_id_as_metadata=false
+no_alternative_tiles=false
+map_wangset_to_terrain=false
+custom_data_prefix="data_"
+tiled_project_file=""
+post_processor=""
+save_tileset_to=""
