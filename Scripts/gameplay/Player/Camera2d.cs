@@ -12,15 +12,19 @@ public partial class Camera2d : Camera2D
 	[Export] int limit_right = 0;
 	[Export] int limit_top = 0;
 	[Export] int limit_bottom = 0;
-
 	// Called when the node enters the scene tree for the first time.
+
+
+	public void UpdateLimit(Vector2[] bounds)
+	{
+		LimitLeft = (int)bounds[0].X;
+		LimitTop = (int)bounds[0].Y;
+		LimitRight = (int)bounds[1].X;
+		LimitBottom = (int)bounds[1].Y;
+	}
 	public override void _Ready()
 	{
 		Logger.Info("Loading camera");
 	}
 
-	// Called every frame. 'delta' is the elapsed time since the previous frame.
-	public override void _Process(double delta)
-	{
-	}
 }

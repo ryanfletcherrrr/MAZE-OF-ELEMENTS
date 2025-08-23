@@ -1127,6 +1127,7 @@ texture_region_size = Vector2i(32, 32)
 texture = ExtResource("8_m5cgj")
 texture_region_size = Vector2i(32, 32)
 0:0/0 = 0
+0:0/0/physics_layer_0/polygon_0/points = PackedVector2Array(-16, -16, 16, -16, 16, 16, -16, 16)
 0:0/0/metadata/Blocked = ""
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_tvfvd"]
@@ -1937,6 +1938,7 @@ texture_region_size = Vector2i(32, 32)
 
 [sub_resource type="TileSet" id="TileSet_mnl32"]
 tile_size = Vector2i(32, 32)
+physics_layer_0/collision_layer = 1
 terrain_set_0/mode = 1
 terrain_set_0/terrain_0/name = "cliff"
 terrain_set_0/terrain_0/color = Color(1, 0, 0, 1)

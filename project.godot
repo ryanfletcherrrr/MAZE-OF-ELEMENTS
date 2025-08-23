@@ -30,7 +30,7 @@ window/size/viewport_height=1080
 
 [dotnet]
 
-project/assembly_name="PokemonUnknown"
+project/assembly_name="Maze Of Elements"
 
 [editor_plugins]
 
