@@ -19,13 +19,13 @@ public static class Logger
 		switch (level)
 		{
 			case LogLevel.DEBUG:
-				color = "WHITE";
+				color = "GRAY";
 				break;
 			case LogLevel.INFO:
-				color = "CYAN";
+				color = "PURPLE";
 				break;
 			case LogLevel.WARNING:
-				color = "YELLOW";
+				color = "ORANGE";
 				break;
 			case LogLevel.ERROR:
 				color = "RED";

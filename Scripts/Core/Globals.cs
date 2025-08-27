@@ -7,7 +7,7 @@ namespace Game.core
 	{
 		public static Globals Instance { get; private set; }
 		[ExportCategory("Gameplay")]
-		[Export] public int GRID_SIZE = 16;
+		[Export] public int GRID_SIZE = 8;
 		public override void _Ready()
 		{
 			Instance = this;

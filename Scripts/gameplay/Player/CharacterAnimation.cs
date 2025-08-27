@@ -1,93 +1,65 @@
-using Game.Core;
 using Godot;
-
+using Game.Core;
+using System;
 namespace Game.Gameplay;
-
 public partial class CharacterAnimation : AnimatedSprite2D
 {
-    [ExportCategory("Nodes")]
-    [Export]
-    public CharacterInput CharacterInput;
-
-    [Export]
-    public CharacterMovement CharacterMovement;
-
-    [ExportCategory("Animations Variables")]
-    [Export]
-    public ECharacterAnimation ECharacterAnimation = ECharacterAnimation.idle_down;
+    private Player _player;
+    private Vector2 _lastDirection = Vector2.Down;
 
     public override void _Ready()
     {
-        CharacterMovement.Animation += PlayAnimation;
-
-        Logger.Info("Loading player animation component ...");
+        _player = GetParent() as Player;
+        Logger.Info("Playing character animation " + GetIdleAnimation(Vector2.Down));
+        Play("idle_down");
     }
 
-    public void PlayAnimation(string animationType)
+    public override void _Process(double delta)
     {
-        ECharacterAnimation previousAnimation = ECharacterAnimation;
+        if (_player == null) return;
 
-        switch (animationType)
+        Vector2 direction = _player.Direction;
+
+        if (direction != Vector2.Zero)
         {
-            case "walk":
-                if (CharacterInput.Direction == Vector2.Up)
-                {
-                    ECharacterAnimation = ECharacterAnimation.walk_up;
-                }
-                else if (CharacterInput.Direction == Vector2.Down)
-                {
-                    ECharacterAnimation = ECharacterAnimation.walk_down;
-                }
-                else if (CharacterInput.Direction == Vector2.Left)
-                {
-                    ECharacterAnimation = ECharacterAnimation.walk_left;
-                }
-                else if (CharacterInput.Direction == Vector2.Right)
-                {
-                    ECharacterAnimation = ECharacterAnimation.walk_right;
-                }
-                break;
-            case "turn":
-                if (CharacterInput.Direction == Vector2.Up)
-                {
-                    ECharacterAnimation = ECharacterAnimation.turn_up;
-                }
-                else if (CharacterInput.Direction == Vector2.Down)
-                {
-                    ECharacterAnimation = ECharacterAnimation.turn_down;
-                }
-                else if (CharacterInput.Direction == Vector2.Left)
-                {
-                    ECharacterAnimation = ECharacterAnimation.turn_left;
-                }
-                else if (CharacterInput.Direction == Vector2.Right)
-                {
-                    ECharacterAnimation = ECharacterAnimation.turn_right;
-                }
-                break;
-            case "idle":
-                if (CharacterInput.Direction == Vector2.Up)
-                {
-                    ECharacterAnimation = ECharacterAnimation.idle_up;
-                }
-                else if (CharacterInput.Direction == Vector2.Down)
-                {
-                    ECharacterAnimation = ECharacterAnimation.idle_down;
-                }
-                else if (CharacterInput.Direction == Vector2.Left)
-                {
-                    ECharacterAnimation = ECharacterAnimation.idle_left;
-                }
-                else if (CharacterInput.Direction == Vector2.Right)
-                {
-                    ECharacterAnimation = ECharacterAnimation.idle_right;
-                }
-                break;
+            _lastDirection = direction;
         }
 
-        if (previousAnimation != ECharacterAnimation)
+        // Pick animation name
+        string animName;
+        if (direction == Vector2.Zero)
         {
-            Play(ECharacterAnimation.ToString());
+            // Not moving - show idle animation
+            animName = GetIdleAnimation(_lastDirection);
         }
+        else
+        {
+            // Moving - show walk animation
+            animName = GetWalkAnimation(direction);
+        }
+
+        // Play the animation if it's different
+        if (Animation != animName)
+        {
+            Play(animName);
+        }
+    }
+
+    private string GetIdleAnimation(Vector2 dir)
+    {
+        if (dir == Vector2.Up) return "idle_up";
+        if (dir == Vector2.Down) return "idle_down";
+        if (dir == Vector2.Left) return "idle_left";
+        if (dir == Vector2.Right) return "idle_right";
+        return "idle_down";
+    }
+
+    private string GetWalkAnimation(Vector2 dir)
+    {
+        if (dir == Vector2.Up) return "walk_up";
+        if (dir == Vector2.Down) return "walk_down";
+        if (dir == Vector2.Left) return "walk_left";
+        if (dir == Vector2.Right) return "walk_right";
+        return "walk_down";
     }
 }

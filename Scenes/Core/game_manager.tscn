@@ -1,6 +1,6 @@
 [gd_scene load_steps=4 format=3 uid="uid://m7hpdl146psi"]
 
-[ext_resource type="PackedScene" uid="uid://cfimf6a1wjw2h" path="res://Maps/fire_area.tmx" id="2_w1dfi"]
+[ext_resource type="PackedScene" uid="uid://crglfxl0sska6" path="res://Scenes/Maps/ancient cave.tscn" id="1_ccxyy"]
 [ext_resource type="PackedScene" uid="uid://cgh7x2o4w8tfm" path="res://Scenes/Player/player.tscn" id="3_0m2py"]
 [ext_resource type="PackedScene" uid="uid://b7wbcaassjbe0" path="res://Scenes/Audio/audio_stream_player_2d.tscn" id="3_ccxyy"]
 
@@ -37,11 +37,11 @@ size_2d_override = Vector2i(1920, 1080)
 size_2d_override_stretch = true
 render_target_update_mode = 4
 
+[node name="ancient cave" parent="Control" instance=ExtResource("1_ccxyy")]
+position = Vector2(24, 56)
+
+[node name="Player2D" parent="Control/ancient cave" instance=ExtResource("3_0m2py")]
+position = Vector2(456, 656)
+
 [node name="AudioStreamPlayer2D" parent="." instance=ExtResource("3_ccxyy")]
-position = Vector2(504.462, 729.875)
-
-[node name="fire_area" parent="." instance=ExtResource("2_w1dfi")]
-position = Vector2(16, 8)
-
-[node name="Player2D" parent="fire_area" instance=ExtResource("3_0m2py")]
-position = Vector2(912, 1816)
+position = Vector2(456, 224)
