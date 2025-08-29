@@ -21,16 +21,20 @@ config/fullsize=true
 
 [autoload]
 
-Globals="*res://Scripts/Core/Globals.cs"
+Globals="*res://00_Global/Core/Globals.cs"
 
 [display]
 
-window/size/viewport_width=1920
-window/size/viewport_height=1080
+window/size/viewport_width=1200
+window/size/viewport_height=600
 
 [dotnet]
 
 project/assembly_name="MazeOfElement"
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/YATI/plugin.cfg")
 
 [input]
 
@@ -70,4 +74,6 @@ ui_down={
 [rendering]
 
 textures/canvas_textures/default_texture_filter=0
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"
 2d/canvas_textures/default_texture_filter=1
