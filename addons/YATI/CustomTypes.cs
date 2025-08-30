@@ -11,7 +11,7 @@
 //
 // The above copyright notice and this permission notice shall be included in all
 // copies or substantial portions of the Software.
-// 
+//
 // THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 // IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 // FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
@@ -31,7 +31,7 @@ namespace YATI;
 [Tool]
 public class CustomTypes
 {
-    private Array<Dictionary> _customTypes;
+    private Array<Dictionary> customTypeList;
 
     public void LoadCustomTypes(string projectFile)
     {
@@ -44,17 +44,17 @@ public class CustomTypes
         }
         var projFileAsDictionary = DictionaryBuilder.GetDictionary(projFileContent, projectFile);
         if (projFileAsDictionary.TryGetValue("propertyTypes", out var propTypes))
-            _customTypes = (Array<Dictionary>)propTypes;
+            customTypeList = (Array<Dictionary>)propTypes;
     }
 
     public void UnloadCustomTypes()
     {
-        _customTypes?.Clear();
+    customTypeList?.Clear();
     }
 
     public void MergeCustomProperties(Dictionary obj, string scope)
     {
-        if (_customTypes == null) return;
+    if (customTypeList == null) return;
 
         var classString = (string)obj.GetValueOrDefault("class", "");
         if (classString == "")
@@ -70,7 +70,7 @@ public class CustomTypes
             newKey = true;
         }
 
-        foreach (var ctProp in _customTypes)
+    foreach (var ctProp in customTypeList)
         {
             var ptName = (string)ctProp.GetValueOrDefault("name", "");
             var ptType = (string)ctProp.GetValueOrDefault("type", "");

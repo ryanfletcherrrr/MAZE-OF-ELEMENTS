@@ -1,9 +1,12 @@
-[gd_scene load_steps=83 format=3 uid="uid://cgh7x2o4w8tfm"]
+[gd_scene load_steps=86 format=3 uid="uid://cgh7x2o4w8tfm"]
 
 [ext_resource type="Script" uid="uid://d3n0tsmmb5gcj" path="res://Player/Scripts/Player.cs" id="1_0u5uq"]
 [ext_resource type="Texture2D" uid="uid://caw10a2nfddom" path="res://Resources/Character/Idle/Unarmed_Idle_full.png" id="4_jhyir"]
 [ext_resource type="Script" uid="uid://xa256djargq7" path="res://Player/Scripts/CharacterAnimation.cs" id="4_mtuoh"]
 [ext_resource type="Texture2D" uid="uid://b3wsgp5ft60tp" path="res://Resources/Character/Walking/Unarmed_Walk_full.png" id="5_74mp2"]
+[ext_resource type="Script" uid="uid://c6231hidpyfes" path="res://Player/Scripts/PlayerStateMachine.cs" id="5_k53q1"]
+[ext_resource type="Script" uid="uid://crbl15ovvq8i7" path="res://Player/Scripts/States/Idle.cs" id="6_fhl08"]
+[ext_resource type="Script" uid="uid://rfyrrua32xkh" path="res://Player/Scripts/States/Walk.cs" id="7_vtle1"]
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_mtuoh"]
 
@@ -622,3 +625,12 @@ script = ExtResource("4_mtuoh")
 offset = Vector2(0, 2.62)
 zoom = Vector2(3, 3)
 position_smoothing_enabled = true
+
+[node name="StateMachine" type="Node" parent="."]
+script = ExtResource("5_k53q1")
+
+[node name="Idle" type="Node" parent="StateMachine"]
+script = ExtResource("6_fhl08")
+
+[node name="Walk" type="Node" parent="StateMachine"]
+script = ExtResource("7_vtle1")

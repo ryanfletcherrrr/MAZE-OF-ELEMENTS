@@ -1,34 +1,28 @@
 using Godot;
 
-// Simple 4-directional character movement (no diagonals)
 public partial class Player : CharacterBody2D
 {
   [Export] public float Speed = 60f;
 
-  public Vector2 Direction { get; private set; } = Vector2.Zero;
+  // Direction chosen by the current state
+  public Vector2 Direction { get; set; } = Vector2.Zero;
+  // Last non-zero direction for idle facing
+  public Vector2 LastDirection { get; set; } = Vector2.Down;
+
+  private PlayerStateMachine stateMachine;
+
+  public override void _Ready()
+  {
+    // Find state machine as a child (or sibling) - adjust path if needed
+    stateMachine = GetNodeOrNull<PlayerStateMachine>("StateMachine") ??
+            GetNodeOrNull<PlayerStateMachine>("StateMachine");
+    if (stateMachine != null)
+      stateMachine.Initialize(this);
+  }
 
   public override void _PhysicsProcess(double delta)
   {
-    HandleInput();
-    Move();
-  }
-
-  private void HandleInput()
-  {
-    float horizontal = Input.GetAxis("ui_left", "ui_right");
-    float vertical = Input.GetAxis("ui_up", "ui_down");
-
-    // Block diagonal movement - prioritize horizontal
-    if (horizontal != 0 && vertical != 0)
-    {
-      vertical = 0;
-    }
-
-    Direction = new Vector2(horizontal, vertical);
-  }
-
-  private void Move()
-  {
+    // Movement executed after state decides Direction
     Velocity = Direction * Speed;
     MoveAndSlide();
   }

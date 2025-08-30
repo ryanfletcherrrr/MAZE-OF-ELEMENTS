@@ -1,44 +1,21 @@
 using Godot;
 
-public partial class State : Node2D
+public abstract partial class State : Node
 {
-    static Player Player;
+    // Reference to the player owning this state
+    public Player Player { get; set; }
+    // Back-reference to the state machine for convenience
+    public PlayerStateMachine Machine { get; set; }
 
+    // Called when the state becomes active
+    public virtual void Enter() { }
+    // Called when the state is about to be replaced
+    public virtual void Exit() { }
 
-    //What happens when the player enters the state
-    public void Enter()
-    {
-        return;
-    }
-
-    //What happens when the player exits out the scene
-    public void Exit()
-    {
-
-    }
-
-    public override void _Ready()
-    {
-        base._Ready();
-    }
-    //What happens every frame during the X state player is in
-    public override void _Process(double _delta)
-    {
-        return;
-
-    }
-
-    //What happens to the physics when player is in this staet
-    public void Physics(double _delta)
-    {
-        return;
-    }
-
-    public void HandleInput(InputEvent _event)
-    {
-        return;
-    }
-
-
-
+    // Per-frame (non-physics) update. Return a different State to transition, or null to stay.
+    public virtual State Update(double delta) => null;
+    // Physics update. Return next state or null to stay.
+    public virtual State PhysicsUpdate(double delta) => null;
+    // Input handling. Return next state or null.
+    public virtual State HandleInput(InputEvent inputEvent) => null;
 }
