@@ -1,8 +1,0 @@
-[gd_scene load_steps=2 format=3 uid="uid://b7wbcaassjbe0"]
-
-[ext_resource type="AudioStream" uid="uid://ofm5dj2xaq74" path="res://Resources/Audio/1-06. Pallet Town.mp3" id="1_iubnk"]
-
-[node name="PalletTown" type="AudioStreamPlayer2D"]
-stream = ExtResource("1_iubnk")
-volume_db = -53.395
-autoplay = true

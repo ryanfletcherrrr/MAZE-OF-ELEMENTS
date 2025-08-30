@@ -1,4 +1,4 @@
-[gd_scene load_steps=3 format=3 uid="uid://m7hpdl146psi"]
+[gd_scene load_steps=3 format=3 uid="uid://bm7na6f6qon2d"]
 
 [ext_resource type="PackedScene" uid="uid://b60linulwkpcw" path="res://Scenes/Maps/Dungeon.tscn" id="1_w1dfi"]
 [ext_resource type="PackedScene" uid="uid://cgh7x2o4w8tfm" path="res://Player/player.tscn" id="2_ccxyy"]
@@ -37,7 +37,7 @@ size_2d_override_stretch = true
 render_target_update_mode = 4
 
 [node name="Dungeon2" parent="." instance=ExtResource("1_w1dfi")]
-position = Vector2(224, 400)
+position = Vector2(224, 464)
 
 [node name="Player2D" parent="Dungeon2" instance=ExtResource("2_ccxyy")]
-position = Vector2(32, -152)
+position = Vector2(72, -80)

@@ -6,7 +6,6 @@
 [ext_resource type="Texture2D" uid="uid://b3wsgp5ft60tp" path="res://Resources/Character/Walking/Unarmed_Walk_full.png" id="5_74mp2"]
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_mtuoh"]
-radius = 5.0
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_enij7"]
 atlas = ExtResource("4_jhyir")
@@ -531,7 +530,7 @@ animations = [{
 }],
 "loop": true,
 "name": &"walk_down",
-"speed": 5.0
+"speed": 8.0
 }, {
 "frames": [{
 "duration": 1.0,
@@ -554,7 +553,7 @@ animations = [{
 }],
 "loop": true,
 "name": &"walk_left",
-"speed": 5.0
+"speed": 10.0
 }, {
 "frames": [{
 "duration": 1.0,
@@ -577,7 +576,7 @@ animations = [{
 }],
 "loop": true,
 "name": &"walk_right",
-"speed": 5.0
+"speed": 10.0
 }, {
 "frames": [{
 "duration": 1.0,
@@ -600,7 +599,7 @@ animations = [{
 }],
 "loop": true,
 "name": &"walk_up",
-"speed": 5.0
+"speed": 10.0
 }]
 
 [node name="Player2D" type="CharacterBody2D"]
