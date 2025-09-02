@@ -1,14 +1,15 @@
 [gd_scene load_steps=86 format=3 uid="uid://cgh7x2o4w8tfm"]
 
 [ext_resource type="Script" uid="uid://d3n0tsmmb5gcj" path="res://Player/Scripts/Player.cs" id="1_0u5uq"]
+[ext_resource type="SpriteFrames" uid="uid://cvjputuvv5jct" path="res://Resources/Character/TreeFiles/SpriteManager.tres" id="2_vtle1"]
 [ext_resource type="Texture2D" uid="uid://caw10a2nfddom" path="res://Resources/Character/Idle/Unarmed_Idle_full.png" id="4_jhyir"]
-[ext_resource type="Script" uid="uid://xa256djargq7" path="res://Player/Scripts/CharacterAnimation.cs" id="4_mtuoh"]
 [ext_resource type="Texture2D" uid="uid://b3wsgp5ft60tp" path="res://Resources/Character/Walking/Unarmed_Walk_full.png" id="5_74mp2"]
 [ext_resource type="Script" uid="uid://c6231hidpyfes" path="res://Player/Scripts/PlayerStateMachine.cs" id="5_k53q1"]
 [ext_resource type="Script" uid="uid://crbl15ovvq8i7" path="res://Player/Scripts/States/Idle.cs" id="6_fhl08"]
 [ext_resource type="Script" uid="uid://rfyrrua32xkh" path="res://Player/Scripts/States/Walk.cs" id="7_vtle1"]
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_mtuoh"]
+radius = 4.0
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_enij7"]
 atlas = ExtResource("4_jhyir")
@@ -316,6 +317,26 @@ region = Rect2(320, 192, 64, 64)
 
 [sub_resource type="SpriteFrames" id="SpriteFrames_xt14o"]
 animations = [{
+"frames": [],
+"loop": true,
+"name": &"attack_down",
+"speed": 5.0
+}, {
+"frames": [],
+"loop": true,
+"name": &"attack_left",
+"speed": 5.0
+}, {
+"frames": [],
+"loop": true,
+"name": &"attack_right",
+"speed": 5.0
+}, {
+"frames": [],
+"loop": true,
+"name": &"attack_up",
+"speed": 5.0
+}, {
 "frames": [{
 "duration": 1.0,
 "texture": SubResource("AtlasTexture_enij7")
@@ -607,7 +628,10 @@ animations = [{
 
 [node name="Player2D" type="CharacterBody2D"]
 texture_filter = 1
+collision_layer = 16
+collision_mask = 16
 script = ExtResource("1_0u5uq")
+CHARACTER_SPRITE = ExtResource("2_vtle1")
 
 [node name="Collider" type="CollisionShape2D" parent="."]
 position = Vector2(-0.11, 4.935)
@@ -618,8 +642,7 @@ debug_color = Color(0.219614, 0.621514, 0.43009, 0.42)
 texture_filter = 1
 scale = Vector2(0.8075, 0.8075)
 sprite_frames = SubResource("SpriteFrames_xt14o")
-animation = &"idle_down"
-script = ExtResource("4_mtuoh")
+animation = &"attack_left"
 
 [node name="Camera2D" type="Camera2D" parent="."]
 offset = Vector2(0, 2.62)

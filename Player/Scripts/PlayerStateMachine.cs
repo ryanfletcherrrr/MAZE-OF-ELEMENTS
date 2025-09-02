@@ -5,17 +5,18 @@ public partial class PlayerStateMachine : Node
 {
     //Array of States a player can have
     private readonly List<State> stateList = new();
+
     // Previous state of the player
     public State PreviousState { get; private set; }
+
     //Current state of the player
     public State CurrentState { get; private set; }
+
 
     public override void _Ready()
     {
         ProcessMode = Node.ProcessModeEnum.Disabled;
         base._Ready();
-    // Attempt automatic initialization if a Player parent exists
-    TryAutoInitialize();
     }
 
     public override void _Process(double delta)
@@ -54,12 +55,10 @@ public partial class PlayerStateMachine : Node
             Logger.Warning("Initialize called with null player");
             return;
         }
-        if (CurrentState != null)
-        {
-            // Already initialized
-            return;
-        }
+        if (CurrentState != null) return;
+
         Logger.Info("PlayerStateMachine: Initializing with player " + player.Name);
+
         stateList.Clear();
         foreach (Node child in GetChildren())
         {
@@ -121,30 +120,4 @@ public partial class PlayerStateMachine : Node
         }
         return null;
     }
-
-    private void TryAutoInitialize()
-    {
-        if (CurrentState != null) return;
-        Player player = GetParent() as Player;
-        if (player == null)
-        {
-            // Try one level up just in case
-            Node parent = GetParent();
-            if (parent != null)
-            {
-                player = parent.GetParent() as Player;
-            }
-        }
-        if (player != null)
-        {
-            Initialize(player);
-        }
-        else
-        {
-            // Defer another attempt after tree is fully ready
-            CallDeferred(nameof(TryAutoInitialize));
-        }
-    }
-
-
 }

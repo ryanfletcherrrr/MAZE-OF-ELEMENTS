@@ -6,17 +6,19 @@ public partial class Idle : State
     private AnimatedSprite2D animator;
     public override void Enter()
     {
+
         Player.Direction = Vector2.Zero;
         if (animator == null)
         {
-            animator = Player.GetNodeOrNull<AnimatedSprite2D>("CharacterAnimation");
+            animator = Player.GetNodeOrNull<AnimatedSprite2D>("AnimatedSprite2D");
             if (animator == null)
             {
-                animator = Player.GetNodeOrNull<AnimatedSprite2D>("../CharacterAnimation");
+                animator = Player.GetNodeOrNull<AnimatedSprite2D>("AnimatedSprite2D");
             }
         }
         if (animator != null)
         {
+
 
             string anim = "idle_down";
             if (Player.LastDirection == Vector2.Up)
@@ -38,7 +40,7 @@ public partial class Idle : State
 
             if (animator.Animation.IsEmpty)
             {
-                animator.Play("idle_down");
+                animator.Play("attack_down");
             }
             if (animator.Animation != anim)
             {

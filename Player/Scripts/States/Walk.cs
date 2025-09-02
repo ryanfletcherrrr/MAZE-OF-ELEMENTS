@@ -10,10 +10,6 @@ public partial class Walk : State
         if (animator == null)
         {
             animator = Player.GetNodeOrNull<AnimatedSprite2D>("AnimatedSprite2D");
-            if (animator == null)
-            {
-                animator = Player.GetNodeOrNull<AnimatedSprite2D>("AnimatedSprite2D");
-            }
         }
     }
 

@@ -1,5 +1,10 @@
 using Godot;
 
+
+/** Abstract class cant inherit it its a blueprint
+*   Each sate knows which Player it belongs to
+*    Each State can access the stateMachine used to get other States
+*/
 public abstract partial class State : Node
 {
     // Reference to the player owning this state
