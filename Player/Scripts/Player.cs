@@ -17,7 +17,7 @@ public partial class Player : CharacterBody2D
 
   private AnimatedSprite2D animator;
 
-  
+
   public override void _Ready()
   {
     LEVEL = 0;
@@ -55,7 +55,8 @@ public partial class Player : CharacterBody2D
       return;
     }
 
-      animator.SpriteFrames = CHARACTER_SPRITE;
-      Logger.Info($"Detected level selection {LEVEL} switching sprite to appropritate level");
+    animator.SpriteFrames = CHARACTER_SPRITE;
+    Logger.Info($"Detected level selection {LEVEL} switching sprite to appropritate level");
   }
+
 }
