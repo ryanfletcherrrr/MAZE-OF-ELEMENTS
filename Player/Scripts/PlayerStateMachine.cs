@@ -52,12 +52,12 @@ public partial class PlayerStateMachine : Node
     {
         if (player == null)
         {
-            Logger.Warning("Initialize called with null player");
+            GameLogger.Warning("Initialize called with null player");
             return;
         }
         if (CurrentState != null) return;
 
-        Logger.Info("PlayerStateMachine: Initializing with player " + player.Name);
+        GameLogger.Info("PlayerStateMachine: Initializing with player " + player.Name);
 
         stateList.Clear();
         foreach (Node child in GetChildren())
@@ -67,7 +67,7 @@ public partial class PlayerStateMachine : Node
         }
         if (stateList.Count == 0)
         {
-            Logger.Warning("PlayerStateMachine has no child State nodes.");
+            GameLogger.Warning("PlayerStateMachine has no child State nodes.");
             return;
         }
         // Attach references to all states
@@ -79,7 +79,7 @@ public partial class PlayerStateMachine : Node
 
         ChangeState(stateList[0]);
         ProcessMode = Node.ProcessModeEnum.Inherit; // enable processing
-        Logger.Info("PlayerStateMachine: Entered initial state " + CurrentState.GetType().Name);
+        GameLogger.Info("PlayerStateMachine: Entered initial state " + CurrentState.GetType().Name);
     }
 
     public void ChangeState(State newState)
@@ -87,7 +87,7 @@ public partial class PlayerStateMachine : Node
         //check if the states are valid if not exit
         if (newState == null)
         {
-            Logger.Warning("Attempted to change to null state");
+            GameLogger.Warning("Attempted to change to null state");
             return;
         }
         if (newState == CurrentState)

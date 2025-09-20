@@ -3,7 +3,7 @@ using System;
 
 namespace Game.Core;
 
-public static class Logger
+public static class GameLogger
 {
 
 

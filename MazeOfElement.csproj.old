@@ -1,0 +1,11 @@
+<Project Sdk="Godot.NET.Sdk/4.4.1">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <EnableDynamicLoading>true</EnableDynamicLoading>
+    <RootNamespace>MazeOfElement</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="Documentation\" />
+    <Folder Include="Scenes\Player\" />
+  </ItemGroup>
+</Project>

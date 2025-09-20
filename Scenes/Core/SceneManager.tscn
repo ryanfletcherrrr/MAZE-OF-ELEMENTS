@@ -1,8 +1,9 @@
-[gd_scene load_steps=4 format=3 uid="uid://bm7na6f6qon2d"]
+[gd_scene load_steps=5 format=3 uid="uid://bm7na6f6qon2d"]
 
-[ext_resource type="PackedScene" uid="uid://djorr2qtpyt2j" path="res://Scenes/Maps/Glades.tscn" id="1_g6irt"]
+[ext_resource type="PackedScene" uid="uid://cmf4twuc5twq2" path="res://Scenes/Maps/Glades.tscn" id="1_g6irt"]
 [ext_resource type="PackedScene" uid="uid://cgh7x2o4w8tfm" path="res://Player/player.tscn" id="2_ccxyy"]
-[ext_resource type="SpriteFrames" uid="uid://bdelwcdfmw1i8" path="res://Resources/Character/LevelSprites/Level7.tres" id="3_g6irt"]
+[ext_resource type="PackedScene" uid="uid://c6u2whroxa7ds" path="res://Enemies/Slime.tscn" id="3_ojn28"]
+[ext_resource type="SpriteFrames" uid="uid://c1qauhcs3seul" path="res://Resources/Enemies/Slime Bosses/BlueSlime.tres" id="4_xg0xj"]
 
 [node name="GameManager" type="Node"]
 
@@ -38,7 +39,13 @@ size_2d_override_stretch = true
 render_target_update_mode = 4
 
 [node name="Glades" parent="Control/SubViewportContainer/SubViewport" instance=ExtResource("1_g6irt")]
+position = Vector2(32, -56)
+
+[node name="Slime" parent="Control/SubViewportContainer/SubViewport/Glades" instance=ExtResource("3_ojn28")]
+position = Vector2(416, 160)
+SlimeImage = ExtResource("4_xg0xj")
 
 [node name="Player2D" parent="Control/SubViewportContainer/SubViewport/Glades" instance=ExtResource("2_ccxyy")]
-position = Vector2(272, 312)
-CHARACTER_SPRITE = ExtResource("3_g6irt")
+position = Vector2(272, 320)
+collision_layer = 1
+collision_mask = 1

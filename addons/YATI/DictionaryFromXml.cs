@@ -11,7 +11,7 @@
 //
 // The above copyright notice and this permission notice shall be included in all
 // copies or substantial portions of the Software.
-//
+// 
 // THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 // IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 // FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
@@ -33,56 +33,56 @@ namespace YATI;
 [Tool]
 public class DictionaryFromXml
 {
-    private XmlParserCtrl xmlParser;
-    private string currentElement;
-    private int currentGroupLevel;
-    private readonly Dictionary resultDictionary = new Dictionary();
-    private Dictionary currentDictionary;
-    private Array currentArray;
-    private readonly CultureInfo cultureInfo = (CultureInfo)CultureInfo.CurrentCulture.Clone();
-    private bool csvEncoded = true;
-    private bool isMap;
-    private bool inTileset;
-
+    private XmlParserCtrl _xml;
+    private string _currentElement;
+    private int _currentGroupLevel;
+    private readonly Dictionary _result = new Dictionary();
+    private Dictionary _currentDictionary;
+    private Array _currentArray;
+    private readonly CultureInfo _ci = (CultureInfo)CultureInfo.CurrentCulture.Clone();
+    private bool _csvEncoded = true;
+    private bool _isMap;
+    private bool _inTileset;
+    
     public Dictionary Create(byte[] tiledFileContent, string sourceFileName)
     {
-        cultureInfo.NumberFormat.NumberDecimalSeparator = ".";
+        _ci.NumberFormat.NumberDecimalSeparator = ".";
 
-        xmlParser = new XmlParserCtrl();
+        _xml = new XmlParserCtrl();
 
-        var err = xmlParser.Open(tiledFileContent, sourceFileName);
+        var err = _xml.Open(tiledFileContent, sourceFileName);
         if (err != Error.Ok) return null;
 
-        currentElement = xmlParser.NextElement();
-        currentDictionary = resultDictionary;
-        var baseAttributes = xmlParser.GetAttributes();
+        _currentElement = _xml.NextElement();
+        _currentDictionary = _result;
+        var baseAttributes = _xml.GetAttributes();
 
-        currentDictionary.Add("type", currentElement);
-        InsertAttributes(currentDictionary, baseAttributes);
-        isMap = currentElement == "map";
+        _currentDictionary.Add("type", _currentElement);
+        InsertAttributes(_currentDictionary, baseAttributes);
+        _isMap = _currentElement == "map";
 
-        var baseElement = currentElement;
-        var baseGroupLevel = currentGroupLevel;
-        while ((err == Error.Ok) && ((!xmlParser.IsEnd() || (currentElement != baseElement) ||
-                                      (baseElement == "group" && currentElement == "group" && currentGroupLevel == baseGroupLevel))))
+        var baseElement = _currentElement;
+        var baseGroupLevel = _currentGroupLevel;
+        while ((err == Error.Ok) && ((!_xml.IsEnd() || (_currentElement != baseElement) ||
+                                      (baseElement == "group" && _currentElement == "group" && _currentGroupLevel == baseGroupLevel))))
         {
-            currentElement = xmlParser.NextElement();
-            if (currentElement == null) { err = Error.ParseError; break; }
-            if (xmlParser.IsEnd())
+            _currentElement = _xml.NextElement();
+            if (_currentElement == null) { err = Error.ParseError; break; }
+            if (_xml.IsEnd())
             {
-                if (currentElement == "group")
-                    currentGroupLevel--;
+                if (_currentElement == "group")
+                    _currentGroupLevel--;
                 continue;
             }
-            if (currentElement == "group" && !xmlParser.IsEmpty())
-                currentGroupLevel++;
-            var cAttributes = xmlParser.GetAttributes();
-            var dictionaryBookmark = currentDictionary;
-            err = xmlParser.IsEmpty() ? SimpleElement(currentElement, cAttributes) : NestedElement(currentElement, cAttributes);
-            currentDictionary = dictionaryBookmark;
+            if (_currentElement == "group" && !_xml.IsEmpty())
+                _currentGroupLevel++;
+            var cAttributes = _xml.GetAttributes();
+            var dictionaryBookmark = _currentDictionary;
+            err = _xml.IsEmpty() ? SimpleElement(_currentElement, cAttributes) : NestedElement(_currentElement, cAttributes);
+            _currentDictionary = dictionaryBookmark;
         }
-
-        if (err == Error.Ok) return resultDictionary;
+       
+        if (err == Error.Ok) return _result;
         GD.PrintErr($"Import aborted with {err} error.");
         return null;
     }
@@ -92,33 +92,33 @@ public class DictionaryFromXml
         switch (elementName)
         {
             case "image":
-                currentDictionary.Add("image", attributes["source"]);
+                _currentDictionary.Add("image", attributes["source"]);
                 if (attributes.TryGetValue("width", out var value))
-                    currentDictionary.Add("imagewidth", int.Parse(value));
+                    _currentDictionary.Add("imagewidth", int.Parse(value));
                 if (attributes.TryGetValue("height", out value))
-                    currentDictionary.Add("imageheight", int.Parse(value));
+                    _currentDictionary.Add("imageheight", int.Parse(value));
                 if (attributes.TryGetValue("trans", out value))
-                    currentDictionary.Add("transparentcolor", value);
+                    _currentDictionary.Add("transparentcolor", value);
                 return Error.Ok;
             case "wangcolor":
                 elementName = "color";
                 break;
             case "point":
-                currentDictionary.Add("point", true);
+                _currentDictionary.Add("point", true);
                 return Error.Ok;
             case "ellipse":
-                currentDictionary.Add("ellipse", true);
+                _currentDictionary.Add("ellipse", true);
                 return Error.Ok;
         }
 
         var dictKey = elementName;
-        if ((elementName == "objectgroup" && (!isMap || inTileset)) || elementName is "text" or "tileoffset" or "grid")
+        if ((elementName == "objectgroup" && (!_isMap || _inTileset)) || elementName is "text" or "tileoffset" or "grid")
         {
             // Create a single dictionary, not an array.
-            currentDictionary[dictKey] = new Dictionary();
-            currentDictionary = (Dictionary)currentDictionary[dictKey];
+            _currentDictionary[dictKey] = new Dictionary();
+            _currentDictionary = (Dictionary)_currentDictionary[dictKey];
             if (attributes.Count > 0)
-                InsertAttributes(currentDictionary, attributes);
+                InsertAttributes(_currentDictionary, attributes);
         }
         else switch (dictKey)
         {
@@ -128,13 +128,13 @@ public class DictionaryFromXml
                 foreach (var pt in attributes["points"].Split(' '))
                 {
                     var dict = new Dictionary();
-                    var x = float.Parse(pt.Split(',')[0], NumberStyles.Any, cultureInfo);
-                    var y = float.Parse(pt.Split(',')[1], NumberStyles.Any, cultureInfo);
+                    var x = float.Parse(pt.Split(',')[0], NumberStyles.Any, _ci);
+                    var y = float.Parse(pt.Split(',')[1], NumberStyles.Any, _ci);
                     dict.Add("x", x);
                     dict.Add("y", y);
                     arr.Add(dict);
                 }
-                currentDictionary.Add(dictKey,arr);
+                _currentDictionary.Add(dictKey,arr);
                 break;
             }
             case "frame" or "property":
@@ -142,7 +142,7 @@ public class DictionaryFromXml
                 // i.e. will be part of the superior array (animation or properties)
                 var dict = new Dictionary();
                 InsertAttributes(dict, attributes);
-                currentArray.Add(dict);
+                _currentArray.Add(dict);
                 break;
             }
             default:
@@ -153,54 +153,54 @@ public class DictionaryFromXml
                     attributes.Add("type", dictKey);
                     dictKey = "layer";
                 }
-
+                
                 if (dictKey == "group")
                 {
                     // Add nested "layers" array
                     attributes.Add("type", "group");
-                    if (currentDictionary.TryGetValue("layers", out var layersVal))
-                        currentArray = (Array)layersVal;
+                    if (_currentDictionary.TryGetValue("layers", out var layersVal))
+                        _currentArray = (Array)layersVal;
                     else
                     {
-                        currentArray = new Array();
-                        currentDictionary["layers"] = currentArray;
+                        _currentArray = new Array();
+                        _currentDictionary["layers"] = _currentArray;
                     }
                     dictKey = "layer";
                 }
 
                 if ((dictKey != "animation") && (dictKey != "properties"))
                     dictKey += "s";
-                if (currentDictionary.TryGetValue(dictKey, out var dictVal))
+                if (_currentDictionary.TryGetValue(dictKey, out var dictVal))
                 {
-                    currentArray = (Array)dictVal;
+                    _currentArray = (Array)dictVal;
                 }
                 else
                 {
-                    currentArray = new Array();
-                    currentDictionary[dictKey] = currentArray;
+                    _currentArray = new Array();
+                    _currentDictionary[dictKey] = _currentArray;
                 }
 
                 if ((dictKey != "animation") && (dictKey != "properties"))
                 {
-                    currentDictionary = new Dictionary();
-                    currentArray.Add(currentDictionary);
+                    _currentDictionary = new Dictionary();
+                    _currentArray.Add(_currentDictionary);
                 }
 
                 if (dictKey == "wangtiles")
                 {
-                    currentDictionary.Add("tileid", int.Parse(attributes["tileid"]));
+                    _currentDictionary.Add("tileid", int.Parse(attributes["tileid"]));
                     var arr = new Array();
                     foreach (var s in attributes["wangid"].Split(','))
                         arr.Add(int.Parse(s));
-                    currentDictionary.Add("wangid", arr);
+                    _currentDictionary.Add("wangid", arr);
                 }
                 else if (attributes.Count > 0)
-                    InsertAttributes(currentDictionary, attributes);
+                    InsertAttributes(_currentDictionary, attributes);
 
                 break;
             }
         }
-
+        
         return Error.Ok;
     }
 
@@ -211,64 +211,64 @@ public class DictionaryFromXml
             case "wangsets":
                 return Error.Ok;
             case "data":
-                currentDictionary.Add("type", "tilelayer");
+                _currentDictionary.Add("type", "tilelayer");
                 if (attributes.TryGetValue("encoding", out var encoding))
                 {
-                    currentDictionary.Add("encoding", encoding);
-                    csvEncoded = attributes["encoding"] == "csv";
+                    _currentDictionary.Add("encoding", encoding);
+                    _csvEncoded = attributes["encoding"] == "csv";
                 }
                 if (attributes.TryGetValue("compression", out var attribute))
-                    currentDictionary.Add("compression", attribute);
-
+                    _currentDictionary.Add("compression", attribute);
+                    
                 return Error.Ok;
             case "tileset":
-                inTileset = true;
+                _inTileset = true;
                 break;
         }
 
-        var dictionaryBookmark1 = currentDictionary;
-        var arrayBookmark1 = currentArray;
+        var dictionaryBookmark1 = _currentDictionary;
+        var arrayBookmark1 = _currentArray;
         var err = SimpleElement(elementName, attributes);
-        var baseElement = currentElement;
-        var baseGroupLevel = currentGroupLevel;
-        while ((err == Error.Ok) && ((!xmlParser.IsEnd() || (currentElement != baseElement) ||
-                                      (baseElement == "group" && currentElement == "group" && currentGroupLevel == baseGroupLevel))))
+        var baseElement = _currentElement;
+        var baseGroupLevel = _currentGroupLevel;
+        while ((err == Error.Ok) && ((!_xml.IsEnd() || (_currentElement != baseElement) ||
+                                      (baseElement == "group" && _currentElement == "group" && _currentGroupLevel == baseGroupLevel))))
         {
-            currentElement = xmlParser.NextElement();
-            if (currentElement == null) return Error.ParseError;
-            if (xmlParser.IsEnd())
+            _currentElement = _xml.NextElement();
+            if (_currentElement == null) return Error.ParseError;
+            if (_xml.IsEnd())
             {
-                if (currentElement == "group")
-                    currentGroupLevel--;
+                if (_currentElement == "group")
+                    _currentGroupLevel--;
                 continue;
             }
-            switch (currentElement)
+            switch (_currentElement)
             {
-                case "group" when !xmlParser.IsEmpty():
-                    currentGroupLevel++;
+                case "group" when !_xml.IsEmpty():
+                    _currentGroupLevel++;
                     break;
                 case "<data>":
                 {
-                    Variant data = xmlParser.GetData();
+                    Variant data = _xml.GetData();
                     switch (baseElement)
                     {
                         case "text":
-                            currentDictionary.Add("text", ((string)data).Replace("\r", ""));
+                            _currentDictionary.Add("text", ((string)data).Replace("\r", ""));
                             break;
                         case "property":
-                            ((Dictionary)currentArray[^1]).Add("value", ((string)data).Replace("\r", ""));
+                            ((Dictionary)_currentArray[^1]).Add("value", ((string)data).Replace("\r", ""));
                             break;
                         default:
                         {
                             data = ((string)data).Trim();
-                            if (csvEncoded)
+                            if (_csvEncoded)
                             {
                                 var arr = new Array();
                                 foreach (var s in ((string)data).Split(',',StringSplitOptions.TrimEntries))
                                     arr.Add(uint.Parse(s));
                                 data = arr;
                             }
-                            ((Dictionary)currentArray[^1]).Add("data", data);
+                            ((Dictionary)_currentArray[^1]).Add("data", data);
                             break;
                         }
                     }
@@ -276,18 +276,18 @@ public class DictionaryFromXml
                 }
             }
 
-            var cAttributes = xmlParser.GetAttributes();
-            var dictionaryBookmark2 = currentDictionary;
-            var arrayBookmark2 = currentArray;
-            err = xmlParser.IsEmpty() ? SimpleElement(currentElement, cAttributes) : NestedElement(currentElement, cAttributes);
-            currentDictionary = dictionaryBookmark2;
-            currentArray = arrayBookmark2;
+            var cAttributes = _xml.GetAttributes();
+            var dictionaryBookmark2 = _currentDictionary;
+            var arrayBookmark2 = _currentArray;
+            err = _xml.IsEmpty() ? SimpleElement(_currentElement, cAttributes) : NestedElement(_currentElement, cAttributes);
+            _currentDictionary = dictionaryBookmark2;
+            _currentArray = arrayBookmark2;
         }
 
-        currentDictionary = dictionaryBookmark1;
-        currentArray = arrayBookmark1;
+        _currentDictionary = dictionaryBookmark1;
+        _currentArray = arrayBookmark1;
         if (baseElement == "tileset")
-            inTileset = false;
+            _inTileset = false;
         return err;
     }
 
@@ -309,7 +309,7 @@ public class DictionaryFromXml
                     val = iTmp;
                 else if (uint.TryParse((string)val, out var uiTmp))
                     val = uiTmp;
-                else if (float.TryParse((string)val, NumberStyles.Float, cultureInfo, out var fTmp))
+                else if (float.TryParse((string)val, NumberStyles.Float, _ci, out var fTmp))
                     val = fTmp;
             }
             targetDictionary.Add(key, val);

@@ -4,6 +4,7 @@ using Godot;
 public partial class Walk : State
 {
     private AnimatedSprite2D animator;
+    private bool _attackTriggered = false;
 
     public override void Enter()
     {
@@ -13,8 +14,46 @@ public partial class Walk : State
         }
     }
 
+    public override void Exit()
+    {
+        _attackTriggered = false;
+        if (animator == null)
+        {
+            return;
+        }
+        string idle = "idle_down";
+        Vector2 face = Player.LastDirection;
+        if (face == Vector2.Up)
+        {
+            idle = "idle_up";
+        }
+        else if (face == Vector2.Down)
+        {
+            idle = "idle_down";
+        }
+        else if (face == Vector2.Left)
+        {
+            idle = "idle_left";
+        }
+        else if (face == Vector2.Right)
+        {
+            idle = "idle_right";
+        }
+        if (animator.Animation != idle)
+        {
+            animator.Play(idle);
+        }
+    }
+
     public override State PhysicsUpdate(double delta)
     {
+        // Check for attack input (X key just pressed)
+        if (Input.IsKeyPressed(Key.X) && !_attackTriggered)
+        {
+            _attackTriggered = true;
+            return Machine.GetState<Attack>();
+        }
+
         float horizontal = Input.GetAxis("ui_left", "ui_right");
         float vertical = Input.GetAxis("ui_up", "ui_down");
         if (horizontal != 0 && vertical != 0)
@@ -59,35 +98,5 @@ public partial class Walk : State
             }
         }
         return null;
-    }
-
-    public override void Exit()
-    {
-        if (animator == null)
-        {
-            return;
-        }
-        string idle = "idle_down";
-        Vector2 face = Player.LastDirection;
-        if (face == Vector2.Up)
-        {
-            idle = "idle_up";
-        }
-        else if (face == Vector2.Down)
-        {
-            idle = "idle_down";
-        }
-        else if (face == Vector2.Left)
-        {
-            idle = "idle_left";
-        }
-        else if (face == Vector2.Right)
-        {
-            idle = "idle_right";
-        }
-        if (animator.Animation != idle)
-        {
-            animator.Play(idle);
-        }
     }
 }

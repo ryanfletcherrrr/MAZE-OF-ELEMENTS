@@ -4,6 +4,8 @@ using Godot;
 public partial class Idle : State
 {
     private AnimatedSprite2D animator;
+    private bool _attackTriggered = false;
+
     public override void Enter()
     {
 
@@ -49,6 +51,11 @@ public partial class Idle : State
         }
     }
 
+    public override void Exit()
+    {
+        _attackTriggered = false;
+    }
+
     public override State HandleInput(InputEvent inputEvent)
     {
         if (inputEvent is InputEventKey key && key.Pressed)
@@ -63,6 +70,13 @@ public partial class Idle : State
 
     public override State PhysicsUpdate(double delta)
     {
+        // Check for attack input (X key just pressed)
+        if (Input.IsKeyPressed(Key.X) && !_attackTriggered)
+        {
+            _attackTriggered = true;
+            return Machine.GetState<Attack>();
+        }
+
         float horizontal = Input.GetAxis("ui_left", "ui_right");
         float vertical = Input.GetAxis("ui_up", "ui_down");
         if (horizontal != 0 || vertical != 0)

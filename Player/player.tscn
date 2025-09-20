@@ -1,10 +1,11 @@
-[gd_scene load_steps=7 format=3 uid="uid://cgh7x2o4w8tfm"]
+[gd_scene load_steps=8 format=3 uid="uid://cgh7x2o4w8tfm"]
 
 [ext_resource type="Script" uid="uid://d3n0tsmmb5gcj" path="res://Player/Scripts/Player.cs" id="1_0u5uq"]
 [ext_resource type="SpriteFrames" uid="uid://1lbd4fgo22ao" path="res://Resources/Character/LevelSprites/Level9.tres" id="2_k53q1"]
 [ext_resource type="Script" uid="uid://c6231hidpyfes" path="res://Player/Scripts/PlayerStateMachine.cs" id="5_k53q1"]
-[ext_resource type="Script" uid="uid://crbl15ovvq8i7" path="res://Player/Scripts/States/Idle.cs" id="6_fhl08"]
-[ext_resource type="Script" uid="uid://rfyrrua32xkh" path="res://Player/Scripts/States/Walk.cs" id="7_vtle1"]
+[ext_resource type="Script" uid="uid://c8xxhdqtlpn4u" path="res://Player/Scripts/States/Idle.cs" id="6_fhl08"]
+[ext_resource type="Script" uid="uid://dn7kcn0xm7jtw" path="res://Player/Scripts/States/Attack.cs" id="6_vtle1"]
+[ext_resource type="Script" uid="uid://bp8a5ibbepnow" path="res://Player/Scripts/States/Walk.cs" id="7_vtle1"]
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_mtuoh"]
 radius = 4.0
@@ -24,7 +25,7 @@ debug_color = Color(0.219614, 0.621514, 0.43009, 0.42)
 texture_filter = 1
 scale = Vector2(0.8075, 0.8075)
 sprite_frames = ExtResource("2_k53q1")
-animation = &"attack_down"
+animation = &"idle_down"
 
 [node name="Camera2D" type="Camera2D" parent="."]
 offset = Vector2(0, 2.62)
@@ -39,3 +40,6 @@ script = ExtResource("6_fhl08")
 
 [node name="Walk" type="Node" parent="StateMachine"]
 script = ExtResource("7_vtle1")
+
+[node name="Attack" type="Node" parent="StateMachine"]
+script = ExtResource("6_vtle1")

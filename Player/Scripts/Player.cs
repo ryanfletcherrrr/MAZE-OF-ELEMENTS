@@ -44,7 +44,7 @@ public partial class Player : CharacterBody2D
     animator = GetNodeOrNull<AnimatedSprite2D>("AnimatedSprite2D");
     if (animator == null)
     {
-      Logger.Warning("No character sprite framed detected");
+      GameLogger.Warning("No character sprite framed detected");
       return;
     }
 
@@ -56,7 +56,7 @@ public partial class Player : CharacterBody2D
     }
 
     animator.SpriteFrames = CHARACTER_SPRITE;
-    Logger.Info($"Detected level selection {LEVEL} switching sprite to appropritate level");
+    GameLogger.Info($"Detected level selection {CHARACTER_SPRITE} switching sprite to appropritate level");
   }
 
 }

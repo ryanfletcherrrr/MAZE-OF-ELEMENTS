@@ -11,7 +11,7 @@ namespace Game.core
 		public override void _Ready()
 		{
 			Instance = this;
-			Logger.Info("Game loaded...");
+			GameLogger.Info("Game loaded...");
 		}
 	}
 }
