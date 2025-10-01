@@ -7,16 +7,18 @@ public partial class Slime : CharacterBody2D
 {
     [ExportCategory("Slime Settings")]
     [Export] SpriteFrames SlimeImage;
-    [Export] public float Speed = 30f; // Movement speed
-    [Export] public float FollowDistance = 64f; // Distance to start following
-    [Export] public float StopDistance = 32f; // Distance to stop moving
-    [Export] public float ResumeDistance = 48f; // Distance to resume movement (prevents oscillation)
-    [Export] public float AttackDistance = 24f; // Distance to start attacking
-    [Export] public float AttackCooldown = 1.5f; // Time between attacks
+    [Export] public float Speed = 50f; // Faster movement speed for contact damage
+    [Export] public float FollowDistance = 80f; // Distance to start following
+    [Export] public float ContactDamageCooldown = 1.0f; // Time between contact damage
+
+    [ExportCategory("Health System")]
+    [Export] public int MaxHealth = 50;
+    [Export] public int AttackDamage = 15;
 
     private AnimatedSprite2D EnemyAnimation;
     private Timer IdleTimer;
-    private List<string> IdleAnimations = new List<string>() { "idle_down", "idle_left", "idle_up", "idle_right" };
+    private ProgressBar healthBar;
+    // Removed IdleAnimations - slime is always moving toward player for contact damage
     private Random Random = new Random();
 
     // Player following variables
@@ -26,14 +28,32 @@ public partial class Slime : CharacterBody2D
     private string currentAnimation = "";
     private bool isStopped = false; // Track if slime is currently stopped to prevent oscillation
 
-    // Attack variables
-    private bool isAttacking = false;
-    private float attackTimer = 0f;
+    // Contact damage variables
+    private float contactDamageTimer = 0f;
+
+    // Health system
+    public int CurrentHealth { get; private set; }
+    public bool IsAlive => CurrentHealth > 0;
 
 
     public override void _Ready()
     {
         GameLogger.Info("Loaded in Enemies!");
+
+        // Add to enemies group for player targeting
+        AddToGroup("enemies");
+
+        // Initialize health
+        CurrentHealth = MaxHealth;
+
+        // Get health bar reference
+        healthBar = GetNodeOrNull<ProgressBar>("HealthBar");
+        if (healthBar != null)
+        {
+            healthBar.MaxValue = MaxHealth;
+            healthBar.Value = CurrentHealth;
+        }
+
         //Load the AnimatedSprite2D Node
         EnemyAnimation = GetNodeOrNull<AnimatedSprite2D>("Enemy");
 
@@ -50,6 +70,9 @@ public partial class Slime : CharacterBody2D
 
         // Connect to animation finished signal
         EnemyAnimation.AnimationFinished += OnAnimationFinished;
+
+        // Using simple distance-based attacks - no complex hitbox needed
+        GameLogger.Info("Slime attack system initialized with distance-based detection");
 
         // Set sprite immediately on load
         if (SlimeImage != null)
@@ -75,94 +98,35 @@ public partial class Slime : CharacterBody2D
 
     private void OnAnimationFinished()
     {
-        // When attack animation finishes, return to appropriate state
-        if (isAttacking)
-        {
-            isAttacking = false;
-            currentAnimation = ""; // Reset so next animation change will trigger
-
-            // Return to idle or movement based on current state
-            if (playerChase && player != null)
-            {
-                float distanceToPlayer = Position.DistanceTo(player.Position);
-                if (distanceToPlayer <= StopDistance)
-                {
-                    PlayIdleAnimation();
-                    currentAnimation = "idle";
-                }
-            }
-            else
-            {
-                PlayIdleAnimation();
-                currentAnimation = "idle";
-            }
-        }
+        // Simple animation handling - just continue with current behavior
+        // No special attack animation handling needed
     }
 
     private void PlayRandomIdleAnimation()
     {
-        if (IdleAnimations.Count > 0)
+        // For contact damage system, slime should always face the player direction
+        if (player != null)
         {
-            int randomIndex = Random.Next(0, IdleAnimations.Count);
-            string selectedAnimation = IdleAnimations[randomIndex];
-            if (EnemyAnimation.SpriteFrames == null)
+            Vector2 directionToPlayer = (player.Position - Position).Normalized();
+            ChangeAnimation(directionToPlayer);
+        }
+        else
+        {
+            // Default animation if no player
+            if (EnemyAnimation != null)
             {
-                GameLogger.Info("Invalid sprite");
-                return;
-            }
-            else
-            {
-                // Don't reassign SpriteFrames every time - it's already set in _Ready
-                EnemyAnimation.Play(selectedAnimation);
+                EnemyAnimation.Play("idle_down");
             }
         }
     }
 
     private void PlayIdleAnimation()
     {
+        // For fast contact damage, slime should always face player direction
         PlayRandomIdleAnimation();
     }
 
-    private void PlayAttackAnimation(Vector2 direction)
-    {
-        string attackAnimation = "";
-
-        // Determine which attack animation to play based on direction to player
-        if (Mathf.Abs(direction.Y) > Mathf.Abs(direction.X))
-        {
-            // Vertical direction is dominant
-            if (direction.Y < 0)
-            {
-                attackAnimation = "attack_up";
-            }
-            else
-            {
-                attackAnimation = "attack_down";
-            }
-        }
-        else
-        {
-            // Horizontal direction is dominant
-            if (direction.X < 0)
-            {
-                attackAnimation = "attack_left";
-            }
-            else
-            {
-                attackAnimation = "attack_right";
-            }
-        }
-
-        // Play the attack animation
-        if (attackAnimation != currentAnimation)
-        {
-            EnemyAnimation.Play(attackAnimation);
-            currentAnimation = attackAnimation;
-            isAttacking = true;
-            attackTimer = AttackCooldown;
-            GameLogger.Info("Slime attacking with: " + attackAnimation);
-        }
-    }
+    // No attack animations - slime now uses contact damage only
 
     private void ChangeAnimation(Vector2 direction)
     {
@@ -213,22 +177,17 @@ public partial class Slime : CharacterBody2D
         }
     }
 
-    public override void _Process(double delta)
-    {
-        base._Process(delta);
 
-    }
 
     public override void _PhysicsProcess(double delta)
     {
-        // Update attack timer
-        if (attackTimer > 0)
+        // Don't do anything if dead
+        if (!IsAlive) return;
+
+        // Update contact damage timer
+        if (contactDamageTimer > 0)
         {
-            attackTimer -= (float)delta;
-            if (attackTimer <= 0)
-            {
-                isAttacking = false;
-            }
+            contactDamageTimer -= (float)delta;
         }
 
         if (playerChase && player != null)
@@ -237,67 +196,37 @@ public partial class Slime : CharacterBody2D
             float distanceToPlayer = Position.DistanceTo(player.Position);
             Vector2 directionToPlayer = (player.Position - Position).Normalized();
 
-            // Check if close enough to attack
-            if (distanceToPlayer <= AttackDistance && !isAttacking && attackTimer <= 0)
+            // Check for contact damage (when very close)
+            if (distanceToPlayer <= 16f && contactDamageTimer <= 0f)
             {
-                // Attack the player
-                PlayAttackAnimation(directionToPlayer);
-                Velocity = Vector2.Zero; // Stop moving during attack
-            }
-            // Use hysteresis to prevent oscillation for movement
-            else if (!isStopped && distanceToPlayer <= StopDistance && !isAttacking)
-            {
-                // Too close - stop moving (but not attacking)
-                isStopped = true;
-                Velocity = Vector2.Zero;
-                if (currentAnimation != "idle" && !isAttacking)
-                {
-                    PlayIdleAnimation();
-                    currentAnimation = "idle";
-                }
-            }
-            else if (isStopped && distanceToPlayer >= ResumeDistance)
-            {
-                // Far enough away - resume movement
-                isStopped = false;
+                // Deal contact damage
+                DealContactDamage();
+                contactDamageTimer = ContactDamageCooldown;
             }
 
-            // Only move if not stopped and not attacking
-            if (!isStopped && !isAttacking)
-            {
-                // Smooth speed adjustment based on distance
-                float speedMultiplier = Mathf.Clamp(distanceToPlayer / FollowDistance, 0.2f, 1.0f);
+            // Always chase the player (no stopping)
+            Vector2 targetVelocity = directionToPlayer * Speed;
+            Velocity = Velocity.Lerp(targetVelocity, 10.0f * (float)delta);
 
-                // Apply some smoothing to prevent jittery movement
-                Vector2 targetVelocity = directionToPlayer * Speed * speedMultiplier;
-                Velocity = Velocity.Lerp(targetVelocity, 8.0f * (float)delta);
+            MoveAndSlide();
 
-                MoveAndSlide();
-
-                // Update animation based on movement direction
-                ChangeAnimation(directionToPlayer);
-            }
-            else if (!isAttacking)
-            {
-                // Gradually stop movement for smoother deceleration
-                Velocity = Velocity.Lerp(Vector2.Zero, 10.0f * (float)delta);
-                if (Velocity.Length() > 0.1f)
-                {
-                    MoveAndSlide();
-                }
-            }
+            // Update animation based on movement direction
+            ChangeAnimation(directionToPlayer);
         }
         else
         {
-            // Stop moving and play idle animation
-            Velocity = Velocity.Lerp(Vector2.Zero, 5.0f * (float)delta);
+            // Stop moving and play idle animation when not chasing
+            Velocity = Velocity.Lerp(Vector2.Zero, 8.0f * (float)delta);
             if (Velocity.Length() > 0.1f)
             {
                 MoveAndSlide();
             }
-            isStopped = false; // Reset stopped state when not chasing
-            isAttacking = false; // Reset attack state when not chasing
-            attackTimer = 0f;
+
+            if (currentAnimation != "idle")
+            {
+                PlayIdleAnimation();
+                currentAnimation = "idle";
+            }
         }
     }
 
@@ -306,10 +235,8 @@ public partial class Slime : CharacterBody2D
     */
     public void BodyEntered(Node2D body)
     {
-        GameLogger.Info("Body entered slime range: " + body.Name);
-
-        // Only chase if it's a CharacterBody2D (likely the player)
-        if (body is CharacterBody2D characterBody)
+        // Only chase if it's specifically the player node (not other CharacterBody2D like slimes)
+        if (body is CharacterBody2D characterBody && body.Name.ToString().Contains("Player"))
         {
             player = characterBody;
             playerChase = true;
@@ -319,8 +246,6 @@ public partial class Slime : CharacterBody2D
 
     public void BodyExit(Node2D body)
     {
-        GameLogger.Info("Body exited slime range: " + body.Name);
-
         // Only stop chasing if the exiting body was our target
         if (body == player)
         {
@@ -328,10 +253,129 @@ public partial class Slime : CharacterBody2D
             playerChase = false;
             currentAnimation = ""; // Reset animation state
             isStopped = false; // Reset stopped state
-            isAttacking = false; // Reset attack state
-            attackTimer = 0f; // Reset attack timer
             GameLogger.Info("Player chase stopped");
         }
     }
+
+    public void Enemy()
+    {
+        // Marker method for enemy identification
+    }
+
+    // Health and Combat Methods
+    public void TakeDamage(int damage)
+    {
+        if (!IsAlive) return;
+
+        CurrentHealth = Mathf.Max(0, CurrentHealth - damage);
+        GameLogger.Info($"Slime took {damage} damage! Health: {CurrentHealth}/{MaxHealth}");
+
+        // Update health bar
+        UpdateHealthBar();
+
+        // Flash red when taking damage (optional visual feedback)
+        FlashDamage();
+
+        if (!IsAlive)
+        {
+            Die();
+        }
+    }
+
+    private void FlashDamage()
+    {
+        if (EnemyAnimation != null)
+        {
+            // Flash red briefly
+            EnemyAnimation.Modulate = Colors.Red;
+            var tween = CreateTween();
+            tween.TweenProperty(EnemyAnimation, "modulate", Colors.White, 0.2f);
+        }
+    }
+
+    private void Die()
+    {
+        GameLogger.Info("Slime died!");
+
+        // Stop all actions
+        playerChase = false;
+        Velocity = Vector2.Zero;
+
+        // Play death animation (if you have one)
+        if (EnemyAnimation != null && EnemyAnimation.SpriteFrames.HasAnimation("death"))
+        {
+            EnemyAnimation.Play("death");
+        }
+
+        // Remove from scene after a short delay
+        var timer = new Timer();
+        timer.WaitTime = 1.0f;
+        timer.OneShot = true;
+        timer.Timeout += () => {
+            GameLogger.Info("Slime removed from scene");
+            QueueFree();
+        };
+        AddChild(timer);
+        timer.Start();
+    }
+
+    private void DealContactDamage()
+    {
+        if (player == null || !player.HasMethod("TakeDamage")) return;
+
+        // Deal contact damage
+        player.Call("TakeDamage", AttackDamage);
+        GameLogger.Info($"Slime contact damage hit {player.Name} for {AttackDamage} damage!");
+
+        // Flash slime to show it dealt damage
+        FlashAttack();
+
+        // Flash player to show hurt animation (same effect as slime damage flash)
+        FlashPlayerHurt();
+    }
+
+    private void FlashPlayerHurt()
+    {
+        if (player != null)
+        {
+            // Get player's animated sprite
+            var playerSprite = player.GetNodeOrNull<AnimatedSprite2D>("AnimatedSprite2D");
+            if (playerSprite != null)
+            {
+                // Flash red briefly (same as slime damage effect)
+                playerSprite.Modulate = Colors.Red;
+                var tween = CreateTween();
+                tween.TweenProperty(playerSprite, "modulate", Colors.White, 0.3f);
+            }
+        }
+    }    private void FlashAttack()
+    {
+        if (EnemyAnimation != null)
+        {
+            // Flash blue briefly to show attack
+            EnemyAnimation.Modulate = Colors.Cyan;
+            var tween = CreateTween();
+            tween.TweenProperty(EnemyAnimation, "modulate", Colors.White, 0.3f);
+        }
+    }
+
+    private void UpdateHealthBar()
+    {
+        if (healthBar != null)
+        {
+            healthBar.Value = CurrentHealth;
+
+            // Change color based on health percentage
+            float healthPercent = (float)CurrentHealth / MaxHealth;
+            if (healthPercent > 0.6f)
+                healthBar.Modulate = Colors.Green;
+            else if (healthPercent > 0.3f)
+                healthBar.Modulate = Colors.Yellow;
+            else
+                healthBar.Modulate = Colors.Red;
+        }
+    }
+
+    // Simplified attack system - no complex collision detection needed
 
 }

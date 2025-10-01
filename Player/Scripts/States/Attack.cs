@@ -6,6 +6,20 @@ public partial class Attack : State
     private AnimatedSprite2D animator;
     private Timer attackTimer;
 
+
+    //Attack debug
+
+    bool enemyInAttack = false;
+    bool enemyAttackCooldown = true;
+    int health = 100;
+
+    bool ALIVE = true;
+
+
+    bool enemyAttackRange = false;
+    bool enemyRangeCooldown = true;
+
+
     public override void Enter()
     {
         // Get animator
@@ -59,4 +73,6 @@ public partial class Attack : State
         if (direction == Vector2.Right) return "attack_right";
         return "attack_down";
     }
+
+    // Removed old signal handlers - now using manual X-key attacks only
 }

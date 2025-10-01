@@ -11,12 +11,15 @@
 radius = 4.0
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_fhl08"]
+radius = 16.0
 
-[node name="Player2D" type="CharacterBody2D"]
+[node name="Player2D" type="CharacterBody2D" node_paths=PackedStringArray("camera")]
 texture_filter = 1
 collision_layer = 16
 collision_mask = 16
 script = ExtResource("1_0u5uq")
+camera = NodePath("PlayerCamera")
+CHARACTER_SPRITE = ExtResource("2_k53q1")
 
 [node name="PlayerCamera" type="Camera2D" parent="."]
 zoom = Vector2(3, 3)
@@ -32,6 +35,20 @@ scale = Vector2(0.8075, 0.8075)
 sprite_frames = ExtResource("2_k53q1")
 animation = &"idle_down"
 
+[node name="HealthBar" type="ProgressBar" parent="."]
+modulate = Color(0, 18.892157, 4.8767896, 1)
+offset_left = -7.785
+offset_top = -15.98
+offset_right = 139.50499
+offset_bottom = 12.685032
+scale = Vector2(0.1, 0.1)
+show_percentage = false
+
+[node name="AttackHitbox" type="Area2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="AttackHitbox"]
+shape = SubResource("CircleShape2D_fhl08")
+
 [node name="StateMachine" type="Node" parent="."]
 script = ExtResource("5_k53q1")
 
@@ -44,10 +61,9 @@ script = ExtResource("7_vtle1")
 [node name="Attack" type="Node" parent="StateMachine"]
 script = ExtResource("6_vtle1")
 
-[node name="hitbox" type="Area2D" parent="."]
+[node name="regen_timer" type="Timer" parent="."]
+wait_time = 5.0
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="hitbox"]
-shape = SubResource("CircleShape2D_fhl08")
-
-[connection signal="body_entered" from="hitbox" to="." method="BodyEntered"]
-[connection signal="body_exited" from="hitbox" to="." method="BodyExited"]
+[connection signal="body_entered" from="AttackHitbox" to="StateMachine/Attack" method="BodyEntered"]
+[connection signal="body_exited" from="AttackHitbox" to="StateMachine/Attack" method="BodyExited"]
+[connection signal="timeout" from="regen_timer" to="." method="timeout"]

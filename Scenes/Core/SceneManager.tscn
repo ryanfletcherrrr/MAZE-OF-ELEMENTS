@@ -16,10 +16,7 @@ player = NodePath("../Player2D")
 
 [node name="Glades" parent="." instance=ExtResource("1_g6irt")]
 position = Vector2(-32, -32)
-
-[node name="Slime" parent="." instance=ExtResource("3_ojn28")]
-position = Vector2(416, 144)
-SlimeImage = ExtResource("4_xg0xj")
+metadata/_edit_lock_ = true
 
 [node name="Player2D" parent="." node_paths=PackedStringArray("camera") instance=ExtResource("2_ccxyy")]
 position = Vector2(368, 192)
@@ -31,4 +28,8 @@ camera = NodePath("Camera2D")
 position = Vector2(-368, -192)
 zoom = Vector2(3, 3)
 limit_smoothed = true
-metadata/_edit_lock_ = true
+
+[node name="Slime" parent="." instance=ExtResource("3_ojn28")]
+position = Vector2(462, 151)
+SlimeImage = ExtResource("4_xg0xj")
+Speed = 30.0
