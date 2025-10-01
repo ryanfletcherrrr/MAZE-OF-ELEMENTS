@@ -82,13 +82,18 @@ public partial class Slime : CharacterBody2D
     */
     public void BodyEntered(Node2D body)
     {
-     
 
+        GameLogger.Info("Player entered slime range");
+
+        player = body as CharacterBody2D;
+
+        playerChase = true;
     }
-
-    public void BodyExit()
+    public void BodyExit(Node2D body)
     {
-
+        GameLogger.Info("Player exit slime range");
+        player = null;
+        playerChase = false;
     }
 
 }
