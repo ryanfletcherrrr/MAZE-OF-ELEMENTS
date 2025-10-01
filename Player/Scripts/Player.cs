@@ -7,6 +7,8 @@ public partial class Player : CharacterBody2D
   [Export] public float Speed = 60f;
   [Export] public int LEVEL;
 
+  [Export] public Camera2D camera;
+
   [Export] public SpriteFrames CHARACTER_SPRITE;
   // Direction chosen by the current state
   public Vector2 Direction { get; set; } = Vector2.Zero;
@@ -14,8 +16,8 @@ public partial class Player : CharacterBody2D
   public Vector2 LastDirection { get; set; } = Vector2.Down;
 
   private PlayerStateMachine stateMachine;
-
   private AnimatedSprite2D animator;
+  private MapBoundaryManager boundaryManager;
 
 
   public override void _Ready()
@@ -29,6 +31,25 @@ public partial class Player : CharacterBody2D
     }
 
     ManageCharacter();
+
+    // Find and connect to MapBoundaryManager
+    var sceneRoot = GetTree().CurrentScene;
+    if (sceneRoot != null)
+    {
+      Node found = sceneRoot.FindChild("MapBoundaryManager", true, false);
+      boundaryManager = found as MapBoundaryManager;
+
+      if (boundaryManager != null)
+      {
+        GD.Print("Player: Found MapBoundaryManager, requesting boundary update");
+        // Force boundary manager to update our camera
+        boundaryManager.UpdatePlayerCamera(this);
+      }
+      else
+      {
+        GD.PrintErr("Player: Could not find MapBoundaryManager");
+      }
+    }
   }
 
   public override void _PhysicsProcess(double delta)

@@ -1,6 +1,5 @@
 using Game.Core;
 using Godot;
-
 namespace Game.core
 {
 	public partial class Globals : Node
@@ -10,8 +9,11 @@ namespace Game.core
 		[Export] public int GRID_SIZE = 8;
 		public override void _Ready()
 		{
+
 			Instance = this;
 			GameLogger.Info("Game loaded...");
+
+
 		}
 	}
 }

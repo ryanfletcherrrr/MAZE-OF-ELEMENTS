@@ -11,6 +11,15 @@ public partial class Slime : CharacterBody2D
     private Timer IdleTimer;
     private List<string> IdleAnimations = new List<string>() { "idle_down", "idle_left", "idle_up", "idle_right" };
     private Random Random = new Random();
+
+
+
+    //Slime options
+    int speed = 25;
+    bool playerChase = false;
+    CharacterBody2D player = null;
+
+
     public override void _Ready()
     {
         GameLogger.Info("Loaded in Enemies!");
@@ -66,6 +75,25 @@ public partial class Slime : CharacterBody2D
     {
         base._Process(delta);
 
+    }
+
+    /**
+    * Signal for entering Body Node2D and exit
+    */
+    public void BodyEntered(Node2D body)
+    {
+
+        GameLogger.Info("Player entered slime range");
+
+        player = body as CharacterBody2D;
+
+        playerChase = true;
+    }
+    public void BodyExit(Node2D body)
+    {
+        GameLogger.Info("Player exit slime range");
+        player = null;
+        playerChase = false;
     }
 
 }
