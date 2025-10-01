@@ -1,13 +1,16 @@
-[gd_scene load_steps=5 format=3 uid="uid://c6u2whroxa7ds"]
+[gd_scene load_steps=6 format=3 uid="uid://c6u2whroxa7ds"]
 
 [ext_resource type="Script" uid="uid://caertqig4soiw" path="res://Enemies/Scripts/Slime.cs" id="1_dytb0"]
 [ext_resource type="SpriteFrames" uid="uid://c1qauhcs3seul" path="res://Resources/Enemies/Slime Bosses/BlueSlime.tres" id="2_y5nn5"]
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_dytb0"]
-radius = 40.792156
+radius = 80.399
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_y5nn5"]
 radius = 8.0
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_7svg0"]
+radius = 16.0
 
 [node name="Slime" type="CharacterBody2D"]
 script = ExtResource("1_dytb0")
@@ -15,7 +18,7 @@ script = ExtResource("1_dytb0")
 [node name="Enemy" type="AnimatedSprite2D" parent="."]
 scale = Vector2(0.75, 0.75)
 sprite_frames = ExtResource("2_y5nn5")
-animation = &"walk_right"
+animation = &"walk_up"
 offset = Vector2(0, -6)
 
 [node name="Timer" type="Timer" parent="."]
@@ -27,10 +30,16 @@ autostart = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Detection"]
 shape = SubResource("CircleShape2D_dytb0")
-debug_color = Color(0.81453484, 0.33706608, 0.599807, 0.41960785)
+debug_color = Color(0.35372978, 0.48449725, 0.26546183, 0.41960785)
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 shape = SubResource("CircleShape2D_y5nn5")
+
+[node name="hitbox_enemy" type="Area2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="hitbox_enemy"]
+shape = SubResource("CircleShape2D_7svg0")
+debug_color = Color(0.054038577, 0.62407863, 0.52259237, 0.41960785)
 
 [connection signal="timeout" from="Timer" to="." method="OnIdleTimerTimeout"]
 [connection signal="body_entered" from="Detection" to="." method="BodyEntered"]

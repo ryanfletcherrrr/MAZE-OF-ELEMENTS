@@ -1,4 +1,4 @@
-[gd_scene load_steps=8 format=3 uid="uid://cgh7x2o4w8tfm"]
+[gd_scene load_steps=9 format=3 uid="uid://cgh7x2o4w8tfm"]
 
 [ext_resource type="Script" uid="uid://d3n0tsmmb5gcj" path="res://Player/Scripts/Player.cs" id="1_0u5uq"]
 [ext_resource type="SpriteFrames" uid="uid://1lbd4fgo22ao" path="res://Resources/Character/LevelSprites/Level9.tres" id="2_k53q1"]
@@ -9,6 +9,8 @@
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_mtuoh"]
 radius = 4.0
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_fhl08"]
 
 [node name="Player2D" type="CharacterBody2D"]
 texture_filter = 1
@@ -41,3 +43,11 @@ script = ExtResource("7_vtle1")
 
 [node name="Attack" type="Node" parent="StateMachine"]
 script = ExtResource("6_vtle1")
+
+[node name="hitbox" type="Area2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="hitbox"]
+shape = SubResource("CircleShape2D_fhl08")
+
+[connection signal="body_entered" from="hitbox" to="." method="BodyEntered"]
+[connection signal="body_exited" from="hitbox" to="." method="BodyExited"]
