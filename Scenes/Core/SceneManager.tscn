@@ -1,51 +1,33 @@
-[gd_scene load_steps=5 format=3 uid="uid://bm7na6f6qon2d"]
+[gd_scene load_steps=6 format=3 uid="uid://bm7na6f6qon2d"]
 
 [ext_resource type="PackedScene" uid="uid://cmf4twuc5twq2" path="res://Scenes/Maps/Glades.tscn" id="1_g6irt"]
+[ext_resource type="Script" uid="uid://dttujpivgqqi4" path="res://00_Global/Managers/MapBoundaryManager.cs" id="1_ojn28"]
 [ext_resource type="PackedScene" uid="uid://cgh7x2o4w8tfm" path="res://Player/player.tscn" id="2_ccxyy"]
 [ext_resource type="PackedScene" uid="uid://c6u2whroxa7ds" path="res://Enemies/Slime.tscn" id="3_ojn28"]
 [ext_resource type="SpriteFrames" uid="uid://c1qauhcs3seul" path="res://Resources/Enemies/Slime Bosses/BlueSlime.tres" id="4_xg0xj"]
 
-[node name="GameManager" type="Node"]
+[node name="GameManager" type="Node2D"]
 
-[node name="Control" type="Control" parent="."]
-layout_mode = 3
-anchors_preset = 15
-anchor_right = 1.0
-anchor_bottom = 1.0
-offset_left = -8.0
-offset_top = -24.0
-offset_right = 3464.0
-offset_bottom = 1952.0
-grow_horizontal = 2
-grow_vertical = 2
+[node name="MapBoundaryManager" type="Node2D" parent="." node_paths=PackedStringArray("mapScene", "player")]
+position = Vector2(-2, 1)
+script = ExtResource("1_ojn28")
+mapScene = NodePath("../Glades")
+player = NodePath("../Player2D")
 
-[node name="SubViewportContainer" type="SubViewportContainer" parent="Control"]
-layout_mode = 1
-anchors_preset = 15
-anchor_right = 1.0
-anchor_bottom = 1.0
-offset_left = -40.0
-offset_top = -24.0
-offset_right = -2744.0
-offset_bottom = -1568.0
-grow_horizontal = 2
-grow_vertical = 2
+[node name="Glades" parent="." instance=ExtResource("1_g6irt")]
 
-[node name="SubViewport" type="SubViewport" parent="Control/SubViewportContainer"]
-handle_input_locally = false
-size = Vector2i(1920, 1080)
-size_2d_override = Vector2i(1920, 1080)
-size_2d_override_stretch = true
-render_target_update_mode = 4
-
-[node name="Glades" parent="Control/SubViewportContainer/SubViewport" instance=ExtResource("1_g6irt")]
-position = Vector2(32, -56)
-
-[node name="Slime" parent="Control/SubViewportContainer/SubViewport/Glades" instance=ExtResource("3_ojn28")]
-position = Vector2(416, 160)
+[node name="Slime" parent="." instance=ExtResource("3_ojn28")]
+position = Vector2(416, 144)
 SlimeImage = ExtResource("4_xg0xj")
 
-[node name="Player2D" parent="Control/SubViewportContainer/SubViewport/Glades" instance=ExtResource("2_ccxyy")]
-position = Vector2(272, 320)
-collision_layer = 1
-collision_mask = 1
+[node name="Player2D" parent="." node_paths=PackedStringArray("camera") instance=ExtResource("2_ccxyy")]
+position = Vector2(368, 192)
+collision_layer = 3
+collision_mask = 3
+camera = NodePath("Camera2D")
+
+[node name="Camera2D" type="Camera2D" parent="Player2D"]
+position = Vector2(-368, -192)
+zoom = Vector2(3, 3)
+limit_smoothed = true
+metadata/_edit_lock_ = true

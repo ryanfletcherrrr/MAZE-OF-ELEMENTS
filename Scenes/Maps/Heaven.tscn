@@ -1,4 +1,4 @@
-[gd_scene load_steps=36 format=4 uid="uid://pih47cqe7sl"]
+[gd_scene load_steps=40 format=4 uid="uid://pih47cqe7sl"]
 
 [ext_resource type="Texture2D" uid="uid://bwi7dayux6ky5" path="res://Resources/Tiles/Heaven/Tiled_files/Ground_grass.png" id="1_svh7n"]
 [ext_resource type="Texture2D" uid="uid://cpqxdxjc8os1s" path="res://Resources/Tiles/Heaven/Tiled_files/water_detilazation_v2.png" id="2_17ef1"]
@@ -10056,7 +10056,20 @@ sources/14 = SubResource("TileSetAtlasSource_cxovv")
 sources/15 = SubResource("TileSetAtlasSource_bt1n8")
 sources/16 = SubResource("TileSetAtlasSource_y4bkr")
 
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_svh7n"]
+size = Vector2(624, 20)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_17ef1"]
+size = Vector2(633, 10)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_t1lan"]
+size = Vector2(10, 410)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_ukgms"]
+size = Vector2(16, 401)
+
 [node name="Flying_islands" type="Node2D"]
+metadata/_edit_horizontal_guides_ = [64.0]
 
 [node name="Background" type="TileMapLayer" parent="."]
 texture_filter = 1
@@ -10249,3 +10262,22 @@ tile_set = SubResource("TileSet_5dbqx")
 texture_filter = 1
 tile_map_data = PackedByteArray("AAAIAAEACQAEAAMAAAAVAAEACQAGAAIAAAAVAAIACQAGAAMAAAAhAAMACQAAAAQAAAAiAAMACQABAAQAAAAhAAQACQAAAAUAAAAiAAQACQABAAUAAAAgAAUACQAEAAMAAAACAAYACQAAAAQAAAADAAYACQABAAQAAAACAAcACQAAAAUAAAADAAcACQABAAUAAAAPAAgACQAEAAMAAAAIAAkACQAGAAIAAAAIAAoACQAGAAMAAAAgABAACQAJAAIAAAAhABAACQAKAAIAAAAgABEACQAJAAMAAAAhABEACQAKAAMAAAAkABIACQAEAAMAAAAVABMACQAGAAIAAAAVABQACQAGAAMAAAAlABcACQAGAAIAAAAlABgACQAGAAMAAAA=")
 tile_set = SubResource("TileSet_5dbqx")
+
+[node name="StaticBody2D" type="StaticBody2D" parent="."]
+visible = false
+
+[node name="TopWall" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2(320, 0)
+shape = SubResource("RectangleShape2D_svh7n")
+
+[node name="BottomWall" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2(307.5, 400)
+shape = SubResource("RectangleShape2D_17ef1")
+
+[node name="Left" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2(-5, 195)
+shape = SubResource("RectangleShape2D_t1lan")
+
+[node name="Right" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2(616, 199.5)
+shape = SubResource("RectangleShape2D_ukgms")
