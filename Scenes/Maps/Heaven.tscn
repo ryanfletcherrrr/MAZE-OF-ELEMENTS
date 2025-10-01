@@ -1,4 +1,4 @@
-[gd_scene load_steps=36 format=4 uid="uid://pih47cqe7sl"]
+[gd_scene load_steps=42 format=4 uid="uid://pih47cqe7sl"]
 
 [ext_resource type="Texture2D" uid="uid://bwi7dayux6ky5" path="res://Resources/Tiles/Heaven/Tiled_files/Ground_grass.png" id="1_svh7n"]
 [ext_resource type="Texture2D" uid="uid://cpqxdxjc8os1s" path="res://Resources/Tiles/Heaven/Tiled_files/water_detilazation_v2.png" id="2_17ef1"]
@@ -10056,6 +10056,23 @@ sources/14 = SubResource("TileSetAtlasSource_cxovv")
 sources/15 = SubResource("TileSetAtlasSource_bt1n8")
 sources/16 = SubResource("TileSetAtlasSource_y4bkr")
 
+[sub_resource type="CircleShape2D" id="CircleShape2D_svh7n"]
+radius = 8.062258
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_17ef1"]
+radius = 16.0
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_t1lan"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_ukgms"]
+radius = 14.035668
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_tiduf"]
+radius = 15.033297
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_nvmts"]
+radius = 8.062258
+
 [node name="Flying_islands" type="Node2D"]
 
 [node name="Background" type="TileMapLayer" parent="."]
@@ -10249,3 +10266,32 @@ tile_set = SubResource("TileSet_5dbqx")
 texture_filter = 1
 tile_map_data = PackedByteArray("AAAIAAEACQAEAAMAAAAVAAEACQAGAAIAAAAVAAIACQAGAAMAAAAhAAMACQAAAAQAAAAiAAMACQABAAQAAAAhAAQACQAAAAUAAAAiAAQACQABAAUAAAAgAAUACQAEAAMAAAACAAYACQAAAAQAAAADAAYACQABAAQAAAACAAcACQAAAAUAAAADAAcACQABAAUAAAAPAAgACQAEAAMAAAAIAAkACQAGAAIAAAAIAAoACQAGAAMAAAAgABAACQAJAAIAAAAhABAACQAKAAIAAAAgABEACQAJAAMAAAAhABEACQAKAAMAAAAkABIACQAEAAMAAAAVABMACQAGAAIAAAAVABQACQAGAAMAAAAlABcACQAGAAIAAAAlABgACQAGAAMAAAA=")
 tile_set = SubResource("TileSet_5dbqx")
+
+[node name="StaticBody2D" type="StaticBody2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2(48, 319)
+shape = SubResource("CircleShape2D_svh7n")
+
+[node name="CollisionShape2D2" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2(427, 195)
+shape = SubResource("CircleShape2D_17ef1")
+
+[node name="CollisionShape2D3" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2(336, 79)
+shape = SubResource("CircleShape2D_t1lan")
+
+[node name="CollisionShape2D4" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2(297, 75)
+shape = SubResource("CircleShape2D_ukgms")
+
+[node name="CollisionShape2D5" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2(553, 26)
+shape = SubResource("CircleShape2D_tiduf")
+
+[node name="CollisionShape2D6" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2(141, 11)
+shape = SubResource("CircleShape2D_nvmts")
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="StaticBody2D"]
+polygon = PackedVector2Array(0, 323, 17, 323, 20, 312, 33, 305, 43, 306, 102, 307, 111, 320, 109, 336, 121, 339, 137, 356, 143, 368, 155, 371, 159, 400, 241, 400, 244, 382, 258, 368, 256, 353, 284, 325, 323, 322, 323, 316, 254, 317, 230, 314, 230, 302, 225, 271, 193, 268, 187, 283, 174, 286, 171, 302, 177, 307, 181, 305, 187, 315, 157, 309, 132, 285, 132, 266, 113, 259, 115, 236, 82, 226, 84, 186, 99, 176, 99, 169, 114, 160, 116, 153, 132, 144, 145, 144, 144, 175, 161, 190, 161, 210, 175, 220, 185, 220, 187, 197, 166, 188, 172, 171, 149, 157, 149, 137, 163, 128, 177, 114, 208, 115, 246, 114, 266, 135, 272, 159, 269, 178, 236, 184, 235, 197, 215, 197, 197, 198, 198, 224, 213, 218, 231, 220, 242, 206, 264, 205, 274, 189, 274, 162, 295, 165, 314, 180, 318, 225, 305, 237, 303, 259, 282, 280, 256, 290, 256, 305, 322, 305, 324, 295, 338, 289, 376, 292, 383, 305, 409, 307, 414, 322, 423, 323, 450, 322, 450, 313, 464, 305, 464, 293, 470, 279, 482, 273, 484, 265, 497, 256, 514, 259, 517, 248, 528, 240, 544, 240, 549, 233, 567, 227, 607, 227, 607, 183, 574, 185, 546, 171, 547, 139, 564, 129, 569, 120, 586, 113, 607, 117, 607, 89, 591, 101, 568, 107, 557, 108, 581, 84, 564, 57, 555, 57, 550, 69, 527, 72, 522, 86, 530, 101, 509, 100, 499, 91, 504, 74, 485, 63, 485, 39, 503, 35, 502, 8, 517, 0, 174, 0, 176, 17, 187, 23, 189, 42, 188, 57, 173, 56, 175, 89, 139, 90, 140, 114, 95, 123, 92, 149, 64, 155, 67, 127, 15, 126, 14, 144, 27, 144, 26, 154, 0, 154)
