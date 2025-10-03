@@ -1,7 +1,9 @@
-[gd_scene load_steps=9 format=3 uid="uid://cgh7x2o4w8tfm"]
+[gd_scene load_steps=11 format=3 uid="uid://cgh7x2o4w8tfm"]
 
 [ext_resource type="Script" uid="uid://d3n0tsmmb5gcj" path="res://Player/Scripts/Player.cs" id="1_0u5uq"]
 [ext_resource type="SpriteFrames" uid="uid://1lbd4fgo22ao" path="res://Resources/Character/LevelSprites/Level9.tres" id="2_k53q1"]
+[ext_resource type="SpriteFrames" uid="uid://cvjputuvv5jct" path="res://Resources/Character/LevelSprites/Level1.tres" id="2_od3ui"]
+[ext_resource type="Script" uid="uid://clrchsvpy2wtv" path="res://Player/gd/PlayerCamera.gd" id="3_vtle1"]
 [ext_resource type="Script" uid="uid://c6231hidpyfes" path="res://Player/Scripts/PlayerStateMachine.cs" id="5_k53q1"]
 [ext_resource type="Script" uid="uid://c8xxhdqtlpn4u" path="res://Player/Scripts/States/Idle.cs" id="6_fhl08"]
 [ext_resource type="Script" uid="uid://dn7kcn0xm7jtw" path="res://Player/Scripts/States/Attack.cs" id="6_vtle1"]
@@ -13,16 +15,16 @@ radius = 4.0
 [sub_resource type="CircleShape2D" id="CircleShape2D_fhl08"]
 radius = 16.0
 
-[node name="Player2D" type="CharacterBody2D" node_paths=PackedStringArray("camera")]
+[node name="Player2D" type="CharacterBody2D"]
 texture_filter = 1
-collision_layer = 16
-collision_mask = 16
 script = ExtResource("1_0u5uq")
-camera = NodePath("PlayerCamera")
-CHARACTER_SPRITE = ExtResource("2_k53q1")
+CHARACTER_SPRITE = ExtResource("2_od3ui")
 
-[node name="PlayerCamera" type="Camera2D" parent="."]
-zoom = Vector2(3, 3)
+[node name="Camera2D" type="Camera2D" parent="."]
+zoom = Vector2(4, 4)
+process_callback = 0
+position_smoothing_enabled = true
+script = ExtResource("3_vtle1")
 
 [node name="Collider" type="CollisionShape2D" parent="."]
 position = Vector2(-0.11, 4.935)

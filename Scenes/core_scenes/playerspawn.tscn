@@ -1,0 +1,15 @@
+[gd_scene load_steps=3 format=3 uid="uid://bcxpdce1xuvbr"]
+
+[ext_resource type="Script" uid="uid://blnou4uubycc8" path="res://Scenes/Scripts/player_spawn.gd" id="1_lvg2c"]
+[ext_resource type="Texture2D" uid="uid://caw10a2nfddom" path="res://Resources/Character/Swordsman_lvl0/Idle/Unarmed_Idle_full.png" id="1_p0x3n"]
+
+[node name="Playerspawn" type="Node2D"]
+script = ExtResource("1_lvg2c")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+modulate = Color(0, 0.6666667, 1, 1)
+position = Vector2(3, 0)
+scale = Vector2(1.004, 1)
+texture = ExtResource("1_p0x3n")
+hframes = 11
+vframes = 3

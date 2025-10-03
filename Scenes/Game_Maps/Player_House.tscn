@@ -1,0 +1,22 @@
+[gd_scene load_steps=5 format=3 uid="uid://dgdva1dfiyh1q"]
+
+[ext_resource type="Script" uid="uid://ppfcahy05kb4" path="res://Scenes/Scripts/level.gd" id="1_1540h"]
+[ext_resource type="PackedScene" uid="uid://bbr40yxyc51fx" path="res://Scenes/Maps_STILL/player_housetscn.tscn" id="2_qoi10"]
+[ext_resource type="PackedScene" uid="uid://bcxpdce1xuvbr" path="res://Scenes/core_scenes/playerspawn.tscn" id="3_tvoeu"]
+[ext_resource type="PackedScene" uid="uid://bygm71re1fvnm" path="res://Scenes/core_scenes/LevelTransition.tscn" id="4_qoi10"]
+
+[node name="Map1" type="Node2D"]
+y_sort_enabled = true
+script = ExtResource("1_1540h")
+
+[node name="Exterior" parent="." instance=ExtResource("2_qoi10")]
+position = Vector2(-2, 0)
+
+[node name="Playerspawn" parent="." instance=ExtResource("3_tvoeu")]
+position = Vector2(244, 236)
+
+[node name="Door" parent="." instance=ExtResource("4_qoi10")]
+position = Vector2(241, 133)
+
+[node name="Door2" parent="." instance=ExtResource("4_qoi10")]
+position = Vector2(442, 208)

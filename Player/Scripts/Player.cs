@@ -14,8 +14,6 @@ public partial class Player : CharacterBody2D
   [ExportCategory("Combat Settings")]
   [Export] public float AttackRange = 48f; // Extended attack range
 
-  [Export] public Camera2D camera;
-
   [Export] public SpriteFrames CHARACTER_SPRITE;
   // Direction chosen by the current state
   public Vector2 Direction { get; set; } = Vector2.Zero;
@@ -24,7 +22,6 @@ public partial class Player : CharacterBody2D
 
   private PlayerStateMachine stateMachine;
   private AnimatedSprite2D animator;
-  private MapBoundaryManager boundaryManager;
   private ProgressBar healthBar;
 
   // Health system
@@ -34,6 +31,8 @@ public partial class Player : CharacterBody2D
 
   public override void _Ready()
   {
+    // Use default render ordering; don't force YSort or global Z overrides.
+    // If needed, set these in the scene instead of code.
     LEVEL = 0;
 
     // Initialize health
@@ -101,24 +100,7 @@ public partial class Player : CharacterBody2D
     // Connect PlayerHitbox signals
     playerHitbox.BodyEntered += OnPlayerHitboxBodyEntered;
     playerHitbox.BodyExited += OnPlayerHitboxBodyExited;
-    GameLogger.Info("PlayerHitbox connected successfully");    // Find and connect to MapBoundaryManager
-    var sceneRoot = GetTree().CurrentScene;
-    if (sceneRoot != null)
-    {
-      Node found = sceneRoot.FindChild("MapBoundaryManager", true, false);
-      boundaryManager = found as MapBoundaryManager;
-
-      if (boundaryManager != null)
-      {
-        GD.Print("Player: Found MapBoundaryManager, requesting boundary update");
-        // Force boundary manager to update our camera
-        boundaryManager.UpdatePlayerCamera(this);
-      }
-      else
-      {
-        GD.PrintErr("Player: Could not find MapBoundaryManager");
-      }
-    }
+    GameLogger.Info("PlayerHitbox connected successfully");
   }
 
   public override void _PhysicsProcess(double delta)

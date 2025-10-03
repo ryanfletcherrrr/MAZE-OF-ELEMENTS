@@ -21,7 +21,8 @@ config/fullsize=true
 
 [autoload]
 
-Globals="*res://00_Global/Core/Globals.cs"
+LevelManager="*res://00_Global/Core_GD/GlobalLevelManager.gd"
+PlayerManager="*res://00_Global/Core_GD/PlayerManager.gd"
 
 [display]
 

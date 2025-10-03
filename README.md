@@ -3,8 +3,8 @@
 ## Project Overview
 A top-down action RPG built in Godot 4 with C# and GDScript, featuring elemental-themed dungeons, combat, inventory management, and NPC interactions.
 
-**Target Gameplay Duration:** 30 minutes  
-**Team Members:** [Add your team members]  
+**Target Gameplay Duration:** 30 minutes
+**Team Members:** [Add your team members]
 **Submission Date:** [Add your deadline]
 
 ---
@@ -44,7 +44,7 @@ A top-down action RPG built in Godot 4 with C# and GDScript, featuring elemental
 ## 🚧 Required Features (To Complete)
 
 ### 1. **Dungeons with Chests** (HIGH PRIORITY)
-**Estimated Time:** 8-10 hours  
+**Estimated Time:** 8-10 hours
 **Recommended Language:** **GDScript** (faster prototyping for level design)
 
 #### What to Implement:
@@ -52,7 +52,7 @@ A top-down action RPG built in Godot 4 with C# and GDScript, featuring elemental
   - Each dungeon: 5-7 rooms
   - Progressive difficulty (more enemies as you advance)
   - Boss room at the end (reuse/scale up slime with more health)
-  
+
 - [ ] **Chest System**
   - Treasure chests scattered throughout dungeons
   - Different chest types: wooden (common), silver (rare), gold (legendary)
@@ -90,7 +90,7 @@ func open_chest():
 ---
 
 ### 2. **Inventory System** (HIGH PRIORITY)
-**Estimated Time:** 6-8 hours  
+**Estimated Time:** 6-8 hours
 **Recommended Language:** **GDScript** (faster UI development, built-in signals)
 
 #### What to Implement:
@@ -112,33 +112,39 @@ func open_chest():
   - JSON/CSV file for item database
   - Pickup system (walk over items or open chests)
 
-**C# Structure Suggestion:**
-```csharp
-public class InventoryManager : Node
-{
-    public const int MaxSlots = 24;
-    private List<InventoryItem> items = new List<InventoryItem>();
-    
-    public bool AddItem(ItemData item, int quantity = 1) { }
-    public bool RemoveItem(string itemId, int quantity = 1) { }
-    public void UseItem(int slotIndex) { }
-}
+**GDScript Structure Suggestion:**
+```gdscript
+extends Node
 
-public class ItemData : Resource
-{
-    public string ItemId;
-    public string ItemName;
-    public Texture2D Icon;
-    public ItemType Type;
-    public int MaxStack;
-    public int Value;
-}
+const MAX_SLOTS = 24
+var items = []
+var gold = 0
+
+func add_item(item_data: Dictionary, quantity: int = 1) -> bool:
+    # Check for existing stack or empty slot
+    for i in range(MAX_SLOTS):
+        if items[i] != null and items[i].id == item_data.id:
+            items[i].quantity += quantity
+            emit_signal("inventory_updated")
+            return true
+    # Add to new slot
+    return true
+
+func use_item(slot_index: int):
+    if items[slot_index] != null:
+        match items[slot_index].type:
+            "health_potion":
+                get_node("/root/Player").heal(50)
+            "speed_boost":
+                get_node("/root/Player").apply_speed_boost()
+        items[slot_index].quantity -= 1
+        emit_signal("inventory_updated")
 ```
 
 ---
 
 ### 3. **NPC Dialogue System** (MEDIUM PRIORITY)
-**Estimated Time:** 6-8 hours  
+**Estimated Time:** 6-8 hours
 **Recommended Language:** **GDScript** (easier for rapid dialogue scripting)
 
 #### What to Implement:
@@ -177,8 +183,8 @@ func interact():
 ---
 
 ### 4. **Shop System** (MEDIUM PRIORITY)
-**Estimated Time:** 5-6 hours  
-**Recommended Language:** **C#** (integrates with inventory)
+**Estimated Time:** 4-5 hours
+**Recommended Language:** **GDScript** (integrates easily with inventory)
 
 #### What to Implement:
 - [ ] **Shop UI**
@@ -200,25 +206,32 @@ func interact():
   - Limited stock system (optional)
   - Shop refresh after dungeons
 
-**C# Integration:**
-```csharp
-public class ShopManager : Node
-{
-    private List<ShopItem> shopInventory;
-    private InventoryManager playerInventory;
-    
-    public bool BuyItem(ItemData item, int quantity)
-    {
-        int cost = item.Value * quantity;
-        if (PlayerGold >= cost)
-        {
-            PlayerGold -= cost;
-            playerInventory.AddItem(item, quantity);
-            return true;
-        }
-        return false;
-    }
-}
+**GDScript Integration:**
+```gdscript
+extends Control
+
+@onready var inventory = get_node("/root/InventoryManager")
+var shop_items = []
+
+func _ready():
+    load_shop_items("res://Data/weapon_shop.json")
+
+func buy_item(item_data: Dictionary, quantity: int = 1):
+    var cost = item_data.price * quantity
+    if inventory.gold >= cost:
+        inventory.gold -= cost
+        inventory.add_item(item_data, quantity)
+        update_ui()
+        return true
+    else:
+        show_message("Not enough gold!")
+        return false
+
+func sell_item(slot_index: int):
+    var item = inventory.items[slot_index]
+    var sell_price = item.price * 0.5  # 50% of buy price
+    inventory.gold += sell_price
+    inventory.remove_item(slot_index)
 ```
 
 ---
@@ -226,8 +239,8 @@ public class ShopManager : Node
 ## 🎮 Additional Features for 30-Min Gameplay
 
 ### 5. **Quest System** (Ties Everything Together)
-**Estimated Time:** 8-10 hours  
-**Recommended Language:** **C#** (complex logic)
+**Estimated Time:** 6-8 hours
+**Recommended Language:** **GDScript** (easier data management with dictionaries)
 
 - [ ] **Main Quest Chain** (15-20 minutes)
   1. Talk to Elder → Learn about elemental corruption
@@ -251,7 +264,7 @@ public class ShopManager : Node
 ---
 
 ### 6. **Combat Enhancements**
-**Estimated Time:** 4-5 hours  
+**Estimated Time:** 4-5 hours
 **Recommended Language:** **C#** (extends existing combat)
 
 - [ ] **More Enemy Types**
@@ -275,18 +288,19 @@ public class ShopManager : Node
 ---
 
 ### 7. **Save/Load System**
-**Estimated Time:** 4-5 hours  
-**Recommended Language:** **C#**
+**Estimated Time:** 3-4 hours
+**Recommended Language:** **GDScript** (JSON serialization built-in)
 
 - [ ] Save player position, health, inventory
 - [ ] Save quest progress, opened chests
 - [ ] Auto-save at checkpoints
 - [ ] Manual save at inns/save points
+- [ ] Use `FileAccess.open()` and JSON for easy save data
 
 ---
 
 ### 8. **Audio & Polish**
-**Estimated Time:** 3-4 hours  
+**Estimated Time:** 3-4 hours
 **Recommended Language:** **GDScript** (audio players)
 
 - [ ] Background music (menu, village, dungeons, boss fights)
@@ -305,15 +319,15 @@ public class ShopManager : Node
 
 ### Week 3-4: Content & Systems
 - [ ] NPC dialogue system (GDScript)
-- [ ] Shop system (C#)
-- [ ] Quest system foundation (C#)
-- [ ] Additional enemy types (C#)
+- [ ] Shop system (GDScript)
+- [ ] Quest system foundation (GDScript)
+- [ ] Additional enemy types (C# - extends existing enemy code)
 
 ### Week 5-6: Integration & Polish
-- [ ] Quest implementation
-- [ ] Boss fights
-- [ ] Save/Load system (C#)
-- [ ] UI polish
+- [ ] Quest implementation (GDScript)
+- [ ] Boss fights (C# - copy slime and scale up)
+- [ ] Save/Load system (GDScript)
+- [ ] UI polish (GDScript)
 
 ### Week 7-8: Testing & Balancing
 - [ ] Playtest 30-min gameplay loop
@@ -327,24 +341,34 @@ public class ShopManager : Node
 ## 🛠️ Language Recommendations
 
 ### Use **C#** for:
-✅ **Player/Enemy combat logic** (already implemented)  
-✅ **Inventory system** (data structures, complex logic)  
-✅ **Shop system** (integrates with inventory)  
-✅ **Quest manager** (state management)  
-✅ **Save/Load system** (file I/O, serialization)  
-✅ **Core game managers** (singleton patterns)
+✅ **Player/Enemy combat logic** (already implemented)
+✅ **Enemy AI behaviors** (complex state machines)
+✅ **Damage calculations** (performance-critical)
+✅ **Core game managers** (if you need strong typing)
 
-**Why:** Better performance, strong typing, easier to debug, better for complex systems
+**Why:** Already established for player/enemy, better performance for combat-heavy calculations, strong typing helps with complex logic
 
 ### Use **GDScript** for:
-✅ **Level design & dungeon layout** (faster iteration)  
-✅ **Chest interactions** (simple scene scripts)  
-✅ **NPC dialogue** (quick scripting)  
-✅ **UI scenes** (built-in Godot UI integration)  
-✅ **Audio managers** (simpler with Godot's audio nodes)  
+✅ **Everything else!** (seriously, use GDScript for 90% of your project)
+✅ **Inventory system** (dictionaries & arrays are super easy)
+✅ **Quest system** (JSON loading, state management)
+✅ **Shop system** (UI and data handling)
+✅ **Save/Load** (built-in JSON serialization)
+✅ **Level design & dungeon layout** (faster iteration)
+✅ **Chest interactions** (simple scene scripts)
+✅ **NPC dialogue** (quick scripting)
+✅ **UI scenes** (built-in Godot UI integration)
+✅ **Audio managers** (simpler with Godot's audio nodes)
 ✅ **Particle effects & visual polish**
 
-**Why:** Faster prototyping, better integration with Godot editor, easier for level designers
+**Why:**
+- **3-5x faster development** than C# for UI/data systems
+- **No compilation time** (instant testing)
+- **Better Godot integration** (signals, nodes, resources)
+- **Easier debugging** (print statements everywhere!)
+- **Less boilerplate** (no type declarations if you don't want them)
+- **Perfect for prototyping** (change and test immediately)
+- **Your team can read/edit it easily** (Python-like syntax)
 
 ---
 
@@ -497,8 +521,35 @@ Your project should demonstrate:
 
 ---
 
-**Last Updated:** October 2, 2025  
-**Godot Version:** 4.x  
+---
+
+## ⚡ Quick Decision Guide: GDScript vs C#
+
+**When in doubt, use GDScript!** Here's the simple rule:
+
+| Feature | Language | Why |
+|---------|----------|-----|
+| Player combat | C# ✅ | Already done |
+| Enemy AI | C# ✅ | Already done |
+| New enemy types | C# ✅ | Copy existing slime code |
+| Inventory | GDScript 🚀 | Arrays/Dicts are easy |
+| Quests | GDScript 🚀 | JSON data loading |
+| Shop | GDScript 🚀 | UI integration |
+| Dialogue | GDScript 🚀 | Simple scripting |
+| Save/Load | GDScript 🚀 | Built-in JSON |
+| Chests | GDScript 🚀 | Scene scripts |
+| Dungeons | GDScript 🚀 | Level design |
+| UI | GDScript 🚀 | Godot nodes |
+| Audio | GDScript 🚀 | Simple audio players |
+
+**The 80/20 Rule:** Use C# for the 20% (combat), GDScript for the 80% (everything else)
+
+---
+
+**Last Updated:** October 2, 2025
+**Godot Version:** 4.x
 **Target Platform:** Windows/Linux/Mac
 
 Good luck with your project! 🎮✨
+
+**Pro Tip:** Don't overthink the language choice. If you're not sure, pick GDScript. You can always optimize later if needed (which you won't need to for a 30-min game).

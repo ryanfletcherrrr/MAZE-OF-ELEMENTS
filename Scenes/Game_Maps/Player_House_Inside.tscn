@@ -1,0 +1,14 @@
+[gd_scene load_steps=4 format=3 uid="uid://cmh3irrkanuoi"]
+
+[ext_resource type="Script" uid="uid://ppfcahy05kb4" path="res://Scenes/Scripts/level.gd" id="1_6o5ad"]
+[ext_resource type="PackedScene" uid="uid://ror760yuxrge" path="res://Scenes/Maps_STILL/player_house_inside.tscn" id="2_drdyg"]
+[ext_resource type="PackedScene" uid="uid://bcxpdce1xuvbr" path="res://Scenes/core_scenes/playerspawn.tscn" id="3_drdyg"]
+
+[node name="PlayerHouseInside" type="Node2D"]
+script = ExtResource("1_6o5ad")
+
+[node name="Interior1" parent="." instance=ExtResource("2_drdyg")]
+position = Vector2(273, 160)
+
+[node name="Playerspawn" parent="." instance=ExtResource("3_drdyg")]
+position = Vector2(297, 252)
