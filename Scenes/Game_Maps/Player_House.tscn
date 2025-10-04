@@ -10,13 +10,25 @@ y_sort_enabled = true
 script = ExtResource("1_1540h")
 
 [node name="Exterior" parent="." instance=ExtResource("2_qoi10")]
-position = Vector2(-2, 0)
+position = Vector2(-1, 0)
 
 [node name="Playerspawn" parent="." instance=ExtResource("3_tvoeu")]
-position = Vector2(244, 236)
+position = Vector2(59, 249)
 
-[node name="Door" parent="." instance=ExtResource("4_qoi10")]
-position = Vector2(241, 133)
+[node name="DoorOutside" parent="." instance=ExtResource("4_qoi10")]
+position = Vector2(240, 144)
+level = "uid://cmh3irrkanuoi"
+target_transition_area = "DoorInside"
+size = 1
+side = 2
 
-[node name="Door2" parent="." instance=ExtResource("4_qoi10")]
-position = Vector2(442, 208)
+[node name="DoorGlades" parent="." instance=ExtResource("4_qoi10")]
+position = Vector2(17, 242)
+level = "uid://cp1w5bu4y5217"
+target_transition_area = "DoorHome"
+size = 1
+
+[node name="PlayerHouse" parent="." instance=ExtResource("4_qoi10")]
+position = Vector2(449, 209)
+level = "uid://br0g3dkf6ua46"
+target_transition_area = "ToDungeon"

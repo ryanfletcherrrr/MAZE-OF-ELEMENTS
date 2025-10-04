@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="Maze Of Elements"
-run/main_scene="uid://cgh7x2o4w8tfm"
+run/main_scene="uid://cmh3irrkanuoi"
 config/features=PackedStringArray("4.5", "C#", "Forward Plus")
 boot_splash/show_image=false
 boot_splash/fullsize=false
@@ -23,6 +23,7 @@ config/fullsize=true
 
 LevelManager="*res://00_Global/Core_GD/GlobalLevelManager.gd"
 PlayerManager="*res://00_Global/Core_GD/PlayerManager.gd"
+SceneTransition="*res://scene_transition/scene_transition.tscn"
 
 [display]
 

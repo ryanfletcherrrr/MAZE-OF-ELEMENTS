@@ -1,0 +1,16 @@
+[gd_scene load_steps=4 format=3 uid="uid://br0g3dkf6ua46"]
+
+[ext_resource type="Script" uid="uid://ppfcahy05kb4" path="res://Scenes/Scripts/level.gd" id="1_4cjqi"]
+[ext_resource type="PackedScene" uid="uid://cavoai0h4a781" path="res://Scenes/Maps_STILL/kings_pass.tscn" id="2_k2wpm"]
+[ext_resource type="PackedScene" uid="uid://bygm71re1fvnm" path="res://Scenes/core_scenes/LevelTransition.tscn" id="3_76lp7"]
+
+[node name="KingsDungeon" type="Node2D"]
+script = ExtResource("1_4cjqi")
+
+[node name="Dungeon3" parent="." instance=ExtResource("2_k2wpm")]
+position = Vector2(448, 93)
+
+[node name="ToDungeon" parent="." instance=ExtResource("3_76lp7")]
+position = Vector2(14, 297)
+level = "uid://dgdva1dfiyh1q"
+target_transition_area = "PlayerHouse"
