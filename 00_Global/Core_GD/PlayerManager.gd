@@ -1,19 +1,20 @@
 extends Node
 
 
-const PLAYER = preload("res://Player/player.tscn")
+
+@onready var PLAYER = preload("res://Player/player.tscn")
+
 var player_spawned : bool = false
-const PlayerScript = preload("res://Player/Scripts/Player.cs")
+var PlayerScript = preload("res://Player/Scripts/Player.cs")
 
-var player: PlayerScript
-
+var player : Node2D
 
 func _ready() -> void:
 	print("Loaded Player Manager")
 	add_player_instance()
 	await get_tree().create_timer(0.2).timeout
 	player_spawned = true
-
+	
 
 
 func add_player_instance() -> void:
@@ -34,3 +35,4 @@ func set_as_parent( _p : Node2D ) -> void:
 func unparent_player( _p : Node2D ) -> void:
 	if player.get_parent() == _p:
 		_p.remove_child( player )
+		

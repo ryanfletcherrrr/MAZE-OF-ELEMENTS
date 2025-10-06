@@ -18,6 +18,7 @@ radius = 16.0
 [node name="Player2D" type="CharacterBody2D"]
 texture_filter = 1
 script = ExtResource("1_0u5uq")
+AttackRange = 20.0
 CHARACTER_SPRITE = ExtResource("2_od3ui")
 
 [node name="Camera2D" type="Camera2D" parent="."]

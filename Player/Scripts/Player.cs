@@ -3,7 +3,10 @@ using Godot;
 
 public partial class Player : CharacterBody2D
 {
-  [ExportCategory("Debug zone")]
+  
+  [ExportCategory("Player Core")]
+  
+  // Constant does not change 
   [Export] public float Speed = 60f;
   [Export] public int LEVEL;
 
@@ -12,12 +15,18 @@ public partial class Player : CharacterBody2D
   [Export] public int AttackDamage = 25;
 
   [ExportCategory("Combat Settings")]
-  [Export] public float AttackRange = 48f; // Extended attack range
+  [Export] public float AttackRange = 48f; 
 
+  
+  [ExportCategory("Character level Sprite level 1-9")]
   [Export] public SpriteFrames CHARACTER_SPRITE;
+  
+  
   // Direction chosen by the current state
   public Vector2 Direction { get; set; } = Vector2.Zero;
+  
   // Last non-zero direction for idle facing
+  
   public Vector2 LastDirection { get; set; } = Vector2.Down;
 
   private PlayerStateMachine stateMachine;
@@ -27,18 +36,17 @@ public partial class Player : CharacterBody2D
   // Health system
   public int CurrentHealth { get; private set; }
   public bool IsAlive => CurrentHealth > 0;
-
+  
 
   public override void _Ready()
   {
-    // Use default render ordering; don't force YSort or global Z overrides.
-    // If needed, set these in the scene instead of code.
+    
     LEVEL = 0;
-
     // Initialize health
     CurrentHealth = MaxHealth;
 
     // Get health bar reference
+    
     healthBar = GetNodeOrNull<ProgressBar>("HealthBar");
     if (healthBar != null)
     {
@@ -105,6 +113,14 @@ public partial class Player : CharacterBody2D
 
   public override void _PhysicsProcess(double delta)
   {
+    // Don't move if attacking
+    if (stateMachine != null && stateMachine.CurrentState is Attack)
+    {
+      Velocity = Vector2.Zero;
+      MoveAndSlide();
+      return;
+    }
+
     // Movement executed after state decides Direction
     Velocity = Direction * Speed;
     MoveAndSlide();

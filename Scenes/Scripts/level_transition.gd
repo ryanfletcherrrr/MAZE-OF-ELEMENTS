@@ -65,8 +65,14 @@ func _player_entered( _p : Node2D ) -> void:
 
 
 func _place_player() -> void:
-	if name != LevelManager.target_transition:
+	# Only place player if we have a valid target transition that matches this node
+	if LevelManager.target_transition == "" or LevelManager.target_transition == null:
+		print("LevelTransition '", name, "': No target transition set, skipping player placement")
 		return
+	if name != LevelManager.target_transition:
+		print("LevelTransition '", name, "': Not the target (looking for '", LevelManager.target_transition, "'), skipping")
+		return
+	print("LevelTransition '", name, "': Placing player at ", global_position + LevelManager.position_offset)
 	PlayerManager.set_player_position( global_position + LevelManager.position_offset )
 	# Set a short cooldown (~6 physics frames) so standing in the door doesn't immediately re-trigger
 	_cooldown_until_frame = Engine.get_physics_frames() + 6

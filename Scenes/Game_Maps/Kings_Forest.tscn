@@ -1,9 +1,10 @@
-[gd_scene load_steps=5 format=3 uid="uid://cp1w5bu4y5217"]
+[gd_scene load_steps=6 format=3 uid="uid://cp1w5bu4y5217"]
 
 [ext_resource type="Script" uid="uid://ppfcahy05kb4" path="res://Scenes/Scripts/level.gd" id="1_05his"]
 [ext_resource type="PackedScene" uid="uid://cmf4twuc5twq2" path="res://Scenes/Maps_STILL/Glades.tscn" id="2_j3hjg"]
 [ext_resource type="PackedScene" uid="uid://bcxpdce1xuvbr" path="res://Scenes/core_scenes/playerspawn.tscn" id="3_ofygr"]
 [ext_resource type="PackedScene" uid="uid://bygm71re1fvnm" path="res://Scenes/core_scenes/LevelTransition.tscn" id="4_j3hjg"]
+[ext_resource type="PackedScene" uid="uid://c6u2whroxa7ds" path="res://Enemies/Slime.tscn" id="5_lvkpi"]
 
 [node name="Glades" type="Node2D"]
 script = ExtResource("1_05his")
@@ -13,10 +14,13 @@ position = Vector2(-32, -31)
 tile_size = 16.0
 
 [node name="Playerspawn" parent="." instance=ExtResource("3_ofygr")]
-position = Vector2(671, 209)
+position = Vector2(660, 208)
+
+[node name="Slime" parent="." instance=ExtResource("5_lvkpi")]
+position = Vector2(408, 155)
+Speed = 40.0
 
 [node name="DoorHome" parent="." instance=ExtResource("4_j3hjg")]
-position = Vector2(681, 198)
+position = Vector2(689, 199)
 level = "uid://dgdva1dfiyh1q"
 target_transition_area = "DoorGlades"
-side = 1

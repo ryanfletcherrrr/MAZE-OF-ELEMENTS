@@ -35,6 +35,8 @@ public partial class Slime : CharacterBody2D
     public int CurrentHealth { get; private set; }
     public bool IsAlive => CurrentHealth > 0;
 
+    private bool isDying = false; // Track if slime is dying
+
 
     public override void _Ready()
     {
@@ -68,7 +70,7 @@ public partial class Slime : CharacterBody2D
             return;
         }
 
-        // Connect to animation finished signal
+        // Connect to animation finished signal ONCE
         EnemyAnimation.AnimationFinished += OnAnimationFinished;
 
         // Using simple distance-based attacks - no complex hitbox needed
@@ -98,8 +100,16 @@ public partial class Slime : CharacterBody2D
 
     private void OnAnimationFinished()
     {
-        // Simple animation handling - just continue with current behavior
-        // No special attack animation handling needed
+        // Only remove if dying and animation is a death animation
+        if (isDying && EnemyAnimation != null)
+        {
+            string anim = EnemyAnimation.Animation;
+            if (anim.StartsWith("death") && IsInstanceValid(this))
+            {
+                GameLogger.Info("Slime removed from scene (after death animation)");
+                QueueFree();
+            }
+        }
     }
 
     private void PlayRandomIdleAnimation()
@@ -192,36 +202,39 @@ public partial class Slime : CharacterBody2D
 
         if (playerChase && player != null)
         {
-            // Calculate distance to player
             float distanceToPlayer = Position.DistanceTo(player.Position);
             Vector2 directionToPlayer = (player.Position - Position).Normalized();
+            lastDirection = directionToPlayer;
 
-            // Check for contact damage (when very close)
+            // Prevent slime from blocking/clinging to player
+            if (distanceToPlayer <= 16f)
+            {
+                Velocity = Vector2.Zero;
+                // Optionally, add a small separation force here if needed
+            }
+            else
+            {
+                Vector2 targetVelocity = directionToPlayer * Speed;
+                Velocity = Velocity.Lerp(targetVelocity, 10.0f * (float)delta);
+            }
+
+            MoveAndSlide();
+            ChangeAnimation(directionToPlayer);
+
+            // Contact damage only if close and cooldown expired
             if (distanceToPlayer <= 16f && contactDamageTimer <= 0f)
             {
-                // Deal contact damage
                 DealContactDamage();
                 contactDamageTimer = ContactDamageCooldown;
             }
-
-            // Always chase the player (no stopping)
-            Vector2 targetVelocity = directionToPlayer * Speed;
-            Velocity = Velocity.Lerp(targetVelocity, 10.0f * (float)delta);
-
-            MoveAndSlide();
-
-            // Update animation based on movement direction
-            ChangeAnimation(directionToPlayer);
         }
         else
         {
-            // Stop moving and play idle animation when not chasing
             Velocity = Velocity.Lerp(Vector2.Zero, 8.0f * (float)delta);
             if (Velocity.Length() > 0.1f)
             {
                 MoveAndSlide();
             }
-
             if (currentAnimation != "idle")
             {
                 PlayIdleAnimation();
@@ -296,27 +309,58 @@ public partial class Slime : CharacterBody2D
     private void Die()
     {
         GameLogger.Info("Slime died!");
-
-        // Stop all actions
         playerChase = false;
         Velocity = Vector2.Zero;
+        isDying = true;
 
-        // Play death animation (if you have one)
-        if (EnemyAnimation != null && EnemyAnimation.SpriteFrames.HasAnimation("death"))
+        // Disable collision and processing
+        SetPhysicsProcess(false);
+        CollisionLayer = 0;
+        CollisionMask = 0;
+
+        if (EnemyAnimation != null)
         {
-            EnemyAnimation.Play("death");
+            string deathAnim = "death";
+            if (Mathf.Abs(lastDirection.Y) > Mathf.Abs(lastDirection.X))
+            {
+                deathAnim = lastDirection.Y < 0 ? "death_up" : "death_down";
+            }
+            else
+            {
+                deathAnim = lastDirection.X < 0 ? "death_left" : "death_right";
+            }
+            
+            // Play death animation (ensure it doesn't loop)
+            if (EnemyAnimation.SpriteFrames.HasAnimation(deathAnim))
+            {
+                EnemyAnimation.Play(deathAnim);
+            }
+            else if (EnemyAnimation.SpriteFrames.HasAnimation("death"))
+            {
+                EnemyAnimation.Play("death");
+            }
+            
+            // Ensure animation doesn't loop
+            if (EnemyAnimation.SpriteFrames != null)
+            {
+                var currentAnim = EnemyAnimation.Animation;
+                EnemyAnimation.SpriteFrames.SetAnimationLoop(currentAnim, false);
+            }
         }
-
-        // Remove from scene after a short delay
-        var timer = new Timer();
-        timer.WaitTime = 1.0f;
-        timer.OneShot = true;
-        timer.Timeout += () => {
-            GameLogger.Info("Slime removed from scene");
-            QueueFree();
+        
+        // Add a safety timer in case animation doesn't finish properly
+        var safetyTimer = new Timer();
+        safetyTimer.WaitTime = 2.0f; // Max time for death animation
+        safetyTimer.OneShot = true;
+        safetyTimer.Timeout += () => {
+            if (IsInstanceValid(this))
+            {
+                GameLogger.Info("Slime removed from scene (safety timer)");
+                QueueFree();
+            }
         };
-        AddChild(timer);
-        timer.Start();
+        AddChild(safetyTimer);
+        safetyTimer.Start();
     }
 
     private void DealContactDamage()
