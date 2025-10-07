@@ -10,5 +10,5 @@ region = Rect2(0, 0, 32, 32)
 [resource]
 script = ExtResource("1_g6vl3")
 name = "Gem"
-description = "A valuable gem!"
+description = "King Kumanans gem said to hold the key to a certian place better not lose it!"
 texture = SubResource("AtlasTexture_7aa43")
