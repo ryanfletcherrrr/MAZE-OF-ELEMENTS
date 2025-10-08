@@ -7,6 +7,8 @@ class_name ItemPickup extends Node2D
 @onready var sprite_2d: Sprite2D = $Sprite2D
 @onready var audio_stream_player_2d: AudioStreamPlayer2D = $AudioStreamPlayer2D
 
+
+
 func _ready() -> void:
 	_update_texture()
 	if Engine.is_editor_hint():
@@ -15,13 +17,10 @@ func _ready() -> void:
 
 
 func _on_body_entered( b ) -> void:
-	if b.get_class() == "CharacterBody2D" and b.has_method("get_script"):
-		# Check if it's the player by checking the script path or name
-		var script = b.get_script()
-		if script and str(script.get_path()).contains("player.gd"):
-			if item_data:
-				if PlayerManager.INVENTORY_DATA.add_item( item_data ) == true:
-					item_picked_up()
+	if b is Player:
+		if item_data:
+			if PlayerManager.INVENTORY_DATA.add_item( item_data ) == true:
+				item_picked_up()
 	pass
 
 

@@ -13,6 +13,7 @@ func _ready() -> void:
 	label.text = ""
 	focus_entered.connect( item_focused )
 	focus_exited.connect( item_unfocused )
+	pressed.connect( item_pressed )
 
 
 func set_slot_data( value : SlotData ) -> void:
@@ -33,3 +34,19 @@ func item_focused() -> void:
 func item_unfocused() -> void:
 	PauseMenu.update_item_description( "" )
 	pass
+
+
+func item_pressed() -> void:
+	if slot_data:
+		if slot_data.item_data:
+			var was_used = slot_data.item_data.use()
+			if was_used == false:
+				return
+			slot_data.quantity -= 1
+			if slot_data.quantity <= 0:
+				slot_data = null
+				texture_rect.texture = null
+				label.text = ""
+				PauseMenu.update_item_description("")
+			else:
+				label.text = str(slot_data.quantity )

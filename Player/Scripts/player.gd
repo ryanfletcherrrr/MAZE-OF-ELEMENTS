@@ -1,5 +1,5 @@
 extends CharacterBody2D
-class_name PlayerGD
+class_name Player
 
 # ========== EXPORTS ==========
 
@@ -108,6 +108,10 @@ func perform_attack() -> void:
 	if combat_component:
 		combat_component.perform_attack()
 
+func full_heal() -> void:
+	if health_component:
+		health_component.reset_health()
+		
 func can_attack() -> bool:
 	return is_alive and not is_attacking
 

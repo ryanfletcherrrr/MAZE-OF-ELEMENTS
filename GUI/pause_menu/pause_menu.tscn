@@ -4,7 +4,7 @@
 [ext_resource type="Texture2D" uid="uid://bmjan6873e3h5" path="res://Items/sprites/items.png" id="2_6f15s"]
 [ext_resource type="Script" uid="uid://dxpaggg8d4jro" path="res://GUI/pause_menu/inventory/scripts/inventory_ui.gd" id="3_kwke8"]
 [ext_resource type="PackedScene" uid="uid://cvjmh0pvlulc1" path="res://GUI/pause_menu/inventory/inventory_slot.tscn" id="3_x4v76"]
-[ext_resource type="Resource" uid="uid://u6l5g0sdnxhf" path="res://GUI/pause_menu/inventory/player_inventory.tres" id="4_cwt50"]
+[ext_resource type="Resource" uid="uid://djd6vwckdo4ya" path="res://GUI/pause_menu/inventory/player_inventory.tres" id="4_cwt50"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_41pjg"]
 atlas = ExtResource("2_6f15s")
@@ -81,11 +81,11 @@ autowrap_mode = 2
 [node name="PanelContainer" type="PanelContainer" parent="Control"]
 modulate = Color(0.9647059, 1, 1, 1)
 layout_mode = 0
-offset_left = 345.0
-offset_top = 83.0
-offset_right = 577.0
-offset_bottom = 149.14172
-scale = Vector2(2.54, 2.54)
+offset_left = 266.99994
+offset_top = 97.0
+offset_right = 698.4815
+offset_bottom = 206.87656
+scale = Vector2(1.62, 1.62)
 theme_override_styles/panel = SubResource("StyleBoxTexture_d3jqj")
 
 [node name="GridContainer" type="GridContainer" parent="Control/PanelContainer"]

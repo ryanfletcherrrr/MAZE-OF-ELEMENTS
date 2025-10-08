@@ -21,11 +21,11 @@ config/fullsize=true
 
 [autoload]
 
-LevelManager="*res://Scripts/GlobalLevelManager.gd"
-PlayerManager="*res://Scripts/PlayerManager.gd"
+LevelManager="*res://00_Global/GlobalLevelManager.gd"
+PlayerManager="*res://00_Global/PlayerManager.gd"
 SceneTransition="*res://GUI/scene_transition/scene_transition.tscn"
 PauseMenu="*res://GUI/pause_menu/pause_menu.tscn"
-PlayerApiTest="*res://Scripts/PlayerAPI_Test.gd"
+PlayerApiTest="*res://00_Global/PlayerAPI_Test.gd"
 
 [display]
 
@@ -41,7 +41,7 @@ project/assembly_name="MazeOfElement"
 
 [editor_plugins]
 
-enabled=PackedStringArray("res://addons/YATI/plugin.cfg")
+enabled=PackedStringArray()
 
 [input]
 
