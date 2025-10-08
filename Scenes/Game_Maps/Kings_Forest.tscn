@@ -18,7 +18,6 @@ position = Vector2(660, 208)
 
 [node name="Slime" parent="." instance=ExtResource("5_lvkpi")]
 position = Vector2(408, 155)
-Speed = 40.0
 
 [node name="DoorHome" parent="." instance=ExtResource("4_j3hjg")]
 position = Vector2(689, 199)

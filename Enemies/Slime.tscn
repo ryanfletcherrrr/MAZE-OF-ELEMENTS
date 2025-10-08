@@ -1,7 +1,11 @@
-[gd_scene load_steps=6 format=3 uid="uid://c6u2whroxa7ds"]
+[gd_scene load_steps=10 format=3 uid="uid://c6u2whroxa7ds"]
 
-[ext_resource type="Script" uid="uid://caertqig4soiw" path="res://Enemies/Scripts/Slime.cs" id="1_dytb0"]
+[ext_resource type="Script" uid="uid://lg3ll8a5vd8f" path="res://Enemies/Scripts/slime.gd" id="1_y5nn5"]
 [ext_resource type="SpriteFrames" uid="uid://c1qauhcs3seul" path="res://Resources/Enemies/Slime Bosses/BlueSlime.tres" id="2_y5nn5"]
+[ext_resource type="Script" uid="uid://ci7vbhw5sbm4e" path="res://Enemies/Scripts/slime_state_machine.gd" id="3_n6yhy"]
+[ext_resource type="Script" uid="uid://cldk47ispa86c" path="res://Enemies/Scripts/States/slime_idle_state.gd" id="4_h5g3x"]
+[ext_resource type="Script" uid="uid://drr41ym16cuuy" path="res://Enemies/Scripts/States/slime_attack_state.gd" id="5_r31qv"]
+[ext_resource type="Script" uid="uid://b8emcubg1oigf" path="res://Enemies/Scripts/States/slime_chase_state.gd" id="6_bp5ks"]
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_dytb0"]
 radius = 80.399
@@ -13,7 +17,7 @@ radius = 8.0
 size = Vector2(24, 24)
 
 [node name="Slime" type="CharacterBody2D"]
-script = ExtResource("1_dytb0")
+script = ExtResource("1_y5nn5")
 
 [node name="Enemy" type="AnimatedSprite2D" parent="."]
 scale = Vector2(0.75, 0.75)
@@ -50,6 +54,17 @@ offset_bottom = 4.8650303
 scale = Vector2(0.1, 0.1)
 show_percentage = false
 
-[connection signal="timeout" from="Timer" to="." method="OnIdleTimerTimeout"]
-[connection signal="body_entered" from="Detection" to="." method="BodyEntered"]
-[connection signal="body_exited" from="Detection" to="." method="BodyExit"]
+[node name="StateMachine" type="Node" parent="."]
+script = ExtResource("3_n6yhy")
+
+[node name="Idle" type="Node" parent="StateMachine"]
+script = ExtResource("4_h5g3x")
+
+[node name="Attack" type="Node" parent="StateMachine"]
+script = ExtResource("5_r31qv")
+
+[node name="Chase" type="Node" parent="StateMachine"]
+script = ExtResource("6_bp5ks")
+
+[connection signal="body_entered" from="Detection" to="." method="_on_detection_body_entered"]
+[connection signal="body_exited" from="Detection" to="." method="_on_detection_body_exited"]
