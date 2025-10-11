@@ -17,6 +17,7 @@ radius = 16.0
 [node name="Player2D" type="CharacterBody2D"]
 texture_filter = 1
 script = ExtResource("1_vtle1")
+character_sprite = ExtResource("2_k53q1")
 
 [node name="Camera2D" type="Camera2D" parent="."]
 zoom = Vector2(4, 4)

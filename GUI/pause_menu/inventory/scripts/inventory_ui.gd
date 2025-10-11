@@ -14,8 +14,8 @@ func _ready() -> void:
 	clear_inventory()
 	data.changed.connect( on_inventory_changed )
 	pass
-
-
+	
+	
 func clear_inventory() -> void:
 	for c in get_children():
 		c.queue_free()

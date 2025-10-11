@@ -1,25 +1,20 @@
 [gd_scene load_steps=8 format=3 uid="uid://bixe3b8rbbpv2"]
 
 [ext_resource type="Script" uid="uid://63uqels7770i" path="res://GUI/pause_menu/pause_menu.gd" id="1_uh5g0"]
-[ext_resource type="Texture2D" uid="uid://bmjan6873e3h5" path="res://Items/sprites/items.png" id="2_6f15s"]
+[ext_resource type="Texture2D" uid="uid://dav77lrjfbsq6" path="res://GUI_Builder/PanelContainer.tres" id="2_ewgu5"]
 [ext_resource type="Script" uid="uid://dxpaggg8d4jro" path="res://GUI/pause_menu/inventory/scripts/inventory_ui.gd" id="3_kwke8"]
 [ext_resource type="PackedScene" uid="uid://cvjmh0pvlulc1" path="res://GUI/pause_menu/inventory/inventory_slot.tscn" id="3_x4v76"]
 [ext_resource type="Resource" uid="uid://djd6vwckdo4ya" path="res://GUI/pause_menu/inventory/player_inventory.tres" id="4_cwt50"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_41pjg"]
-atlas = ExtResource("2_6f15s")
-region = Rect2(96, 0, 32, 32)
+atlas = ExtResource("2_ewgu5")
+region = Rect2(0.45995426, 0.051567078, 39.87186, 39.568924)
 
 [sub_resource type="StyleBoxTexture" id="StyleBoxTexture_d3jqj"]
-content_margin_left = 10.0
-content_margin_top = 10.0
-content_margin_right = 10.0
-content_margin_bottom = 10.0
+content_margin_left = 189.0
+content_margin_top = 94.0
+content_margin_right = 115.0
 texture = SubResource("AtlasTexture_41pjg")
-texture_margin_left = 14.0
-texture_margin_top = 14.0
-texture_margin_right = 14.0
-texture_margin_bottom = 14.0
 
 [node name="PauseMenu" type="CanvasLayer"]
 process_mode = 3
@@ -81,10 +76,10 @@ autowrap_mode = 2
 [node name="PanelContainer" type="PanelContainer" parent="Control"]
 modulate = Color(0.9647059, 1, 1, 1)
 layout_mode = 0
-offset_left = 266.99994
-offset_top = 97.0
-offset_right = 698.4815
-offset_bottom = 206.87656
+offset_left = -173.00003
+offset_top = 82.999985
+offset_right = 524.0
+offset_bottom = 251.99998
 scale = Vector2(1.62, 1.62)
 theme_override_styles/panel = SubResource("StyleBoxTexture_d3jqj")
 

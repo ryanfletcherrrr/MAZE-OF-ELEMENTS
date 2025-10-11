@@ -1,5 +1,4 @@
-extends Node
-class_name PlayerStateMachine
+class_name PlayerStateMachine extends Node
 
 # Array of States a player can have
 var state_list: Array[Node] = []

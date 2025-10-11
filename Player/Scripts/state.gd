@@ -1,5 +1,4 @@
-extends Node
-class_name StateBase
+class_name StateBase extends Node
 
 # Abstract class - blueprint for all states
 # Each state knows which Player it belongs to

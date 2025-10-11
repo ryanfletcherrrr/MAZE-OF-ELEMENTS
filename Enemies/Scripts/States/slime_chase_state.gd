@@ -14,7 +14,7 @@ func physics_update(delta: float):
 	if not enemy.has_target():
 		return state_machine.get_state("Idle")
 
-	var distance = enemy.distance_to_player()
+	var distance: float = enemy.distance_to_player()
 	var direction = (enemy.player.position - enemy.position).normalized()
 	enemy.last_direction = direction
 

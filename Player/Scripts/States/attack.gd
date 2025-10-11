@@ -15,7 +15,7 @@ func enter() -> void:
 
 	if animator:
 		# Play attack animation
-		var anim_name = get_attack_animation(player.last_direction)
+		var anim_name: String = get_attack_animation(player.last_direction)
 		if animator.sprite_frames.has_animation(anim_name):
 			animator.play(anim_name)
 
@@ -30,7 +30,7 @@ func enter() -> void:
 			# No animation, go back immediately
 			state_machine.change_state(state_machine.get_state("Walk"))
 
-func exit() -> void:
+func exit() -> void:                 
 	# Clean up timer
 	if attack_timer:
 		attack_timer.queue_free()

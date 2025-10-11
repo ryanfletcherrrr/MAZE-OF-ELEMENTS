@@ -43,6 +43,18 @@ project/assembly_name="MazeOfElement"
 
 enabled=PackedStringArray()
 
+[file_customization]
+
+folder_colors={
+"res://Assets/": "gray",
+"res://Enemies/": "red",
+"res://GUI/": "blue",
+"res://Items/": "pink",
+"res://Player/": "teal",
+"res://Resources/": "orange",
+"res://Scenes/": "purple"
+}
+
 [input]
 
 ui_left={
