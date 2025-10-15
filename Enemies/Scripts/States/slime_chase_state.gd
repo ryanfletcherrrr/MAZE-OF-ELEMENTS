@@ -18,11 +18,16 @@ func physics_update(delta: float):
 	var direction = (enemy.player.position - enemy.position).normalized()
 	enemy.last_direction = direction
 
-	if distance <= 16.0 and enemy.is_attack_ready():
+	if distance <= 20.0 and enemy.is_attack_ready():
 		return state_machine.get_state("Attack")
 
-	var target_velocity = direction * enemy.speed
-	enemy.velocity = enemy.velocity.lerp(target_velocity, 10.0 * delta)
+	# Stop moving when close, don't stick to player
+	if distance <= 20.0:
+		enemy.velocity = enemy.velocity.lerp(Vector2.ZERO, 15.0 * delta)
+	else:
+		var target_velocity = direction * enemy.speed
+		enemy.velocity = enemy.velocity.lerp(target_velocity, 10.0 * delta)
+
 	enemy.move_and_slide()
 	enemy.change_animation(direction)
 

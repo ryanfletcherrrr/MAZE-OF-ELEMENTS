@@ -1,0 +1,46 @@
+[gd_resource type="Theme" load_steps=6 format=3 uid="uid://biaig8uolqqqb"]
+
+[ext_resource type="Texture2D" uid="uid://53vsk7y3f0vx" path="res://GUI_Builder/Buttons.png" id="1_afekx"]
+
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_u75v3"]
+texture = ExtResource("1_afekx")
+texture_margin_left = 10.0
+texture_margin_top = 10.0
+texture_margin_right = 10.0
+texture_margin_bottom = 10.0
+region_rect = Rect2(275, 242, 26, 14)
+
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_afekx"]
+texture = ExtResource("1_afekx")
+texture_margin_left = 10.0
+texture_margin_top = 10.0
+texture_margin_right = 10.0
+texture_margin_bottom = 10.0
+region_rect = Rect2(211, 202, 26, 14)
+
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_2mo4p"]
+texture = ExtResource("1_afekx")
+texture_margin_left = 10.0
+texture_margin_top = 10.0
+texture_margin_right = 10.0
+texture_margin_bottom = 10.0
+region_rect = Rect2(243, 243, 26, 13)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_sn0kg"]
+content_margin_left = 0.0
+content_margin_top = 0.0
+content_margin_right = 0.0
+content_margin_bottom = 0.0
+bg_color = Color(0.1, 0.1, 0.1, 0.6)
+corner_radius_top_left = 3
+corner_radius_top_right = 3
+corner_radius_bottom_right = 3
+corner_radius_bottom_left = 3
+corner_detail = 5
+
+[resource]
+Button/styles/hover = SubResource("StyleBoxTexture_u75v3")
+Button/styles/normal = SubResource("StyleBoxTexture_afekx")
+Button/styles/pressed = SubResource("StyleBoxTexture_2mo4p")
+Panel/styles/panel = SubResource("StyleBoxFlat_sn0kg")
+PanelContainer/styles/panel = null

@@ -11,7 +11,6 @@ class_name Player
 @export var max_health: int = 100
 @export var current_health: int = 100
 @export var attack_damage: int = 25
-@export var attack_range: float = 48.0
 
 @export_category("Character Sprite (Level 1-9)")
 @export var character_sprite: SpriteFrames
@@ -29,6 +28,7 @@ var combat_component: Node
 var animator: AnimatedSprite2D
 
 # ========== COMPUTED PROPERTIES ==========
+
 var is_alive: bool:
 	get:
 		return current_health > 0
@@ -111,7 +111,7 @@ func perform_attack() -> void:
 func full_heal() -> void:
 	if health_component:
 		health_component.reset_health()
-		
+
 func can_attack() -> bool:
 	return is_alive and not is_attacking
 

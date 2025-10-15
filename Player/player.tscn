@@ -17,6 +17,7 @@ radius = 16.0
 [node name="Player2D" type="CharacterBody2D"]
 texture_filter = 1
 script = ExtResource("1_vtle1")
+attack_damage = 2
 character_sprite = ExtResource("2_k53q1")
 
 [node name="Camera2D" type="Camera2D" parent="."]
@@ -38,10 +39,10 @@ animation = &"idle_down"
 
 [node name="HealthBar" type="ProgressBar" parent="."]
 modulate = Color(0, 18.892157, 4.8767896, 1)
-offset_left = -7.785
-offset_top = -15.98
-offset_right = 139.50499
-offset_bottom = 12.685032
+offset_left = -7.0
+offset_top = -15.0
+offset_right = 140.29
+offset_bottom = 13.665031
 scale = Vector2(0.1, 0.1)
 show_percentage = false
 

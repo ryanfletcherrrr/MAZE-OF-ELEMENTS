@@ -89,10 +89,13 @@ func _on_attack_hitbox_body_entered(body: Node2D) -> void:
 
 	# Only damage enemies (CharacterBody2D enemies)
 	if body != player and body.has_method("take_damage"):
-		body.call("take_damage", player.attack_damage)
+		# Check if enemy is within attack range
+		var distance = player.global_position.distance_to(body.global_position)
+		if distance <= 40.0:  # Attack range in pixels
+			body.call("take_damage", player.attack_damage)
 
-		# Visual feedback
-		create_attack_effect(body.global_position)
+			# Visual feedback
+			create_attack_effect(body.global_position)
 
 func _on_attack_hitbox_area_entered(area: Area2D) -> void:
 	if not player.is_alive:
@@ -101,10 +104,13 @@ func _on_attack_hitbox_area_entered(area: Area2D) -> void:
 	# Check if the area's parent is an enemy (for Area2D-based enemies)
 	var enemy = area.get_parent()
 	if enemy and enemy != player and enemy.has_method("take_damage"):
-		enemy.call("take_damage", player.attack_damage)
+		# Check if enemy is within attack range
+		var distance = player.global_position.distance_to(enemy.global_position)
+		if distance <= 40.0:  # Attack range in pixels
+			enemy.call("take_damage", player.attack_damage)
 
-		# Visual feedback
-		create_attack_effect(enemy.global_position)
+			# Visual feedback
+			create_attack_effect(enemy.global_position)
 
 func _on_player_hitbox_body_entered(_body: Node2D) -> void:
 	# Detection only - damage comes from enemy attacks

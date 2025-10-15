@@ -1,7 +1,5 @@
 extends Node
 
-
-
 @onready var PLAYER = preload("res://Player/player.tscn")
 const INVENTORY_DATA : InventoryData = preload("res://GUI/pause_menu/inventory/player_inventory.tres")
 
@@ -9,7 +7,6 @@ const INVENTORY_DATA : InventoryData = preload("res://GUI/pause_menu/inventory/p
 
 var player_spawned : bool = false
 var player : Player
-
 
 
 func _ready() -> void:
@@ -40,3 +37,4 @@ func set_as_parent( _p : Node2D ) -> void:
 func unparent_player( _p : Node2D ) -> void:
 	if player.get_parent() == _p:
 		_p.remove_child( player )
+

@@ -89,8 +89,9 @@ func legacy_physics_process(delta: float) -> void:
 		var direction_to_player = (player.position - position).normalized()
 		last_direction = direction_to_player
 
-		if dist_to_player <= 16.0:
-			velocity = Vector2.ZERO
+		# Stop at attack range, don't stick to player
+		if dist_to_player <= 20.0:
+			velocity = velocity.lerp(Vector2.ZERO, 15.0 * delta)
 		else:
 			var target_velocity = direction_to_player * speed
 			velocity = velocity.lerp(target_velocity, 10.0 * delta)
@@ -99,8 +100,8 @@ func legacy_physics_process(delta: float) -> void:
 		if animation_component:
 			animation_component.change_animation(direction_to_player)
 
-		# Contact damage if ready
-		if dist_to_player <= 16.0 and combat_component and combat_component.is_attack_ready():
+		# Contact damage if ready and in range
+		if dist_to_player <= 20.0 and combat_component and combat_component.is_attack_ready():
 			combat_component.deal_contact_damage()
 	else:
 		velocity = velocity.lerp(Vector2.ZERO, 8.0 * delta)

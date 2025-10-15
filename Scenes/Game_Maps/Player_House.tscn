@@ -1,9 +1,11 @@
-[gd_scene load_steps=5 format=3 uid="uid://dgdva1dfiyh1q"]
+[gd_scene load_steps=7 format=3 uid="uid://dgdva1dfiyh1q"]
 
 [ext_resource type="Script" uid="uid://ppfcahy05kb4" path="res://Scenes/Scripts/level.gd" id="1_1540h"]
 [ext_resource type="PackedScene" uid="uid://bbr40yxyc51fx" path="res://Scenes/Maps_STILL/player_housetscn.tscn" id="2_qoi10"]
 [ext_resource type="PackedScene" uid="uid://bcxpdce1xuvbr" path="res://Scenes/core_scenes/playerspawn.tscn" id="3_tvoeu"]
 [ext_resource type="PackedScene" uid="uid://bygm71re1fvnm" path="res://Scenes/core_scenes/LevelTransition.tscn" id="4_qoi10"]
+[ext_resource type="PackedScene" uid="uid://duev75icmoed3" path="res://NPC/NPC.tscn" id="5_tvoeu"]
+[ext_resource type="PackedScene" uid="uid://l3nlcsf58inn" path="res://NPC/npc_behaviour.tscn" id="6_xggfn"]
 
 [node name="Map1" type="Node2D"]
 y_sort_enabled = true
@@ -33,3 +35,14 @@ position = Vector2(432, 210)
 level = "uid://br0g3dkf6ua46"
 target_transition_area = "ToDungeon"
 size = 1
+
+[node name="Npc" parent="." instance=ExtResource("5_tvoeu")]
+position = Vector2(241, 228)
+collision_layer = 1
+
+[node name="NpcBehaviour" parent="Npc" instance=ExtResource("6_xggfn")]
+position = Vector2(0, -1)
+wander_range = 1
+wander_speed = 40.0
+wander_duration = 5.0
+idle_duration = 2.0

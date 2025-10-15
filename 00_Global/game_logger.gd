@@ -40,4 +40,3 @@ func error(message: String) -> void:
 		var formatted := "[ERROR: %s] : %s" % [_get_timestamp(), message]
 		push_error(formatted)
 		print(formatted)
-

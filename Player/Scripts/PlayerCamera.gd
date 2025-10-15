@@ -1,6 +1,7 @@
 class_name  PlayerCamera extends Camera2D
 
 
+
 func _ready():
 	# Ensure this camera becomes active and centers on the player
 	make_current()

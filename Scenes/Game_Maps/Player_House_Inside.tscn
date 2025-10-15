@@ -9,13 +9,13 @@
 script = ExtResource("1_6o5ad")
 
 [node name="Interior1" parent="." instance=ExtResource("2_drdyg")]
-position = Vector2(282, 93)
+position = Vector2(274, 161)
 
 [node name="Playerspawn" parent="." instance=ExtResource("3_drdyg")]
-position = Vector2(307, 179)
+position = Vector2(299, 247)
 
 [node name="DoorInside" parent="." instance=ExtResource("4_qm1y3")]
-position = Vector2(305, 191)
+position = Vector2(297, 259)
 level = "uid://dgdva1dfiyh1q"
 target_transition_area = "DoorOutside"
 size = 1

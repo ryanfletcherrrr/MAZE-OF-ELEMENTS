@@ -1,4 +1,5 @@
-class_name InventoryUI extends Control
+class_name InventoryUI
+extends GridContainer
 
 const INVENTORY_SLOT = preload("res://GUI/pause_menu/inventory/inventory_slot.tscn")
 
@@ -14,8 +15,8 @@ func _ready() -> void:
 	clear_inventory()
 	data.changed.connect( on_inventory_changed )
 	pass
-	
-	
+
+
 func clear_inventory() -> void:
 	for c in get_children():
 		c.queue_free()
@@ -27,7 +28,7 @@ func update_inventory( i : int = 0 ) -> void:
 		add_child( new_slot )
 		new_slot.slot_data = s
 		new_slot.focus_entered.connect( item_focused )
-	
+
 	await get_tree().process_frame
 	get_child( i ).grab_focus()
 
@@ -44,4 +45,3 @@ func on_inventory_changed() -> void:
 	var i = focus_index
 	clear_inventory()
 	update_inventory( i )
-	

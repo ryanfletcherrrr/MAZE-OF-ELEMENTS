@@ -4232,6 +4232,7 @@ sources/19 = SubResource("TileSetAtlasSource_c02db")
 sources/20 = SubResource("TileSetAtlasSource_fyydu")
 
 [node name="Dungeon3" type="TileMapLayer"]
+position = Vector2(448, 98)
 script = ExtResource("1_ceuxg")
 
 [node name="Water" type="TileMapLayer" parent="."]

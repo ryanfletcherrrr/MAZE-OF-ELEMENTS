@@ -25,7 +25,6 @@ LevelManager="*res://00_Global/GlobalLevelManager.gd"
 PlayerManager="*res://00_Global/PlayerManager.gd"
 SceneTransition="*res://GUI/scene_transition/scene_transition.tscn"
 PauseMenu="*res://GUI/pause_menu/pause_menu.tscn"
-PlayerApiTest="*res://00_Global/PlayerAPI_Test.gd"
 
 [display]
 
@@ -41,7 +40,7 @@ project/assembly_name="MazeOfElement"
 
 [editor_plugins]
 
-enabled=PackedStringArray()
+enabled=PackedStringArray("res://addons/YATI-e1e427111f4c9acb900e34826ecac8f33daccca0/GDScript/addons/YATI/plugin.cfg")
 
 [file_customization]
 

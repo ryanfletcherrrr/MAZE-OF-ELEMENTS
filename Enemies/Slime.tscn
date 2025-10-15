@@ -22,7 +22,7 @@ script = ExtResource("1_y5nn5")
 [node name="Enemy" type="AnimatedSprite2D" parent="."]
 scale = Vector2(0.75, 0.75)
 sprite_frames = ExtResource("2_y5nn5")
-animation = &"walk_up"
+animation = &"death_down"
 offset = Vector2(0, -6)
 
 [node name="Timer" type="Timer" parent="."]

@@ -1,5 +1,8 @@
 extends Node
 
+# Author Scara
+# Global Level manager to handle level transactions and set player camera limit for each level
+
 # Signals
 signal tilemap_bounds_changed(bounds: Array[Vector2])
 signal level_load_started
