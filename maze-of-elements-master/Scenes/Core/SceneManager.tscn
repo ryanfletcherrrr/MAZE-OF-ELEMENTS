@@ -1,0 +1,49 @@
+[gd_scene load_steps=4 format=3 uid="uid://bm7na6f6qon2d"]
+
+[ext_resource type="PackedScene" uid="uid://pih47cqe7sl" path="res://Scenes/Maps/Heaven.tscn" id="1_q2uu3"]
+[ext_resource type="PackedScene" uid="uid://cgh7x2o4w8tfm" path="res://Player/player.tscn" id="2_ccxyy"]
+[ext_resource type="SpriteFrames" uid="uid://1lbd4fgo22ao" path="res://Resources/Character/LevelSprites/Level9.tres" id="3_g6irt"]
+
+[node name="GameManager" type="Node"]
+
+[node name="Control" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -8.0
+offset_top = -24.0
+offset_right = 3464.0
+offset_bottom = 1952.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="SubViewportContainer" type="SubViewportContainer" parent="Control"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -40.0
+offset_top = -24.0
+offset_right = -2744.0
+offset_bottom = -1568.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="SubViewport" type="SubViewport" parent="Control/SubViewportContainer"]
+handle_input_locally = false
+size = Vector2i(1920, 1080)
+size_2d_override = Vector2i(1920, 1080)
+size_2d_override_stretch = true
+render_target_update_mode = 4
+
+[node name="Flying_islands" parent="Control/SubViewportContainer/SubViewport" instance=ExtResource("1_q2uu3")]
+position = Vector2(208, 224)
+
+[node name="Player2D" parent="." instance=ExtResource("2_ccxyy")]
+position = Vector2(560, 472)
+CHARACTER_SPRITE = ExtResource("3_g6irt")
+
+[node name="Player2D" parent="Player2D" instance=ExtResource("2_ccxyy")]
+position = Vector2(560, 472)
+CHARACTER_SPRITE = ExtResource("3_g6irt")

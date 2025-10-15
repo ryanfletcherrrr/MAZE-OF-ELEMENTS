@@ -1,0 +1,23 @@
+[remap]
+
+importer="YATI"
+type="PackedScene"
+uid="uid://caw732up0m65c"
+path="res://.godot/imported/Exterior ΓÇö ╨║╨╛╨┐╨╕╤Å.tmx-80b0250e89dab71cc984d8ac470e1e29.tscn"
+
+[deps]
+
+source_file="res://Resources/Tiles/House/Tiled_files/Exterior ΓÇö ╨║╨╛╨┐╨╕╤Å.tmx"
+dest_files=["res://.godot/imported/Exterior ΓÇö ╨║╨╛╨┐╨╕╤Å.tmx-80b0250e89dab71cc984d8ac470e1e29.tscn"]
+
+[params]
+
+use_default_filter=false
+add_class_as_metadata=false
+add_id_as_metadata=false
+no_alternative_tiles=false
+map_wangset_to_terrain=false
+custom_data_prefix="data_"
+tiled_project_file=""
+post_processor=""
+save_tileset_to=""
