@@ -1,5 +1,7 @@
 extends Node
 
+signal interact_pressed
+
 @onready var PLAYER = preload("res://Player/player.tscn")
 const INVENTORY_DATA : InventoryData = preload("res://GUI/pause_menu/inventory/player_inventory.tres")
 
@@ -14,6 +16,14 @@ func _ready() -> void:
 	add_player_instance()
 	await get_tree().create_timer(0.2).timeout
 	player_spawned = true
+
+
+func _unhandled_input(event: InputEvent) -> void:
+	if event.is_action_pressed("interact"):
+		print("DEBUG PlayerManager: E key pressed, emitting interact_pressed signal")
+		interact_pressed.emit()
+		get_viewport().set_input_as_handled()
+
 
 func update_hp( _amount : int ) -> void:
 	player.full_heal()

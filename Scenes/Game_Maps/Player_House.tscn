@@ -1,4 +1,4 @@
-[gd_scene load_steps=7 format=3 uid="uid://dgdva1dfiyh1q"]
+[gd_scene load_steps=9 format=3 uid="uid://dgdva1dfiyh1q"]
 
 [ext_resource type="Script" uid="uid://ppfcahy05kb4" path="res://Scenes/Scripts/level.gd" id="1_1540h"]
 [ext_resource type="PackedScene" uid="uid://bbr40yxyc51fx" path="res://Scenes/Maps_STILL/player_housetscn.tscn" id="2_qoi10"]
@@ -6,6 +6,8 @@
 [ext_resource type="PackedScene" uid="uid://bygm71re1fvnm" path="res://Scenes/core_scenes/LevelTransition.tscn" id="4_qoi10"]
 [ext_resource type="PackedScene" uid="uid://duev75icmoed3" path="res://NPC/NPC.tscn" id="5_tvoeu"]
 [ext_resource type="PackedScene" uid="uid://l3nlcsf58inn" path="res://NPC/npc_behaviour.tscn" id="6_xggfn"]
+[ext_resource type="PackedScene" uid="uid://cr7ssgpuoumx2" path="res://Interaction/dialog/interaction.tscn" id="7_lhqyq"]
+[ext_resource type="Script" uid="uid://brxr21d4rlkbe" path="res://Interaction/dialog/scripts/dialog_text.gd" id="8_5plhi"]
 
 [node name="Map1" type="Node2D"]
 y_sort_enabled = true
@@ -15,7 +17,7 @@ script = ExtResource("1_1540h")
 position = Vector2(-1, -3)
 
 [node name="Playerspawn" parent="." instance=ExtResource("3_tvoeu")]
-position = Vector2(59, 249)
+position = Vector2(53, 249)
 
 [node name="DoorOutside" parent="." instance=ExtResource("4_qoi10")]
 position = Vector2(240, 144)
@@ -37,12 +39,23 @@ target_transition_area = "ToDungeon"
 size = 1
 
 [node name="Npc" parent="." instance=ExtResource("5_tvoeu")]
-position = Vector2(241, 228)
-collision_layer = 1
+position = Vector2(235, 162)
 
 [node name="NpcBehaviour" parent="Npc" instance=ExtResource("6_xggfn")]
-position = Vector2(0, -1)
+position = Vector2(2, -5)
 wander_range = 1
 wander_speed = 40.0
 wander_duration = 5.0
 idle_duration = 2.0
+
+[node name="DialogInteraction" parent="Npc" instance=ExtResource("7_lhqyq")]
+
+[node name="DialogText" type="Node" parent="Npc/DialogInteraction"]
+script = ExtResource("8_5plhi")
+text = "Hello welcome mums out in the shopping yard"
+metadata/_custom_type_script = "uid://brxr21d4rlkbe"
+
+[node name="DialogText2" type="Node" parent="Npc/DialogInteraction"]
+script = ExtResource("8_5plhi")
+text = "You should go visit her "
+metadata/_custom_type_script = "uid://brxr21d4rlkbe"

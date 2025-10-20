@@ -13,6 +13,7 @@ var has_reversed : bool = false
 
 
 
+
 func _ready() -> void:
 	if Engine.is_editor_hint():
 		return
@@ -25,6 +26,11 @@ func _ready() -> void:
 func _process(_delta: float) -> void:
 	if Engine.is_editor_hint():
 		return
+
+	# Only check boundaries during walk state
+	if npc.state != "walk":
+		return
+
 	var dist = npc.global_position.distance_to(original_position)
 	if dist > wander_range * 32:
 		# Only reverse once when crossing the boundary
@@ -48,6 +54,11 @@ func start() -> void:
 	npc.velocity = Vector2.ZERO
 	npc.update_animation()
 	await get_tree().create_timer( randf() * idle_duration + idle_duration * 0.5 ).timeout
+
+	# Check if behavior is still enabled after waiting
+	if npc.do_behavior == false:
+		return
+
 	# WALK PHASE
 	npc.state = "walk"
 	var _dir : Vector2 = DIRECTIONS[ randi_range(0,3) ]
@@ -57,6 +68,7 @@ func start() -> void:
 	npc.update_animation()
 	has_reversed = false  # Reset when starting a new walk phase
 	await get_tree().create_timer( randf() * wander_duration + wander_duration * 0.5 ).timeout
+
 	# REPEAT
 	if npc.do_behavior == false:
 		return

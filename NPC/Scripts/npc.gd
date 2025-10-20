@@ -24,7 +24,15 @@ func _ready() -> void:
 
 
 func _physics_process(_delta: float) -> void:
-	move_and_slide()
+	# Use move_and_collide for NPCs to avoid sliding behavior
+	# This gives us more control over collision response
+	if velocity.length() > 0:
+		var collision = move_and_collide(velocity * _delta)
+		if collision:
+			# Stop moving when hitting something (player or wall)
+			velocity = Vector2.ZERO
+			state = "idle"
+			update_animation()
 
 
 func update_animation() -> void:
