@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://wef0hv61q76d"]
+
+[ext_resource type="AudioStream" uid="uid://bo002i7gr0c1r" path="res://Assets/Music/medieval-background-351307.mp3" id="1_hesrp"]
+
+[node name="Musicplayer" type="AudioStreamPlayer"]
+stream = ExtResource("1_hesrp")
+volume_db = -25.285
+autoplay = true
