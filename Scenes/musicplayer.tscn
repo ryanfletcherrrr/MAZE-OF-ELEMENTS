@@ -3,6 +3,8 @@
 [ext_resource type="AudioStream" uid="uid://bo002i7gr0c1r" path="res://Assets/Music/medieval-background-351307.mp3" id="1_hesrp"]
 
 [node name="Musicplayer" type="AudioStreamPlayer"]
+autoplay = true
+
+[node name="AudioStreamPlayer2D" type="AudioStreamPlayer2D" parent="."]
 stream = ExtResource("1_hesrp")
-volume_db = -25.285
 autoplay = true

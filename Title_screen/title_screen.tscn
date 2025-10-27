@@ -1,0 +1,42 @@
+[gd_scene load_steps=4 format=3 uid="uid://bxsdygdgk3sp3"]
+
+[ext_resource type="PackedScene" uid="uid://cboeem187ek5k" path="res://Title_screen/Title.tscn" id="1_v5usc"]
+[ext_resource type="Script" uid="uid://32u0gqeige27" path="res://Scenes/Scripts/LevelTileMapLayer.gd" id="2_7j1xj"]
+[ext_resource type="FontFile" uid="uid://ufo0hj0jkl1o" path="res://GUI/fonts/Abaddon Light.ttf" id="3_hbint"]
+
+[node name="Node2D" type="TileMapLayer"]
+script = ExtResource("2_7j1xj")
+
+[node name="Dungeon1" parent="." instance=ExtResource("1_v5usc")]
+position = Vector2(271, 34)
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
+
+[node name="Control" type="Control" parent="CanvasLayer"]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="ColorRect" type="ColorRect" parent="CanvasLayer/Control"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -28.0
+offset_top = -47.0
+offset_right = 538.0
+offset_bottom = 363.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(0, 0, 0, 0.6313726)
+
+[node name="Button" type="Button" parent="CanvasLayer/Control"]
+layout_mode = 0
+offset_left = 105.0
+offset_top = 195.0
+offset_right = 490.0
+offset_bottom = 292.0
+theme_override_fonts/font = ExtResource("3_hbint")
+theme_override_font_sizes/font_size = 50
+text = "New Game"

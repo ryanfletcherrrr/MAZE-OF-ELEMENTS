@@ -20,7 +20,6 @@ func _ready() -> void:
 
 func _unhandled_input(event: InputEvent) -> void:
 	if event.is_action_pressed("interact"):
-		print("DEBUG PlayerManager: E key pressed, emitting interact_pressed signal")
 		interact_pressed.emit()
 		get_viewport().set_input_as_handled()
 

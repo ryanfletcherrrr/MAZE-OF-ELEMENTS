@@ -113,13 +113,15 @@ Professional dialog system with:
 
 ## Development Notes
 
-This game was built using modern Godot practices including:
+This game was built **from scratch** using modern Godot practices including:
 
 - Autoload singletons for global managers
 - Signal-based communication between systems
 - Component architecture for reusable logic
 - State machines for complex behavior
 - Resource-based data storage
+
+All code, systems, and game mechanics were implemented by the development team over the course of one semester.
 
 ## Known Issues & Future Improvements
 

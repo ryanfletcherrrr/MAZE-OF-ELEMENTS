@@ -26,6 +26,7 @@ PlayerManager="*res://00_Global/PlayerManager.gd"
 SceneTransition="*res://GUI/scene_transition/scene_transition.tscn"
 PauseMenu="*res://GUI/pause_menu/pause_menu.tscn"
 Dialog="*res://GUI/dialog_system/dialog.tscn"
+Musicplayer="*res://Scenes/musicplayer.tscn"
 
 [display]
 
