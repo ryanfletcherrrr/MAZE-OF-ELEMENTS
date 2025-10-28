@@ -1,9 +1,5 @@
 extends Node
 
-# Simple GDScript Logger to replace C# GameLogger
-# Add this as an autoload in Project Settings → Autoload
-# Name: GameLogger
-# Path: res://Scripts/game_logger.gd
 
 enum LogLevel {
 	DEBUG,

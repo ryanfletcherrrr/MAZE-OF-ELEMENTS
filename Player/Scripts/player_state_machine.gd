@@ -1,12 +1,10 @@
+## Manages player state transitions using the State pattern.
+## Coordinates between different states (Idle, Walk, Attack) by calling
+## their lifecycle methods and handling transitions.
 class_name PlayerStateMachine extends Node
 
-# Array of States a player can have
 var state_list: Array[Node] = []
-
-# Previous state of the player
 var previous_state: Node = null
-
-# Current state of the player
 var current_state: Node = null
 
 func _ready() -> void:
@@ -36,9 +34,11 @@ func _unhandled_input(event: InputEvent) -> void:
 	if next and next != current_state:
 		change_state(next)
 
+## Initializes the state machine with the player reference.
+## Discovers child state nodes, attaches player to each, and starts first state.
 func initialize(player: CharacterBody2D) -> void:
 	if not player:
-		print("Initialize called with null player")
+		push_error("PlayerStateMachine.initialize() called with null player")
 		return
 
 	if current_state:
@@ -46,25 +46,29 @@ func initialize(player: CharacterBody2D) -> void:
 
 	state_list.clear()
 	for child in get_children():
-		if child.has_method("enter"):  # Duck typing for State
+		if child.has_method("enter"):
 			state_list.append(child)
 
 	if state_list.is_empty():
-		print("PlayerStateMachine has no child State nodes.")
+		push_error("PlayerStateMachine has no child State nodes")
 		return
 
-	# Attach references to all states
-	for s in state_list:
-		s.player = player
-		s.state_machine = self
+	for state in state_list:
+		state.player = player
+		state.state_machine = self
 
 	change_state(state_list[0])
-	process_mode = Node.PROCESS_MODE_INHERIT  # enable processing
+	process_mode = Node.PROCESS_MODE_INHERIT
 
+## Transitions to a new state with validation.
+## Calls exit() on current state, then enter() on new state.
 func change_state(new_state: Node) -> void:
-	# Check if the states are valid if not exit
 	if not new_state:
-		print("Attempted to change to null state")
+		push_error("Attempted to change to null state")
+		return
+
+	if not new_state in state_list:
+		push_error("State %s is not registered in state_list" % new_state.name)
 		return
 
 	if new_state == current_state:
@@ -77,15 +81,9 @@ func change_state(new_state: Node) -> void:
 	current_state = new_state
 	current_state.enter()
 
-# Generic helper for states to request another state instance
+## Returns state instance by name for state transitions.
 func get_state(state_name: String) -> Node:
 	for state in state_list:
 		if state.name == state_name:
-			return state
-	return null
-
-func get_state_by_type(state_type: String) -> Node:
-	for state in state_list:
-		if state.get_script().resource_path.get_file().get_basename() == state_type:
 			return state
 	return null
